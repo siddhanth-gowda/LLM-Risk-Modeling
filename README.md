@@ -112,10 +112,6 @@ Step 3: Build final dataset
 Step 4: Train models
 
 ---
-
-Author: Siddhanth Gowda
-
----
 ## Author
 
 Siddhanth Gowda
