@@ -1,0 +1,2257 @@
+Monetary Policy Report
+OCTOBER 2016
+Reserve Bank of India
+Mumbai
+MONETARY POLICY REPORT OCTOBER 2016
+Contents
+Chapter I: Macroeconomic Outlook 1
+I.1 : The Outlook for Infl ation 2
+I.2 : The Outlook for Growth 5
+I.3 : Balance of Risks 7
+Box I.1: Nowcasting Economic Activity 7
+Chapter II: Prices and Costs 10
+II.1 : Consumer Prices 10
+II.2 : Drivers of Infl ation 11
+II.3 : Costs 15
+Box II.1: Infl ation Impact of GST – Cross-country Evidence 17
+Chapter III: Demand and Output 19
+III.1 : Aggregate Demand 19
+III.2 : Aggregate Supply 23
+III.3 : Output Gap 26
+Chapter IV: Financial Markets and Liquidity Conditions 27
+IV.1 : Financial Markets 27
+IV.2 : Liquidity Conditions and the Operating Procedure of Monetary Policy 34
+Box IV.1: Basel III Liquidity Coverage Ratio and the Operating Target of
+Monetary Policy 29
+Box IV.2: Transmission under the BPLR, Base Rate and MCLR Regimes 33
+Chapter V: External Environment 36
+V.1 : Global Economic Conditions 36
+V.2 : Commodity Prices and Global Infl ation 38
+V.3 : Monetary Policy Stance 40
+V.4 : Global Financial Markets 41
+Box V.1: Exchange Rate and Commodity Prices Pass-through to Infl ation in EMEs 39
+iii
+MONETARY POLICY REPORT OCTOBER 2016
+ABBREVIATIONS
+ADs - Authorised Dealers DISCOMs - Distribution Companies
+AEs - Advanced Economies ECB - European Central Bank
+ANOVA - Analysis of Variance EMDEs - Emerging Market and Developing
+Economies
+ARCs - Asset Reconstruction Companies
+EMEs - Emerging Market Economies
+BBL - Barrel
+ERPT - Exchange Rate Pass-through
+BE - Budget Estimates
+ETF - Exchange Traded Funds
+BK - Baxter-King
+FAO - Food and Agriculture Organisation
+BPLR - Benchmark Prime Lending Rate
+FCNR(B) - Foreign Currency Non-Resident (Bank)
+bps - Basis Points
+FDI - Foreign Direct Investment
+BSE - Bombay Stock Exchange
+FICCI - Federation of Indian Chambers of
+CACP - Commission for Agricultural Costs and
+Commerce and Industry
+Prices
+FIMMDA - Fixed Income Money Market and
+CBLO - Collateralised Borrowing and Lending
+Derivatives Association of India
+Obligation
+FOMC - Federal Open Market Committee
+CCEA - Cabinet Committee on Economic Affairs
+FPIs - Foreign Portfolio Investors
+CD - Certifi cate of Deposit
+FR - Fixed Rate
+CF - Christiano-Fitzgerald
+FY - Financial Year
+CGA - Controller General of Accounts
+GDP - Gross Domestic Product
+CI - Confi dence Interval
+GFCE - Government Final Consumption
+CII - Confederation of Indian Industry
+Expenditure
+CMIE - Centre for Monitoring Indian Economy
+GFD - Gross Fiscal Defi cit
+CP - Commercial Paper
+GMM - Generalised Method of Moments
+CPB - Central Planning Bureau
+GNDI - Gross National Disposable Income
+CPC - Central Pay Commission
+GNPA - Gross Non-Performing Assets
+CPI - Consumer Price Index
+GoI - Government of India
+CPI-AL - Consumer Price Index - Agricultural
+G-Sec - Government Security
+Labourers
+GST - Goods and Services Tax
+CPI-IW - Consumer Price Index - Industrial
+GVA - Gross Value Added
+Workers
+H1 - First Half of the Year
+CPI-RL - Consumer Price Index - Rural Labourers
+H2 - Second Half of the Year
+CRAR - Capital to Risk Weighted Asset Ratio
+HP - Hodrick-Prescott
+CRR - Cash Reserve Ratio
+HQLA - High Quality Liquid Asset
+CSO - Central Statistics Offi ce
+HRA - House Rent Allowance
+CVD - Countervailing Duty
+IIP - Index of Industrial Production
+DFM - Dynamic Factor Model
+IMF - International Monetary Fund
+DGCI&S - Directorate General of Commercial
+Intelligence and Statistics INR - Indian Rupee
+v
+MONETARY POLICY REPORT OCTOBER 2016
+IOS - Industrial Outlook Survey PMI - Purchasing Managers’ Index
+IPO - Initial Public Offering POL - Petroleum, Oil and Lubricants
+IRC - Insulated Rubber Cables PPA - Power Purchase Agreement
+kWh - kiloWatt hour PPAC - Petroleum Planning & Analysis Cell
+LAF - Liquidity Adjustment Facility PRN - Production Weighted Rainfall
+LCR - Liquidity Coverage Ratio PSB - Public Sector Bank
+LPA - Long Period Average PSU - Public Sector Undertaking
+LPG - Liquefi ed Petroleum Gas Q - Quarter
+MCLR - Marginal Cost of Funds Based Lending q-o-q - Quarter-on-Quarter
+Rate
+RBI - Reserve Bank of India
+m-o-m - Month-on-Month
+REER - Real Effective Exchange Rate
+MPC - Monetary Policy Committee
+RHS - Right Hand Side
+MPR - Monetary Policy Report
+RMSE - Root Mean Square Error
+MSCI - Morgan Stanley Capital International
+RNR - Revenue Neutral Rate
+MSF - Marginal Standing Facility
+RW - Random Walk
+MSP - Minimum Support Price
+SAAR - Seasonally Adjusted Annualised Rate
+MTEF - Medium Term Expenditure Framework
+SCB - Scheduled Commercial Bank
+NCAER - National Council of Applied Economic
+Research SD - Standard Deviation
+NDS-OM - Negotiated Dealing System – Order SEBI - Securities and Exchange Board of India
+Matching
+SLR - Statutory Liquidity Ratio
+NDTL - Net Demand and Time Liabilities
+UDAY - Ujwal DISCOM Assurance Yojana
+NEER - Nominal Effective Exchange Rate
+UK - United Kingdom
+OD - Overdraft
+US - United States
+OECD - Organisation for Economic Co-operation
+US$ - Unites States Dollar
+and Development
+VAR - Vector Auto Regression
+OMCs - Oil Marketing Companies
+VDA - Variable Dearness Allowance
+OMOs - Open Market Operations
+VR - Variable Rate
+OPEC - Organisation of the Petroleum Exporting
+Countries WACR - Weighted Average Call Money Rate
+OROP - One Rank One Pension WALR - Weighted Average Lending Rate
+OTC - Over the Counter WMA - Ways and Means Advances
+PE - Price-to-Earnings WPI - Wholesale Price Index
+PF - Production Function WTO - World Trade Organisation
+PFCE - Private Final Consumption Expenditure y-o-y - Year-on-Year
+vi
+MONETARY POLICY REPORT OCTOBER 2016
+I. Macroeconomic Outlook
+The inflation outlook for 2016-17 has improved, but beyond, close vigilance is required to achieve the prospects of
+reaching 4 per cent i.e., the centre of the target band. Robust consumption brightens the outlook for real gross value
+added (GVA) in 2016-17, but muted private investment and weak global demand may restrain the pace of growth
+in 2017-18.
+Amendments to the Reserve Bank of India (RBI)
+Table I.1: Monetary Policy Meetings and
+Act, which came into force on June 27, 2016 will Press Conferences
+empower the conduct of monetary policy in India.
+Name of the Central Bank/ Number of Number
+For the fi rst time in its history, the RBI has been Monetary Authority Monetary of Press
+explicitly provided the legislative mandate to operate Policy Conferences
+Meetings in a Year
+the monetary policy framework of the country. The in a Year
+primary objective of monetary policy has also been
+Bank of England 8 4 (a)
+defi ned explicitly for the fi rst time – “to maintain
+US Federal Reserve 8 4
+price stability while keeping in mind the objective Bank of Canada 8 4
+of growth.” The amendments also provide for the Reserve Bank of New Zealand 7 4
+Bank of Israel 12 4
+constitution of a monetary policy committee (MPC)
+(8 from 2017)
+that shall determine the policy rate required to achieve Bank of Russia 8 4
+the infl ation target, another landmark in India’s Central Bank of the Republic of Turkey 12 4 (b)
+monetary history. The composition of the MPC, Bank Indonesia 12 4
+Banco Central Do Brasil 8 4 (c)
+terms of appointment, information fl ows and other
+European Central Bank 8 8
+procedural requirements such as implementation
+Norges Bank 6 6
+of and publication of its decisions, and failure to Bank of Japan 8 8
+maintain the infl ation target as well as remedial Bank of Korea 12 12
+South African Reserve Bank 6 6
+actions have been specifi ed and subsequently
+Czech National Bank 8 8
+gazetted. On August 5, 2016 the Government set out
+Notes:
+the infl ation target as four per cent with upper and
+(a) : Infl ation Report press conference.
+lower tolerance levels of six per cent and two per (b) : Governor’s speech/presentation at the briefi ng on the Infl ation Report.
+(c) : Presentation by central bank director at the quarterly Infl ation Report.
+cent, respectively. Source: Central Bank websites.
+The Government and the RBI have constituted the
+six member MPC. All conditions are, therefore, in Chapters II and III compare infl ation and growth
+place for the MPC to take its fi rst decision on October outcomes with the April 2016 forecasts and drill
+4 under the Reserve Bank’s fourth bi-monthly down into factors underlying deviations. Turning to
+monetary policy review for 2016-17. The amended the outlook, the April 2016 monetary policy report
+RBI Act establishes the procedures for MPC meetings. (MPR) presaged the continuing weakening of global
+It specifi cally lays down that the Bank shall organise
+growth and external demand. At the September G20
+at least four meetings of the MPC in a year (Section
+Summit in Hangzhou, the International Monetary
+45ZI). The cross-country experience in this regard
+Fund (IMF) warned about an even more modest pace
+is varied, both in terms of the number of meetings
+of global growth this year, with the balance of risks
+and the press conferences that usually follow the
+remaining skewed to the downside (Chart I.1). This
+meetings in order to explain the stance of monetary
+will necessitate an adjustment to assumptions on
+policy for the benefi t of the public. A survey of
+country practices suggests a central tendency among initial conditions for the projections given in this
+major central banks to hold four press conferences a MPR. Furthermore, international crude oil prices,
+year, although the number of MPC meetings may be which fell to a recent trough in early April, have been
+higher (Table I.1). edging up in ensuing months and the slightly fi rmer
+
+MONETARY POLICY REPORT OCTOBER 2016
+note in these prices observed since July will need to hand, domestic pump prices and international
+be factored into the assumptions (Table 1.2). petroleum product prices diverge on account of
+refi nery/maintenance/inventory costs and domestic
+International petroleum product price benchmarks
+tax structures, with this wedge having increased
+used by domestic oil marketing companies (OMCs)
+signifi cantly since November 2014 in view of excise
+to set domestic pump prices of petrol and diesel at
+fortnightly intervals tend to be highly correlated duty increases. Of every one per cent change in
+with international crude prices (0.9). On the other international product prices (lagged by a fortnight to
+simulate pump price revisions in India), only 0.31 per
+cent is refl ected in domestic pump prices of petrol,
+Table I.2: Baseline Assumptions for
+Near-Term Projections the pass-through increasing to 0.42 per cent during
+episodes of international price increases and falling
+Variable April 2016 MPR Current
+(October 2016) MPR to 0.28 per cent during international price declines
+(Chart I.2; see also Chapter II). In 2016 so far, however,
+Crude Oil US$ 40 per barrel US$ 46 per barrel
+(Indian Basket)* during FY 2016-17 during 2016-17:H2 a substantially higher degree of pass-through is being
+Exchange rate ** `68.5 per US$ Current level
+observed.
+Monsoon Normal for 2016 Normal for 2016
+I.1 The Outlook for Infl ation
+Global growth *** 3.4 per cent in 2016 3.1 per cent in 2016
+3.6 per cent in 2017 3.4 per cent in 2017
+Fiscal defi cit To remain within BE To remain within BE Daily price collections of sensitive items under
+2016-17 (3.5 per cent) 2016-17 (3.5 per cent)
+pulses, fruits, vegetables and cereals suggest that
+Domestic No major change No major change
+the seasonal surge in food prices may have peaked
+macroeconomic/
+structural policies
+in July. Subdued momentum in food infl ation in Q3
+during the forecast
+period and the usual seasonal softening of food prices in
+Notes: early Q4, notwithstanding a reversal of base effects
+* Represents a derived basket comprising sour grade (Oman and Dubai
+in March 2017, improves the near-term outlook
+average) and sweet grade (Brent) crude oil processed in Indian refi neries
+in the ratio of 71:29. for infl ation considerably. Commodity prices are
+** The exchange rate path assumed here is for the purpose of generating
+staff’s baseline growth and infl ation projections and does not indicate any expected to remain quiescent over the rest of the year.
+‘view’ on the level of the exchange rate. The Reserve Bank is guided by the
+These anticipated developments feed into infl ation
+need to contain volatility in the foreign exchange market and not by any
+specifi c level/ band around the exchange rate. expectations and, in turn, infl uence wage and price
+*** Based on projections from January 2016 and July 2016 Updates of the
+IMF’s World Economic Outlook. conditions, going forward.
+
+MONETARY POLICY REPORT OCTOBER 2016
+Among various economic agents, households tend to the organised sector as well as nominal rural wage
+be the most adaptive in their expectations formation. growth – especially with the deceleration in July – are
+Accordingly, food price increases of May-July appear expected to remain moderate in Q3.
+to have remained entrenched in their infl ation
+The September round of the Reserve Bank’s survey
+expectations. The September round of the Reserve
+of professional forecasters indicates a greater degree
+Bank’s survey of urban households indicates a pick-
+of anchoring of their infl ation expectations, relative
+up in their current perceptions and expectations of to other agents, around the Reserve Bank’s infl ation
+infl ation farther out, as in the June round of the survey, targets (Chart I.5). They expect infl ation to ease to
+with an increase in the proportion of respondents 4.7 per cent by Q4 of 2016-17 and to 4.4 per cent
+expecting prices to rise by more than the current rate1 by Q2 of 2017-18, both lying within the Reserve
+(Chart I.3). In the September round, in fact, infl ation Bank’s infl ation target band. While their medium-
+is expected to be 9.5 per cent three months ahead and term infl ation expectations (fi ve years ahead) have
+11.4 per cent one year ahead. remained unchanged at 5 per cent, their longer-
+term expectations (10 years ahead) have moved
+By contrast, producers’ infl ation expectations appear
+down to 4.5 per cent from 4.8 per cent polled in the
+to be more forward-looking. The July-September
+immediately preceding round of the survey. These
+round of the Reserve Bank’s industrial outlook survey2
+expectations refl ect the stubborn persistence that
+reveals an increase in the proportion of respondents
+may be encountered in moving below current levels
+expecting higher input prices in Q3. The survey also
+of infl ation.
+indicates a decline in their expectations of higher
+selling prices (Chart I.4). Expectations of improvement Staff’s baseline model forecasts, taking into account
+the revisions in assumptions on initial conditions and
+in demand conditions should be comfortably absorbed
+augmented by information yielded by these forward-
+by the presence of spare capacity. Manufacturing
+looking surveys of various classes of economic agents
+purchasing managers polled in Nikkei’s survey for
+as well as from lead indicators, set a trajectory that
+September 2016 indicate that, despite some uptick,
+takes consumer price index (CPI) infl ation down from
+both input and output price indices were lower than
+5.7 per cent in Q1 of 2016-17 to 5.0 per cent in Q3
+their long-term averages. Increases in staff costs in
+before it fi rms up moderately to 5.3 per cent in Q4
+1 The survey was conducted in 18 cities and covered 5,300 urban households. (the 70 per cent confi dence interval lies in a range of
+2 The survey covered responses from 723 manufacturing companies. 3.9-7.0 per cent) (Chart I.6).
+
+MONETARY POLICY REPORT OCTOBER 2016
+These projections incorporate the 7th pay commission’s 4.5 per cent by Q4 of 2017-18 (2.1 per cent to 7.7 per
+award relating to salaries and pensions which will work cent defi ning the 70 per cent confi dence interval). By
+through aggregate demand and expectations effects to current reckoning, the pass-through of the goods and
+add around 10 basis points (bps) to the baseline path services tax (GST) will likely commence from April
+from Q4 of 2016-17. Furthermore, the projections also 2017 and last for about 12-18 months, going by the
+factor in cost-push effects of the proposed increase in cross-country experience. While the impact of the GST
+minimum wages which would add 5 bps to baseline on CPI infl ation would largely depend on the standard
+infl ation within two months of implementation3. rate decided by the GST Council, almost 50 per cent
+of the CPI is expected to be exempt. Cross-country
+Taking into account these shocks to the baseline and
+experience indicates that the GST implementation
+given the initial conditions in Table I.2, staff projects
+might have one-off effects, which tend to dissipate
+infl ation to ease modestly through 2017-18 and reach
+after a year of its implementation (see Chapter II).
+It is in the context of unanticipated shocks to the
+future evolution of infl ation that the rationale of
+setting India’s infl ation target at 4 per cent with a
+tolerance band of +/- 2 per cent can be appreciated.
+Globally too, the subject of the appropriate level of
+the infl ation target is being intensely debated. For
+advanced economies, the wide-spread practice of a 2
+per cent infl ation target has come under considerable
+scrutiny in the aftermath of the global fi nancial crisis.
+The crisis showed that large adverse shocks can and
+do happen and when they do, policymakers need
+room for monetary policy to react to them, especially
+when the longer-term prospects of the economy are
+jeopardised. Accordingly, a view has been expressed
+that they should aim for a higher infl ation target of
+say 4 per cent since the costs of infl ation at 4 per
+3 The Union Government’s proposal to revise basic minimum wages, cent and/or of anchoring expectations at 4 per cent
+including Variable Dearness Allowance (VDA), for different categories of are judged to be lower than the benefi ts of headroom
+employees would raise basic minimum wages in the range of `198-453,
+made available to monetary policy to stabilise the
+which works to an overall increase of 42 per cent. The increase in basic
+minimum wages will also have some impact on rural wages. economy in the face of recession risks. More recently,
+
+MONETARY POLICY REPORT OCTOBER 2016
+the potential benefi ts of a higher infl ation target have
+been cited in the context of the secular decline in the
+natural/neutral rate of interest (Williams, 20164)5.
+I.2 The Outlook for Growth
+The April 2016 MPR had outlined the key downside
+risks that could impinge upon the path of growth in
+2016-17 – the depressed private investment climate
+amidst subdued capacity utilisation and corporate
+balance sheet deleveraging; depressed global output
+and trade growth dragging down net exports. It
+also highlighted several positive factors that could
+potentially lift growth, including the government’s
+“start-up” and other initiatives, the boost to household
+consumption demand from the 7th Central Pay
+Commission (CPC) award, still benign cost conditions,
+measures announced in the Union Budget 2016-
+17 to transform the rural sector, upbeat consumer
+confi dence and the expected recovery in agriculture Over the medium-term, the implementation of
+and allied activities. the GST should boost business confi dence and
+investment, brightening the environment for an
+Since then, some of these assumptions have
+acceleration of growth. Other initiatives such as steps
+materialised. Accordingly, the spatially and temporally
+to attract foreign direct investment in defence, civil
+satisfactory south-west monsoon during the 2016
+aviation, pharmaceuticals and broadcasting, measures
+season, and the implementation of the 7th CPC award
+to improve infrastructure, and the enactment of
+are expected to provide a boost to consumption
+the Insolvency and Bankruptcy Code and the Real
+spending, both rural and urban. The Reserve Bank’s Estate (Regulation and Development) Act should also
+survey conducted in August-September 2016 found
+contribute to unlocking entrepreneurial energies and
+consumer optimism on the general economic outlook,
+growth impulses.
+but somewhat less confi dence on future income and
+employment6 (Chart I.7).
+While private investment activity remains sluggish,
+corporate business expectations remain upbeat in the
+Reserve Bank’s industrial outlook survey on improving
+prospects for production, capacity utilisation,
+employment and the availability of fi nance (Chart I.8).
+This positive sentiment was also refl ected in business
+confi dence surveys conducted by other institutions
+(Table I.3).
+4 Williams, John (2016), “Whither Infl ation Targeting?”, available at http://
+www.frbsf.org
+5 In fact, the debate has led up to the question of the appositeness of the
+Fed adopting India’s infl ation target (The Economist, August 27, 2016)! A 4
+per cent infl ation target is not unusual outside the advanced country context:
+Indonesia ( 4+/-1 per cent); Russia (4 per cent for 2017); Brazil (4.5 +/- 2
+per cent).
+6 Based on the Reserve Bank’s Consumer Confi dence Survey covering around
+5,000 respondents in six metropolitan cities.
+
+MONETARY POLICY REPORT OCTOBER 2016
+Table I.3: Business Expectations Surveys Table I.4: Reserve Bank's Baseline and Professional
+Forecasters' Median Projections
+NCAER FICCI Dun and CII Business
+(Per cent)
+Business Overall Bradstreet Confi dence
+Confi dence Business Composite Index 2016-17 2017-18
+Item Index Confi dence Business
+Index Optimism Reserve Bank’s Baseline Projections
+Index
+Infl ation, Q4 (y-o-y) 5.3 4.5
+Q1: 2016-17 June 2016 Q3: 2016 Q1: 2016-17 Real Gross Value Added (GVA) Growth 7.6 7.9
+Assessment of Survey of Professional Forecasters@
+Current level of 124.3 64.3 83.2 57.2
+the index GVA Growth 7.6 7.8
+Agriculture and Allied Activities 3.5 3.0
+Index as per 121.6 56.7 81.1 54.1
+Industry 7.5 7.9
+previous Survey
+Services 8.8 9.2
+% change 2.2 13.4 2.6 5.7
+Infl ation, Q4 (y-o-y) 4.7 4.4 #
+(q-o-q)
+Gross Domestic Saving (per cent of GNDI) 31.6 32.1
+sequential
+Gross Fixed Capital Formation 29.5 29.8
+% change (y-o-y) 2.1 -3.0* 6.7 5.1 (per cent of GDP)
+Money Supply (M3) Growth 11.5 12.3
+*: Variation over August 2015 survey. Credit Growth of Scheduled Commercial Banks 11.5 13.0
+Combined Gross Fiscal Defi cit (per cent of GDP) 6.5 6.0
+Professional forecasters surveyed during September
+Central Government Gross Fiscal Defi cit 3.5 3.3
+2016 expected real GVA growth to improve from (per cent of GDP)
+Repo Rate (end period) 6.25 6.25
+7.3 per cent in 2016-17:Q1 to 7.6 per cent each in
+CRR (end period) 4.00 4.00
+the remaining three quarters of 2016-17 on account Yield of 91-Days Treasury Bills (end period) 6.4 6.4
+Yield of 10-years Central Government 6.8 6.8
+of better agricultural prospects (Chart I.9 and
+Securities (end period)
+Table I.4). Overall Balance of Payments (US$ bn.) 24.7 34.0
+Merchandise Exports Growth 1.2 6.1
+Taking into account these developments in conjunction Merchandise Imports Growth -1.1 9.2
+with signals from various surveys and indicators and Merchandise Trade Balance (per cent of GDP) -6.0 -5.6
+Current Account Balance (per cent of GDP) -1.0 -1.2
+updated model forecasts, staff retains the projection
+Capital Account Balance (per cent of GDP) 2.0 2.9
+of real GVA growth at 7.6 per cent for 2016-17, with
+@: Median forecasts. #: Q2: 2017-18
+a range of 7.6-7.7 per cent in Q2-Q4 (Chart I.10). GNDI: Gross National Disposable Income.
+Source: Survey of Professional Forecasters (September 2016).
+For 2017-18, assuming a normal monsoon, fi scal
+consolidation in line with the announced trajectory model estimates and off-model adjustments (Box I.1),
+and no major exogenous/policy shock(s), structural real GVA growth of 7.9 per cent indicated in April is
+
+MONETARY POLICY REPORT OCTOBER 2016
+Box I.1: Nowcasting Economic Activity
+It is widely accepted that monetary policy needs to be
+forward-looking and should respond to expectations,
+since it affects infl ation and output with varying
+lags. Moreover, lags in data releases challenge the
+assessment of underlying economic conditions.
+Illustratively, the latest data on GDP, which became
+available on August 31, 2016 pertain to April-June 2016;
+GDP data for the quarter July-September 2016 – the
+quarter that is most relevant to this MPR as a starting
+point – will be released at the end of November 2016.
+Therefore, timely and accurate projections of these key
+goal variables are important.
+As noted in the MPR of September 2015, the Reserve
+Bank deploys a host of modelling approaches for
+generating forecasts. It also scans a host of incoming
+data to “nowcast” the current state of the economy.
+The “nowcasting” process involves analysing a number
+of leading and concurrent indicators of economic
+activity through a dynamic factor model (DFM) to
+estimate GVA growth for the relevant quarter, as well
+as the immediately preceding and following quarters.
+With an initial input of around 47 variables, the DFM
+exploits the co-movement among the series to select a
+relatively few salient ‘factors’. Given that data releases
+are scattered over the course of a month, the nowcast
+is updated as soon as new information comes in, thus
+available. The model performs better than a benchmark
+providing an assessment of the economy almost in real
+random walk (RW) model. Nonetheless, there are
+time.
+formidable challenges to nowcasting performance
+The nowcasting of India’s GVA employs not only from the data – the persisting wide wedge between
+coincident and lead indicators but also survey results. growth in industrial production and the growth in GVA
+Chart A presents nowcasts at the end of the relevant in the manufacturing sector necessitates off-model
+quarter - for example, the nowcast for the quarter adjustments to the results.
+January-March 2016 is based on information up to
+Reference:
+end-March. Chart B evaluates nowcasting performance
+over alternative horizons (from 2 months before the Giannone, Domenico, Lucrezia Reichlin and David
+end of the reference quarter to one month after the Small (2008), “Nowcasting: The Real-time Informational
+reference quarter), and indicates an improvement Content of Macroeconomic Data”, Journal of Monetary
+in model performance as more information becomes Economics, Vol. 55, pp.665-676.
+retained, but with downside risks mainly due to lower allowances are awarded, they will have a direct
+global demand vis-à-vis the April MPR. impact on headline CPI infl ation through an increase
+in housing infl ation (house rents have a weight of
+I.3 Balance of Risks
+9.5 per cent in the CPI). In addition, indirect effects
+(i) Implementation of the 7th Central Pay Commission
+could arise through infl ation expectations. Assuming
+Award on Allowances that (a) the revised allowances are implemented from
+early 2017, (b) the increase proposed by the 7th CPC
+While the second round impact of the 7th CPC award
+is retained7, and (c) state governments implement a
+in the form of salaries and pensions is incorporated
+similar order of increase in allowances with a lag of
+in the baseline forecasts, the effect of house rent
+allowances (HRA) is not, since its implementation was
+7 The 7th CPC recommended an HRA increase of 8-24 per cent of the basic
+deferred, pending a review. As and when the revised pay.
+
+MONETARY POLICY REPORT OCTOBER 2016
+one quarter, headline CPI infl ation in 2017-18 could
+be 100-150 bps above the baseline. The impact on
+infl ation is expected to persist for 6-8 quarters, with
+the peak effect occurring at around 3-4 quarters
+following the implementation (Chart I.11). While
+for policy purposes, the statistical direct effects of
+the increase in HRA should be looked through since
+they do not constitute an increase in true infl ation,
+model simulations indicate that indirect effects
+arising out of aggregate demand effects and rise in
+infl ation expectations may require a tightening of the
+monetary policy stance to ensure that infl ationary
+pressures from this factor do not get generalised and
+entrenched into expectations.
+(ii) Moderation in Pulses Infl ation
+A striking characteristic of food infl ation in recent
+years has been its persistence in certain groups such effects on net exports (Charts I.11 and I.12). Model
+as pulses. In turn, this characteristic imparts stickiness simulations that incorporate the resulting rise in
+to overall infl ation formation. Pulses, which have a headline infl ation above the baseline path and a faster
+weight of just 2.4 per cent in the CPI, have accounted closing of the output gap could indicate monetary
+for around 12-20 per cent of overall infl ation since policy tightening.
+mid-2015, manifesting structural demand supply
+On the other hand, India could become a preferred
+imbalances rather than transient mismatches. Several
+destination of capital fl ows, as is the case currently,
+initiatives have been undertaken over the past year to
+in view of relatively stronger macroeconomic
+augment supply and bring down pulses infl ation (see
+fundamentals. This may cause the rupee to appreciate.
+Chapter II).
+An appreciation of the rupee by 5 per cent could
+If these efforts are able to bring down the prices of moderate infl ation by around 10-15 bps and real GVA
+pulses on a sustained basis, food infl ation could ebb growth by 10 bps below the baseline.
+by around 35 bps by 2016-17:Q4 and around 100 bps
+by 2017-18:Q4 and, through a process of relative price
+adjustments, overall infl ation could moderate by 15
+bps in 2016-17:Q4 and 50 bps by 2017-18:Q4.
+(iii) Exchange Rate Movements
+Uncertainty prevailing about the pace of US monetary
+policy normalisation tends to get amplifi ed by every
+incoming data. The outcome of the US presidential
+election also adds to uncertainty. Consequently,
+spillovers purvey volatility to global and domestic
+fi nancial markets, especially in the foreign exchange,
+equity and debt segments, with implications for
+domestic infl ation and growth. A fi ve per cent
+depreciation of the Indian rupee vis-à-vis the US
+dollar could increase infl ation by 10-15 bps and real
+GVA growth by 5-10 bps above the baseline through
+
+MONETARY POLICY REPORT OCTOBER 2016
+(iv) International Crude Oil Prices be one percentage point below the assumed baseline,
+domestic real GVA growth and infl ation could be 20-
+International crude oil prices have remained volatile
+40 bps and 10-20 bps below their respective baseline
+in recent months. The price of the Indian basket
+forecasts.
+increased from around US$ 36 per barrel in March
+2016 to US$ 47 in July before softening again to The near-term outlook for the Indian economy
+around US$ 44 in August-September. Consequently, is characterised by a continuing slow recovery,
+the baseline assumption in Table I.2 could be subject
+underpinned by consumption spending and by
+to variations on either side. If crude oil prices increase
+public investment at the margin. As regards infl ation,
+to US$ 70 per barrel by the end of 2017-18 (higher by
+the outlook has improved for 2016-17, but beyond,
+around 40 per cent than the baseline assumption),
+the prospects of reaching 4 per cent i.e., the centre
+infl ation could be higher by about 40-60 bps, while real
+of the target band requires close monitoring.
+GVA growth could weaken by around 20 bps relative
+Recent initiatives and reforms by the government
+to baseline paths by March 2018. Returning the goal
+such as ‘Make in India’, measures to improve the
+variables to their baseline trajectories would require
+infrastructure, the scheduled introduction of the GST,
+monetary policy tightening.
+improvements in food supply management and steps
+On the other hand, crude prices could also soften to enhance domestic production of fertilisers as well
+below the baseline assumption in an event of weaker as a reduction in prices of non-urea fertilisers are
+than expected global demand, and/or excess supply
+expected to help disinfl ate in the medium-term. Even
+of crude in global markets. If crude oil prices fall to
+as the urgency of safeguarding near-term growth and
+around US$ 35 per barrel and this softening is passed
+stability has increased, the policy challenge is to bolster
+on to pump prices of petroleum products in India,
+medium-term growth prospects through structural
+infl ation may be about 30-50 bps below its baseline,
+reforms that step up new investment in the economy
+while real GVA growth could be around 15 bps above
+on a sustained basis, renew skills and job creation, and
+its baseline.
+broaden the swathe of the growth process to include
+(v) Global Demand Stagnation
+the widest sections of society in its benefi ts. Globally,
+the danger of secular stagnation and an entrenchment
+Global growth has been muted so far and projections
+of lastingly impaired potential output have become
+by various agencies for this year and the next are
+expected to downgrade the outlook for global growth more tangible than before. Besides the main priority
+even further. The uncertainty associated with the of lifting both actual and potential output, keeping
+“Brexit”, the US presidential election and the still fi nancial stability risks in check, containing external
+nebulous effects of US monetary policy normalisation vulnerabilities, and building resilience is essential
+and Chinese re-balancing, could undermine global if an adjustment to diminished growth prospects
+economic activity even more. Should global growth globally becomes inevitable.
+
+MONETARY POLICY REPORT OCTOBER 2016
+II. Prices and Costs
+Consumer price inflation was pushed up by a surge in the momentum of food inflation during April-July 2016
+before a sharp correction set in during August. Input costs firmed up moderately for both farm and non-farm sectors
+alongside corporate staff costs.
+Drawing on a modest softening of households’ and waning of these transient price pressures in August,
+professional forecasters’ infl ation expectations, still infl ation momentum collapsed. Infl ation appears to be
+muted corporate pricing power and model forecasts, returning to the April 2016 forecast path, albeit from
+the April 2016 MPR envisaged a trajectory on which
+some elevation. A one percentage point deviation of
+headline CPI infl ation1 would edge down from 5.4
+food infl ation from its trajectory projected in the April
+per cent in Q4 of 2015-16 to 5.3 per cent in Q1 of
+MPR leads to 47 basis points increase in headline
+2016-17 and to 5.1 per cent in Q2. In the event, the
+infl ation in terms of the direct effect alone and this
+momentum of the seasonal fi rming up of food prices
+perturbation could cause headline infl ation to diverge
+that usually sets in from April was much stronger than
+from its projected path for upto four to six months,
+anticipated, especially in vegetables prices. Moreover,
+based on impulse responses in an unrestricted vector
+occurring as it did on top of highly elevated prices of
+autoregression (VAR) framework. This imparts a
+pulses, it imparted an unusual upside to infl ation that
+lasted right up to July. In addition, international crude modest potential upside to the balance of risks around
+prices rose from a recent trough in April to US$ 44 per the target of 5 per cent for Q4 of 2016-17.
+barrel by September. Crude prices averaged US$ 44 per
+II.1 Consumer Prices
+barrel during April-September as against US$ 40 per
+barrel in the assumptions on initial conditions in the The April 2016 projections were predicated on the
+April 2016 MPR. presence of favourable base effects arising from
+high infl ation a year ago, with the base effects for
+Consequently, headline CPI infl ation averaged higher
+food infl ation stronger than those pulling down the
+at 5.7 per cent in Q1 of 2016-17, deviating from the
+headline. Even while the downside base effects were
+forecast of 5.3 per cent (Chart II.1). With the rapid
+signifi cant up to June-July, they were overwhelmed by
+a surge in the month-on-month (m-o-m) momentum
+– especially of food prices – which peaked in July.
+As surprisingly as it took hold, the momentum of
+headline CPI dissipated completely in August, with
+the momentum of food prices turning negative. With
+this unexpected reversal, sizable base effects in that
+month came into full play and pulled down overall
+infl ation to 5.05 per cent, an intra-year low, in August
+(Charts II.2 and II.3).
+The transient upsurge in infl ation momentum in
+April-July was induced by two main drivers – pulses
+and vegetables – as evident in the strong positive
+skew of the distribution of infl ation (Chart II.4). This
+is corroborated by a signifi cant fall in the diffusion
+index of price changes in CPI during the fi rst half of
+1 Headline infl ation is measured by year-on-year changes in all-India CPI 2016-17, which suggests that infl ationary impulses
+Combined (Rural+Urban). were confi ned to a few food items (Chart II.5).
+
+MONETARY POLICY REPORT OCTOBER 2016
+II.2 Drivers of Infl ation of this chapter, albeit backward-looking, will be tilted
+towards a sharper focus on these elements under
+In a forward-looking perspective, infl ation
+their respective categories in the CPI. This assumes
+developments are likely to be infl uenced by three
+relevance in view of the presence of considerable
+domestic drivers which, in themselves, embed
+slack in the economy, resulting in demand-push
+upside risks to the infl ation target, namely (a)
+spatial distribution of food infl ation pressures; factors remaining muted as evident in the relatively
+(b) the implementation of the 7th CPC award, stable contribution of services to overall infl ation. By
+especially house rent allowances and subsequently, contrast, there has been a predominance of supply
+implementation by states; and (c) the 42 per cent side factors – non-durable items that are largely
+increase in minimum wages across the board for the food related – in the unravelling of recent infl ation
+central sphere2. Accordingly, the narrative in the rest developments (Chart II.6a).
+2 Activities that come under the purview of Chief Labour Commissioner
+(central).
+
+MONETARY POLICY REPORT OCTOBER 2016
+A historical decomposition of infl ation shocks also Pulses have been the major source of food infl ation
+shows that in the April-July episode, it was the consistently since Q2 of 2015-16 (Chart II.8). Reeling
+positive contribution of domestic supply shocks along
+under two consecutive droughts, the production of
+with that of fi rmer international crude oil prices that
+pulses declined from 19.3 million tonnes in 2013-14
+resulted in the uptick in infl ation. Aggregate demand
+to 16.5 million tonnes in 2015-16 and the widening
+– embodied in the still negative output gap – along
+of the demand-supply imbalances elevated pulse
+with continuing pass-through of past monetary
+prices unconscionably. As a consequence, pulses
+policy tightening worked towards tempering infl ation
+pressures (Chart II.6b). accounted for 22 per cent of food infl ation and 13 per
+cent of overall infl ation during April-August, despite a
+In the food and beverages sub-group – the dominant
+relatively low weight of 2.4 per cent in CPI. Excluding
+category in the CPI with a weight of 46 per cent –
+pulses, average food infl ation would have been lower
+infl ation rose steadily through April-July. The sharp,
+though delayed, correction in August was triggered by 1.2 percentage points and average headline infl ation
+by the compression in the contribution of vegetables. by 0.6 percentage points during this period. In order
+The food group contributed 59 per cent to average to augment the supply of pulses, the Government
+headline CPI infl ation during April-August, with price undertook a number of measures, including higher
+pressures mainly emanating from pulses, sugar and
+imports at zero import duty, raising the buffer stock
+vegetables (Chart II.7).
+of pulses as well as minimum support prices (MSP).
+Although initially hamstrung by delayed arrival of
+Chart II.7: Heat Map* of Food Infl ation
+imports, procurement at a time of high market prices
+Cereals and products
+and low offtake by States; the combined effects of
+Meat and fi sh
+Egg these measures are increasingly visible in softening
+Milk and products price pressures in pulses.
+Oils and fats
+Fruits Sugar emerged as the second major driver of food
+Vegetables
+infl ation during fi rst half of 2016-17 (Chart II.8).
+Pulses and products
+Despite adequate availability of stocks and reasonably
+Sugar and confectionery
+Spices good production, infl ation in this component rose
+Non-alcoholic beverages
+sharply and remained in double digits from April,
+Prepared meals, etc.
+suggesting possible illicit stocking. Some moderation
+<-5 >10
+y-o-y infl ation in sugar prices is expected by October 2016 as the cane-
+(per cent)
+crushing season begins and fresh output is released
+in the market, although policy interventions may
+be warranted to ensure this outcome. A number of
+
+51-guA 51-peS 51-tcO 51-voN 51-ceD 61-naJ 61-beF 61-raM 61-rpA 61-yaM 61-nuJ 61-luJ 61-guA
+*The heat map visually elaborates the evolution of infl ation. Greener areas
+indicate low infl ation pressures and increasing order of red represents higher
+and higher infl ation.
+Source: CSO and staff estimates.
+MONETARY POLICY REPORT OCTOBER 2016
+in the case of commodities such as eggs, oils and fats,
+spices and sugar. This calls for integrating fragmented
+agricultural markets in the country, if food supply
+management policies have to be effective.
+Cluster analysis by sifting centre-level daily data
+from mandis3 points to strong regional variation in
+mark-ups from wholesale to retail prices for pulses,
+especially in the case of tur. In centres like Mumbai,
+Chennai, Delhi and Siliguri, the mark-ups for tur have
+been strikingly higher than in the rest of the country
+(Chart II.9). Thus, the sharp increase in retail prices
+in pulses, for example, is due to a combination of
+increases in wholesale prices and unduly large retail
+margins.
+In the fuel and light sub-group, infl ation softened
+steadily through April-August. Electricity demand
+underwent a sustained moderation in an environment
+of subdued offtake from the manufacturing sector
+price control measures have been undertaken by the
+as well as from stress-laden distribution companies
+Government, including imposition of stock holding
+(DISCOMs). With the resulting compression in the
+limits, extension of production subsidy, withdrawal
+demand supply gap, spot electricity prices fell below
+of the mandatory export quota as well as extending
+the average price in the power purchase agreement
+fi nancial assistance to the sugar mills through soft
+(PPA) contracts. LPG prices also declined sharply,
+loan scheme.
+largely infl uenced by the softening of international gas
+Food infl ation was also pushed up by a sharp uptick prices. International kerosene prices have hardened
+in prices of vegetables, especially tomatoes. Upside during the fi nancial year so far, driving a wedge
+impulses started to manifest in April in a typical pre- between the administered kerosene price which has
+monsoon sequence; however, pressures accentuated been increased by `0.25 per litre per month beginning
+during June-July 2016 on account of the delayed onset
+of the south west monsoon.
+Food supply management strategies need to be
+informed by the spatial dynamics of infl ation.
+Empirical scrutiny of the stronger than anticipated
+fi rming of food price pressures during April to July
+2016 in an analysis of variance (ANOVA) framework
+that tests inter alia for the equality of mean infl ation
+across states reveals signifi cant spatial variations.
+Inter-state price differences turn out to be statistically
+signifi cant for all sub-groups of food. Cereal prices
+show up pockets of high infl ation in Andhra Pradesh,
+Jharkhand and Odisha. Vegetables infl ation was
+highest in the eastern states of Odisha and West Bengal,
+and least in the hilly states of Himachal Pradesh and
+Jammu and Kashmir. Pulses infl ation, which averaged
+30 per cent across the country, was relatively low at
+around 13 per cent in Assam and West Bengal (Annex
+Table II.1). These wide variations across states appear 3 Collected by the Department of Consumer Affairs, Ministry of Consumer
+to be complemented by rising inter-state divergence Affairs, Food & Public Distribution.
+
+MONETARY POLICY REPORT OCTOBER 2016
+July 2016; under-recoveries on account of kerosene imbibing this halting moderation. Housing, clothing
+prices rose to `10.5 per litre effective October 1, 2016 and footwear, and health were the main drivers (with
+from `6.5 per litre for March 2016. a combined weight of 48 per cent in CPI excluding
+food and fuel), contributing 54 per cent of infl ation in
+Infl ation in respect of fuel items has diverged
+this category (Chart II.11).
+signifi cantly between rural and urban areas with the
+latter, in fact, going into defl ation in August. Items Included in this sub-group under transportation,
+of fuel consumption in rural areas like fi rewood and however, are petrol and diesel4; if they are excluded,
+dung cake reveal stickiness; on the other hand, fuel infl ation excluding food and fuel (and petrol and
+items in urban consumption are increasingly getting diesel) would have moved down by less – from 5.3 per
+indexed to international prices (Chart II.10). cent in April to 5.0 per cent in August (Chart II.12a).
+CPI infl ation excluding food and fuel eased unevenly As alluded to in Chapter I, the implementation of the
+through April-August from 5.0 per cent in April to 7th CPC award starting August 2016 is expected to have
+4.6 per cent in August, with most of the sub-groups a signifi cant and drawn out impact on the CPI infl ation
+4 As set out in Chapter 1, pump prices of petrol and diesel are adjusted to movements in international prices with a fortnight’s lag. During April-September,
+these prices were revised upwards and downwards six times, yielding a cumulative increase of around `4 per litre in petrol and diesel prices over this period.
+
+MONETARY POLICY REPORT OCTOBER 2016
+trajectory through both direct and indirect channels. in August 2016. This refl ected the bottoming out of
+the prolonged downturn in international commodity
+These effects will be magnifi ed as implementation
+prices. Given the stickiness observed in services
+spreads at the state level, as the experience with the
+infl ation in the CPI, and the impending HRA effects
+5th and 6th CPC awards have shown (Box II.1 of the April
+of the 7th CPC award, it is unlikely that the divergence
+2016 MPR provides a comprehensive assessment),
+would reduce further. GDP and GVA defl ators, which
+playing out over a period of two years. These
+had been in the negative zone for two consecutive
+developments will have to be carefully monitored on
+quarters, also started rising since Q4 of 2015-16
+account of the risks of getting generalised.
+(Chart II.13).
+Other Measures of Infl ation
+II.3 Costs
+Since outliers like vegetables and pulses impart a strong
+Domestic farm and non-farm input costs embedded
+positive skew, trimming the infl ation distribution by
+in the WPI have risen sequentially beginning October
+removing specifi c portions of upper and lower tails of
+2015, although the rates of increase are still benign
+the distribution is widely used to understand underlying (Chart II.14). In the farm sector, price rises in respect
+infl ation movements5, with the weighted median being of high speed diesel, pesticides, tractors, fodder
+a specific case of trimming. Trimmed means, the and cattle feed have contributed to the hardening
+weighted median and exclusion-based measures of CPI of costs. Interventions such as ‘Make in India’ and
+infl ation reveal a central tendency at around 5 per cent the Government’s initiative to bring down prices
+during April-August 2016 (Chart II.12b). of fertilisers by (a) reduction in non-urea prices for
+the fi rst time in the last 15 years; and (b) increasing
+Infl ation measured by other sectoral CPIs broadly
+domestic production of fertilisers will have positive
+tracked the movements in headline CPI. The wholesale
+effects on the farm sector.
+price index (WPI), which had been in negative territory
+for 17 successive months, registered infl ation of 1.4 In the case of industrial inputs, sequential price
+per cent in Q1 of 2016-17 that rose to 3.7 per cent in increases in respect of mineral oil, metallic minerals
+August 2016. As a result, the divergence between CPI and non-food articles – especially fi bre and oil seeds
+– have started imposing cost pressures. The 75th
+and WPI infl ation, which was at 7.4 percentage points
+round of the Reserve Bank’s industrial outlook survey
+in 2015-16, narrowed down to 1.3 percentage points
+(IOS) pertaining to July-September 2016 suggests
+that input price pressures are building up, with the
+rise in raw materials costs expected to continue
+into Q3. On the other hand, surveys of purchasing
+5 Roger, Scott, (1998), “Core Infl ation: Concepts, Uses and Measurement,”
+Reserve Bank of New Zealand Discussion Paper No. G98/9 (July), Wellington,
+New Zealand.
+
+MONETARY POLICY REPORT OCTOBER 2016
+managers in manufacturing and services – that
+provide contemporaneous information – suggest that
+input and output price pressures still remain weak by
+histrocial standards.
+Rural wage growth exhibited divergent movements in
+its constituents. Rural non-agricultural wage growth
+has ebbed in recent months, possibly refl ecting an
+increase in supply of non-agricultural labourers in
+rural areas due to weak construction activity attracting
+less labour migration to urban areas. In contrast,
+agricultural labour wage growth rose on the back
+of demand as sowing conditions improved. At the
+state level, agricultural wages increased, especially
+in foodgrain producing states such as Karnataka and
+Andhra Pradesh (Chart II.15).
+The proposed revision in basic minimum wages of the
+central sphere for different categories of employees
+(unskilled, semi-skilled, skilled, highly skilled and
+clerical)6 would support rural incomes that have been
+the subdued growth in farm labour wages – the MSPs
+depressed by drought conditions for two successive
+of pulses have been raised substantially on top of the
+years (2014-16). At the same time, however, it
+sizable hike last year and are set to be raised even
+would push up headline CPI infl ation, as analysed
+in Chapter I. The expected increase in rural wages higher in the period ahead, with implications for the
+is also likely to bring on second round effects on infl ation outlook.
+infl ation.
+Wages in the organised sector refl ected in staff costs
+The Commission for Agricultural Costs and Prices per employee remained fi rm in Q1 of 2016-17 for both
+(CACP) recommends MSP for agricultural commodities, the manufacturing and the services sectors. On the
+including cereals and pulses, based inter alia on costs other hand, unit labour cost measured by the ratio of
+of production, labour and other inputs, with labour staff cost to value of production, continued to rise for
+cost accounting for more than half of the total cost of fi rms engaged in both sectors, notwithstanding some
+production. While increases in MSPs for cereals have moderation in the case of manufacturing companies
+been moderate in the recent period – partly owing to (Chart II.16).
+6 The pay structure of these employees includes basic minimum wages plus a variable dearness allowance (VDA), which is a fi xed amount of money given
+per point increase in CPI-IW as notifi ed by the Chief Labour Commissioner (central sphere) from time to time. VDA is revised twice a year - on 1st of April
+and October while basic minimum wage revisions happen at an interval not exceeding fi ve years.
+
+MONETARY POLICY REPORT OCTOBER 2016
+Box II.I: Infl ation Impact of GST – Cross Country Evidence
+Internationally, 160 countries have some form of value due mainly to the oil crisis in 1973. Estimates of pass-
+added tax (World Bank, 2015). The experiences of the through of changes in the VAT rate to consumer prices
+United Kingdom, Canada, New Zealand and Malaysia for 17 Euro zone countries for the period 1999-2013
+show that, on average, the pass-through is much less
+suggest that infl ation did increase in the period
+than full and is highly sensitive to the type of VAT
+when GST was introduced (Table 1). Eventually, the
+change. For changes in the standard rate, for instance,
+infl ation impact moderated over a year, except in the
+the fi nal pass-through is about 100 per cent; for reduced
+case of United Kingdom where it remained elevated,
+rates, however, it is signifi cantly less at around 30 per
+Table 1: Infl ation Before and cent. The short-term effects on infl ation depend upon
+After GST Implementation (per cent) a host of factors, including the tax rate at which GST
+is implemented, the tax base and effi ciency of the
+t-1 t t+1 t+2 t+3 t+4
+administrative machinery.
+United Kingdom
+7.9 9.3 9.2 10.3 12.9 15.9 References:
+[t =Q2:1973]
+Canada Benedek, Dora, Ruud De Mooij, Michael Keen and Philippe
+5.0 6.4 6.2 5.8 4.1 1.6
+[t = Q1:1991]
+Wingender (2015), “Estimating VAT Pass-Through”, IMF
+New Zealand 10.7 18.7 18.6 18.9 16.6 8.6 Working Paper Series, WP/15/214, September.
+[t = Q4:1986]
+Australia Government of India (2015), “Report on the Revenue
+3.1 6.1 5.8 6.0 6.1 2.5
+[t = Q3:2000] Neutral Rate and Structure of Rates for the Goods and
+Malaysia Services Tax”, Ministry of Finance, December 4.
+0.7 2.2 3.0 2.6 3.4 1.9
+[t = Q2: 2015]
+World Bank (2015), “Fiscal Policy for Equitable Growth,”
+Source: OECD.Stat, Reserve Bank of Australia, Reserve Bank of New
+Zealand and Bank Negara Malaysia. India Development Report.
+Looking ahead, infl ation developments are likely revenue neutral rate (RNR) of about 15-15.5 per cent)
+to be shaped by the implementation of the GST. is expected to have a minimal impact on infl ation
+While the creation of a unifi ed goods and services (GoI, 2015)7. If the standard rate is increased to 22 per
+market in the country would reduce supply chain cent8 (consistent with an RNR of 17-18 per cent), the
+rigidities, cut down on transportation costs and also impact on aggregate infl ation would be in the range
+bring down costs in general through improvements of 0.3-0.7 per cent, concentrated in select groups like
+in productivity, it could also produce a short-lived healthcare (excluding medicines). As the standard
+pass-through to the infl ation trajectory. The cross- rate increases from 22 per cent to 26 per cent and 30
+country experience suggests that, controlling for
+per cent, the impact on CPI would increase from 0.6-
+country-specifi c characteristics, one-off effects tend to
+1.3 per cent and to 1.0-1.9 per cent (with input tax
+dissipate after a year of its implementation (Box II.1).
+credit), respectively7. The general consensus is that
+The impact of the implementation of GST on CPI the impact on consumer price infl ation is likely to be
+infl ation in India would largely depend on the standard moderate if the standard GST rate is at 18 per cent –
+rate that would be decided by the GST Council. The in fact, overall price levels may go down due to more
+dual rate GST structure with a standard rate of 18 per effi cient allocation of factors of production (NCAER,
+cent and a low rate of 12 per cent (consistent with a 2009)9.
+7 Government of India (2015), “Report on the Revenue Neutral Rate and Structure of Rates for the Goods and Services Tax (GST)”, Ministry
+of Finance, December.
+8 In both scenarios, a high tax rate of 35 per cent was applied to about 1 per cent of CPI (that relates to luxury goods).
+9 NCAER (2009), “Moving to Goods and Services Tax in India: Impact on India’s Growth and International Trade”, December.
+
+MONETARY POLICY REPORT OCTOBER 2016
+Annex Table II.1: State-wise Infl ation Pressure Points
+(Average y-o-y Infl ation during April-July 2016)
+Cereals Eggs Fruits Meat Milk Oils Pulses Spices Sugar Vegetables
+Andhra Pradesh 8.3 11.6 7.2 8.4 6.0 6.6 34.7 14.8 12.3 9.7
+Assam -1.8 -2.9 5.0 5.9 4.5 9.7 15.5 1.4 3.5 10.3
+Bihar 2.3 0.7 5.9 6.3 2.1 8.3 26.7 6.5 14.2 12.2
+Chhattisgarh 2.3 7.8 3.9 5.6 4.2 2.5 39.2 3.4 16.5 9.0
+Delhi 2.6 13.0 8.5 9.4 1.3 6.4 23.1 2.6 11.7 0.1
+Gujarat 4.5 7.9 5.9 5.6 5.5 6.9 29.1 10.6 17.0 16.5
+Haryana 2.1 8.5 2.0 4.0 2.9 3.5 22.9 4.1 12.9 7.2
+Himachal Pradesh 3.9 -2.2 -0.8 2.8 3.1 6.7 19.3 5.1 4.7 -2.9
+Jammu and Kashmir 2.0 0.0 4.1 4.0 6.9 8.4 15.7 5.3 2.8 -4.5
+Jharkhand 6.6 5.4 5.1 5.4 2.1 8.2 24.4 6.0 10.4 16.2
+Karnataka 6.5 8.9 2.3 4.8 8.7 5.7 32.3 9.5 15.1 16.3
+Kerala 1.4 12.6 1.7 10.1 1.5 -27.4 26.8 14.8 28.9 13.1
+Madhya Pradesh 2.5 0.7 4.7 6.8 2.2 1.9 35.2 7.4 15.9 3.9
+Maharashtra 2.3 6.9 4.1 6.2 2.5 3.7 31.2 11.0 24.1 14.4
+Odisha 6.6 4.1 6.3 8.8 7.0 9.2 27.0 10.4 13.2 20.0
+Punjab 3.1 9.1 6.8 4.8 3.5 4.6 20.8 8.3 16.4 2.3
+Rajasthan 4.6 8.9 4.7 7.1 3.2 3.9 22.0 11.3 19.4 6.9
+Tamil Nadu 3.2 14.9 2.4 7.5 2.8 3.5 33.5 11.6 11.3 11.1
+Telangana 5.6 13.5 13.1 8.7 5.1 7.8 37.6 15.4 17.1 12.1
+Uttar Pradesh 0.8 3.7 3.7 7.3 3.1 6.9 37.4 6.5 13.6 7.0
+Uttarakhand 2.1 4.6 5.1 0.7 7.0 5.4 33.4 7.2 9.6 4.7
+West Bengal 1.7 7.6 9.8 9.7 3.2 9.6 13.9 5.7 12.6 20.1
+Lowest Infl ation 5.0 Highest Infl ation
+Within each food sub-group
+Source: CSO & staff estimates.
+
+MONETARY POLICY REPORT OCTOBER 2016
+III. Demand and Output
+Aggregate demand slowed down in the first quarter of 2016-17, restrained by weak investment, but consumption
+spending is gradually improving. Aggregate supply conditions are poised to receive a strong boost from a reinvigoration
+of agriculture with some support from services, but industrial activity remains subdued.
+Economic activity lost some pace in the fi rst half of government fi nal consumption expenditure, real GDP
+2016-17, relative to the preceding six months and a growth would have slumped to 5.7 per cent in Q1 of
+year ago. A deeper moderation has been cushioned by 2016-17, the lowest since Q4 of 2014-15 (Chart III.1).
+robust public spending. A retrenchment of investment Demand conditions were undermined by a deepening
+has been underlying the slowdown; although public of the contraction in gross fi xed capital formation
+investment has been stepped up, crowding-in effects that set in from Q4 of 2015-16, besides a slowdown
+on private investment are not yet discernible. Private in private fi nal consumption expenditure after two
+consumption spending has moderated somewhat, but consecutive quarters of relatively robust growth.
+a revival of agricultural activity and incomes and a Weak domestic demand was also refl ected in a sizable
+sizable upward revision in wages and salaries in the shrinking of imports, which enabled a positive
+public sector are set to boost it and regenerate growth
+impulses across the economy in the rest of 2016-17
+and in the next year. While the weakness in domestic
+demand has sent imports into a prolonged contraction,
+the weakening global economy and fi nancial market
+turbulence constitute the biggest risks to net exports
+and to overall economic activity, going forward.
+III.1. Aggregate Demand
+Measured by year-on-year (y-o-y) changes in real gross
+domestic product (GDP) at market prices, aggregate
+demand decelerated to a fi ve-quarter low in Q1 of
+2016-17, unable to sustain the strength of the upturn
+in the immediately preceding quarter (Table III.1).
+The weakening of momentum was evident even on a
+seasonally adjusted basis (Chart III.1). In fact, aggregate
+demand was propped up by the front-loading of plan
+revenue expenditure; excluding the support from
+Table III.1: Real GDP Growth (2011-12 Prices)
+(Per cent)
+Item 2014-15 2015-16 Weighted 2014-15 2015-16 2016-
+contribution 17
+2015-16 *
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+I. Private Final Consumption Expenditure 6.2 7.4 4.1 8.2 9.2 1.5 6.6 6.9 6.3 8.2 8.3 6.7
+II. Government Final Consumption Expenditure 12.8 2.2 0.2 9.0 15.4 33.2 -3.3 -0.2 3.3 3.0 2.9 18.8
+III. Gross Fixed Capital Formation 4.9 3.9 1.3 8.3 2.2 3.7 5.4 7.1 9.7 1.2 -1.9 -3.1
+IV. Net Exports 11.7 -36.6 -0.5 62.8 -72.5 -111.0 -6.6 -47.6 -41.3 -29.0 -11.0 93.5
+(i) Exports 1.7 -5.2 -1.2 11.6 1.1 2.0 -6.3 -5.7 -4.3 -8.9 -1.9 3.2
+(ii) Imports 0.8 -2.8 -0.7 -0.6 4.6 5.7 -6.1 -2.4 -0.6 -6.4 -1.6 -5.8
+GDP at Market Prices 7.2 7.6 7.6 7.5 8.3 6.6 6.7 7.5 7.6 7.2 7.9 7.1
+*: In percentage points. Component-wise contributions do not add up to GDP growth because change in stocks, valuables and discrepancies are not
+included here.
+Source: Central Statistics Offi ce (CSO).
+
+MONETARY POLICY REPORT OCTOBER 2016
+contribution of net exports to aggregate demand after basis – propelled by faster clearances, particularly
+negative contributions for seven consecutive quarters. in respect of non-environmental permissions – on-
+streaming of investment spending in these projects is
+Investment demand has been muted through the fi rst
+yet to materialise, largely due to unfavourable market
+half of 2016-17, juxtaposing the absolute decline in
+conditions. Meanwhile, sales of non-government
+gross fi xed capital formation in Q1 of 2016-17 with
+non-fi nancial companies have contracted, and both
+more recent higher frequency indicators. Capex
+foreign direct investment and external commercial
+spending remains moribund even as industry is
+borrowings have slowed down in relation to their
+operating marginally below the long-term average
+levels a year ago.
+of capacity utilisation on a seasonally adjusted basis
+(Chart III.2). Still signifi cant fi nancial stress in large Even though private fi nal consumption expenditure
+brown fi eld projects, especially in sectors such as (PFCE) growth decelerated in Q1 in relation to
+iron and steel, construction, textiles and power immediately preceding quarters in tandem with
+continues to inhibit bank credit fl ows. Depressed the production of consumer goods, it continued to
+construction activity and lacklustre demand for plant
+and machinery more generally is being mirrored in
+the coincident decline in production and imports of
+capital goods (Chart III.3).
+Refl ecting the lacklustre investment climate, new
+investment intentions have slowed down by 19 per cent
+on y-o-y basis in Q2 of 2016-17 (Chart III.4). It needs to
+be noted, however, that the Project Monitoring Group
+is striving to galvanise new investments; it cleared
+65 large projects in 2016-17 (up to September, 2016)
+worth `3.05 trillion (as compared with 89 projects
+worth `2.7 trillion in April- September, 2015-16). When
+these clearances fructify, these will increase the value
+of investment, with the majority of these projects in
+the roads, power, coal and petroleum sectors. While
+the stock of stalled projects declined by 44 per cent in
+Q1 and 28 per cent in Q2 of 2016-17 on a sequential
+
+MONETARY POLICY REPORT OCTOBER 2016
+anchor the evolution of aggregate demand in the
+Table III.2: Key Fiscal Indicators – Central
+economy, contributing 52.3 per cent of real GDP
+Government Finances (April-August)
+growth. For the fi rst half of the year cumulatively, a
+Indicator Actual as per cent of BE
+modest improvement in consumption spending may
+2015-16 2016-17
+be taking root. Overall, consumer goods production
+1. Revenue Receipts 30.3 28.0
+slowed in July, but remained in positive territory
+a. Tax Revenue (Net) 22.8 26.6
+for the third consecutive month on an improvement b. Non-Tax Revenue 61.5 32.5
+in the production of durables – refl ective of the 2. Total Non-Debt Receipts 29.7 27.3
+3. Non-Plan expenditure 41.6 39.6
+underlying resilience of urban consumption. Sales
+a. On Revenue Account 42.0 39.9
+of passenger vehicles – another indicator of urban
+b. On Capital Account 37.0 35.3
+consumption demand – posted double-digit growth 4. Plan expenditure 40.1 43.0
+in July-August. Urban spending is poised to pick up a. On Revenue Account 40.6 44.8
+b. On Capital Account 38.9 38.1
+with the implementation of the 7th CPC award on
+5. Total Expenditure 41.2 40.5
+wages, salaries and pensions from August as well as 6. Fiscal Defi cit 66.5 76.4
+from the ongoing preference of banks for relatively 7. Revenue Defi cit 74.7 91.8
+8. Primary Defi cit 206.9 565.9
+less risky retail and personal lending. Manufacturing
+purchasing managers index continued to point to Source: Controller General of Accounts (CGA), GoI.
+modest expansion in employment since July 2016.
+2016. Overall capital expenditure, however, increased
+Rural incomes and consumption spending should also in July-August, both on the plan and non-plan account,
+receive a strong boost from the satisfactory spread even as capital expenditure fell back marginally in
+and intensity of the south west monsoon, with the relation to BE in April-August (Table III.2).
+robust improvement in foodgrains production
+Gross tax revenue recorded signifi cant growth during
+and acceleration in sales of tractors (excluding
+April-August, led by buoyant income tax and excise
+exports) and two-wheelers in August providing lead
+duty collections (Chart III.5). The sharp growth in
+indications. While rural wage growth in April-July was
+income tax collections in April-August refl ected the
+slightly slower than a year ago, the implementation of
+change in advance tax payment requirements for
+the increase in minimum wages in the central sphere
+individuals2, lower refunds by the Government than
+(see Chapter II) should improve rural incomes, going
+forward.
+Turning to government fi nal consumption expenditure
+(GFCE) which provided strong support to aggregate
+demand in Q1, information gleaned from central
+government fi nances during Q2 so far (July-August,
+2016) indicates this was sustained by a growth of 19.3
+per cent in Plan revenue expenditure, largely in the
+form of spending on social and physical infrastructure1.
+Consequently, plan revenue expenditure in April-
+August rose as a proportion to budget estimates
+(BE) and on a year-on-year basis. Non-plan revenue
+expenditure was somewhat lower than a year ago in
+relation to BE for the fi rst fi ve months of 2016-17,
+with the expenditure on major subsidies and interest
+payments going through contractions in July-August
+1 Plan expenditure on ‘information and communication technology’,
+‘chemicals and fertilisers’, ‘heavy industries’, ‘textiles’, ‘urban development’
+,‘consumer affairs, food and public distribution’, ‘housing and urban poverty 2 As per the new rule, individuals are now required to make four instalments
+alleviation’, ‘social justice and empowerment’ and ‘human resource of advance tax payments from the current year as compared to three
+development’ are largely revenue expenditure. instalments earlier.
+
+MONETARY POLICY REPORT OCTOBER 2016
+in the previous year and increase in surcharge3 on
+high net worth individuals.
+Within indirect taxes, while union excise duty
+collections were buoyed by higher consumption of
+petroleum products, the growth in the service tax
+receipts was signifi cantly higher than a year ago due
+to the imposition of Krishi Kalyan cess at 0.5 per cent
+with effect from June 1, 2016. Non-tax revenue was,
+however, lower than last year as disinvestment failed
+to pick up despite conducive stock market conditions.
+In view of these developments, there was deterioration
+in the gross fi scal defi cit (GFD) as a proportion to BE
+during April-August, mainly on account of a sharp
+increase in the revenue defi cit.
+The Medium Term Expenditure Framework (MTEF)
+statement indicates that in order to absorb the
+complete impact of pay revisions in 2016-17, the
+and steel, and fertilisers. This was also refl ected in the
+provision for salary payments made in the Union
+current account defi cit narrowing to near-balance (0.1
+Budget will require some enhancement in the revised
+per cent of GDP in Q1 from 1.2 per cent a year ago).
+estimates. The fi rst batch of supplementary demands
+Merchandise exports declined by 3 per cent in April-
+for grants for 2016-17 announced in August entails a
+August in an environment of subdued global trade and
+net cash outgo of `209 billion over and above the BE.
+output, and net terms of trade gains were eroded by
+Therefore, fi scal spending may have to be restrained
+the fi rming up of commodity prices. Emerging market
+going forward in order to adhere to the target.
+economies (EMEs), which account for more than half
+The secondary impact of additional pay-out due to of India’s export receipts, have suffered a persistent
+the Pay Commission recommendations on aggregate decline in their import volume (Chart III.6).
+demand is likely to be muted as the revenue
+Gold import volume declined in April-August to almost
+expenditure multiplier is found to be less than one in
+a third of its level a year ago due to destocking of gold
+the Indian context4, partly refl ecting the dampening
+purchased earlier, subdued rural demand due to two
+impact of leakages through direct and indirect
+consecutive poor monsoons and possibility of some
+taxes. Moreover, as disbursements under the Pay
+supply through informal channels. The fall in non-
+Commission are undertaken without compromising
+oil non-gold imports in the year so far, particularly in
+the ongoing fi scal consolidation process, the growth
+the capital goods segment, refl ects the weak domestic
+enhancing impact will be moderate unlike the 5th and
+investment climate. Consequently, the merchandise
+6th Pay Commission awards.
+trade defi cit shrank sharply to US$ 34.7 billion in the
+Taking into account the surge in Q1, net exports fi rst fi ve months of 2016-17 from US$ 58.4 billion a
+contributed to the increase in aggregate demand in year ago. Net services exports declined by over 10 per
+the fi rst quarter of 2016-17 through a large saving on cent (April-July) as all major segments, except software
+account of cutbacks in major merchandise imports services, were in contractionary mode. The prospects
+such as petroleum, oil and lubricants (POL), gold, iron of private transfers, which had declined by about
+US$ 2 billion (a y-o-y decline of 11 per cent) in Q1, are
+3 The surcharge on high net worth individuals having income above `1 crore uncertain as the prolonged softness in crude prices
+has been increased from 12 per cent to 15 per cent from the current fi nancial
+takes its toll on remittances from the Middle East.
+year in line with the announcement made in the Union Budget 2016-17.
+4 Jain, Rajeev and Kumar, Prabhat (2013), “Size of Government Expenditure Disconcerting evidence has been forming for some
+Multipliers in India: A Structural VAR analysis”, RBI Working Paper Series 7.
+time now that the engine of trade liberalisation that
+Bose, Sukanya and N.R.Bhanumurthy (2015), “Fiscal Multipliers for India”,
+Margin:The Journal of Applied Economic Research, Vol. 9, pp. 379–401. powered global output and trade since the 1980s in
+
+MONETARY POLICY REPORT OCTOBER 2016
+a rapidly integrating world marketplace is stalling. III.2 Aggregate Supply
+The ratio of world trade to GDP has been languishing
+Output measured by gross value added (GVA) at basic
+since 2012, the longest phase of stagnation in the
+prices moderated marginally in Q1 of 2016-17 on
+post-World War II period. The volume of world trade
+a sequential y-o-y basis, although it was still a little
+has plateaued since the beginning of 2015, even as
+above the average quarterly GVA growth recorded
+underlying fi nancial fl ows are coming off their pre-
+in 2015-16 (Table III.3). Seasonally adjusted q-o-q
+global crisis peaks. More recent evidence is pointing to
+annualised growth indicates, however, a strengthening
+a sharp drop in the demand for EME exports from AEs,
+of momentum in Q1 relative to the immediately
+particularly from the US, notwithstanding the recovery
+preceding quarter (Chart III.7a)6.
+in US demand and the strength of the US dollar. While
+the biggest contraction of US demand is in respect of The April 2016 MPR had projected a gradual
+imports from China, imports from India have also improvement in GVA growth from 7.3 per cent in Q1 to
+fallen in value terms during 2016 so far. According to 7.7 per cent in Q2. With most of the initial assumptions
+the International Monetary Fund (IMF), US imports underlying these projections materialising, the actual
+from EMEs excluding China have been in contraction outcome for Q1 has matched the projection (Chart
+since 2015. This is being regarded as confi rmation of III.7b) (see Chapter I).Turning to Q2, the deceleration
+the weakening of US manufacturing spreading to EMEs in value added in agriculture and allied activities in
+through the channel of trade5. Imports from EMEs by Q1 is well-positioned to reverse, although the upturn
+the European Union have also been contracting since could undershoot the April 2016 projection slightly.
+2015. Trade as a driver of world growth is on the wane, The south-west monsoon commenced with a delay
+and instead a steady rise in protectionism is turning but soon gathered momentum and by mid-July, it had
+the tide of globalisation, possibly reversing it. India’s covered 89 per cent of the country’s meteorological
+trade sector has also faced considerable protectionism sub-divisional area with excess/normal rainfall. From
+in major partner economies. According to the Global the second week of August, it waned in intensity and
+Trade Alert database, Indian exports have been mainly by end-September, precipitation was 3 per cent below
+impacted directly or indirectly through various types the long period average (LPA) and was excess /normal
+of measures, both tariff and non-tariff, in partner across 85 per cent of the country’s meteorological
+countries. sub-divisional area7. Refl ecting the initial delay in
+Table III.3: Sector-wise Growth in GVA
+(Per cent)
+Item 2014-15 2015-16 2015-16 2014-15 2015-16 2016-17
+Growth Share Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+I. Agriculture, Forestry and Fishing -0.2 1.2 15.4 2.3 2.8 -2.4 -1.7 2.6 2.0 -1.0 2.3 1.8
+II. Industry 6.5 8.8 22.7 9.2 6.2 3.4 6.9 7.1 8.5 10.3 9.2 7.7
+(i) Mining & quarrying 10.8 7.4 3.1 16.5 7.0 9.1 10.1 8.5 5.0 7.1 8.6 -0.4
+(ii) Manufacturing 5.5 9.3 17.5 7.9 5.8 1.7 6.6 7.3 9.2 11.5 9.3 9.1
+(iii) Electricity, gas, water supply & other utilities 8.0 6.6 2.2 10.2 8.8 8.8 4.4 4.0 7.5 5.6 9.3 9.4
+III. Services 9.4 8.2 61.9 8.0 9.9 11.7 8.3 8.3 7.9 8.5 8.1 8.4
+(i) Construction 4.4 3.9 8.5 5.0 5.3 4.9 2.6 5.6 0.8 4.6 4.5 1.5
+(ii) Trade, hotel, transport, communication and services 9.8 9.0 19.2 11.6 8.4 6.2 13.1 10.0 6.7 9.2 9.9 8.1
+(iii) Financial, real estate & professional services 10.6 10.3 21.6 8.5 12.7 12.1 9.0 9.3 11.9 10.5 9.1 9.4
+(iv) Public administration, defence and other services 10.7 6.6 12.6 4.2 10.3 25.3 4.1 5.9 6.9 7.2 6.4 12.3
+IV. GVA at basic prices 7.1 7.2 100.0 7.4 8.1 6.7 6.2 7.2 7.3 6.9 7.4 7.3
+Source: CSO.
+5 Wheatley J, (2016), “Slump in US imports threatens to derail emerging market growth”, The Financial Times, September 18.
+6 Stronger momentum in Q1 is corroborated by other measures such as the three quarter moving SAAR of GVA.
+7 The spatial distribution of South West monsoon is measured by the production weighted rainfall (PRN) index, which rose by 17 percentage points as on
+September 30, 2016 over its level a year ago.
+
+MONETARY POLICY REPORT OCTOBER 2016
+the monsoon’s onset, kharif sowing started on a low movements in the index of industrial production (IIP)
+note, lagging behind last year’s acreage till fi rst week have been unduly infl uenced by a sharp contraction in
+of July. It picked up vigorously thereafter and by the the lumpy and large order-driven output of insulated
+end of September, it was 3.5 per cent higher than last rubber cables (IRC). It has produced strong and
+year’s sown area, most notably under pulses (29.2 per overwhelming effects on the headline index as well as
+cent), but also with respect to rice, coarse cereals and on capital goods of which it is a component. Trimmed
+oilseeds. of IRC, industrial production would have risen by 3.2
+per cent during April-July 2016 instead of contracting
+This has brightened the prospects of kharif crops
+by 0.2 per cent. This is corroborated by the movements
+production. According to the fi rst advance estimates,
+in a truncated IIP8 (Chart III.8). Manufacturing
+the production of kharif foodgrains during 2016-17
+output contracted in July, although excluding IRC,
+at 135.0 million tonnes was 8.9 per cent higher than
+it would have posted an expansion of 2.1 per cent.
+last year. The production of kharif pulses was a record
+Nonetheless, manufacturing performance continues
+high at 8.7 million tonnes. Among commercial crops,
+to face headwinds from the subdued business and
+the production of oilseeds and cotton increased by
+41.0 per cent and 6.6 per cent, respectively, over last
+year, even as that of sugarcane contracted.
+The satisfactory performance of the south west
+monsoon augurs well for the prospects of the rabi
+crops. The signifi cant improvement in reservoir
+levels, especially in the Central and Western region,
+which accounts for around 64 per cent of irrigated area
+from these reservoirs, and the improvement in soil
+moisture conditions should enable the achievement
+of the rabi foodgrains target of 137.4 million tonnes
+(higher than that of 128.2 million tonnes last year).
+Growth of value added in the industrial sector in
+Q1 was pulled down by a contraction in mining and
+quarrying caused inter alia by a deceleration in the
+production of coal and absolute declines in the output
+of crude petroleum and natural gas. Turning to Q2,
+industrial production contracted in July, though a
+8 Truncated IIP: 96 per cent of IIP excluding top 2 per cent and bottom 2 per
+caveat is in order. Since the second half of 2015-16, cent of volatile items.
+
+MONETARY POLICY REPORT OCTOBER 2016
+investment environment. Illustratively, while sales The environment for industrial activity should
+of non-government manufacturing companies improve with recent policy initiatives like liberalisation
+contracted in Q1 of 2016-17, profi tability was shored of foreign direct investment (FDI) policy in defence,
+up by other income and still soft input costs rather
+civil aviation, pharmaceutical and broadcasting. This
+than a durable strengthening of output, with some
+is being refl ected in the manufacturing purchasing
+indications of improvement in Q2. The corporate
+managers index which has remained in the
+sector is challenged by high levels of leverage, relative
+expansionary zone since January 2016 mainly driven
+to debt servicing capacity and concentration of risks.
+by new and export orders.
+In this context, the vulnerability of the corporate
+sector to external debt has been amplifi ed by low debt Value added in the services sector, which constitutes
+servicing capacity.
+around 63 per cent of total GVA, accelerated in Q1 on
+As regards other components of the IIP, electricity the back of stronger growth in public administration,
+generation dipped in July after growing at a healthy defence and other services, supported by fi nancial,
+pace in preceding months. It has fallen further real estate and professional services. On the other
+in August due to contraction in thermal power hand, activity in the construction sector slowed
+generation – the fi rst time in 16 months – with
+down and GVA growth in trade, hotels, transport and
+the plant load factor falling to a low of 52 per cent.
+communication slowed sequentially. In Q2, public
+Electricity demand has also been experiencing a
+administration and defence services would have
+sustained moderation in an environment of subdued
+been boosted by the implementation of the 7th CPC
+offtake from the manufacturing sector as well as from
+award and one rank one pension (OROP) from August.
+stress-laden distribution companies (DISCOMs). The
+The robust improvement in sales of two wheelers,
+demand-supply gap narrowed to 0.5 per cent of total
+demand from 2.5 per cent a year ago. Consequently, passenger cars and tractors in recent months suggests
+suppliers sold electricity in the spot exchange – that GVA in the transportation sub-sector is picking up
+volumes reached a record high of 3,580 million units (Table III.4).
+in July before dipping to 3,445 million units in August
+Table III.4: Services Sector: Heat Map
+– bringing down exchange-traded spot prices to `2.20
+per kilowatt hour (kWh), lower than prices under Month
+long-term power purchase agreements (PPAs).
+Indicator
+In terms of use-based activity, consumer non-
+durables slipped back into negative territory in July
+– a nine-month long slump had been interrupted
+by tentative positive growth in June – indicating
+that rural consumption is still weak. On the other
+hand, consumer durables have been supported by
+the abiding strength of urban consumption. While,
+basic goods decelerated, capital goods excluding IRC
+rose by barely 0.5 per cent in July, refl ecting subdued
+investment demand. The recent momentum in core
+industries was sustained by a sharp pick-up in steel
+production in August 2016 refl ecting inter alia low
+base and imposition of minimum import price, anti-
+dumping and safeguard duties. This, in consonance
+with the positive trend in cement production, augurs
+well for construction sector – even though the output
+of core industries as a whole was constrained by
+a decline in the production of coal, crude oil and
+natural gas, and deceleration in refi nery products and
+electricity generation.
+
+41-peS 41-ceD 51-raM 51-nuJ 51-peS 51-ceD 61-raM 61-nuJ 61-luJ 61-guA
+Steel Production
+Steel Consumption
+Cement Production
+Cargo Handled at Ports
+CMV-Production
+CMV-Sales
+Passenger Car Sale
+Two Wheeler Sale
+Three Wheeler Sale
+Rail Freight
+Non-oil Import (US$)
+Foreign Tourist Arrival
+Passenger-Domestic Air
+Passenger-International Air
+Freight International Air
+Bank Credit
+Aggregate Deposit
+CMV: Commercial Motor Vehicles.
+Note: y-o-y growth rates are mapped with green cells indicating high and
+red cells indicating low growth rates.
+Source: Staff estimates based on data compiled from various sources.
+MONETARY POLICY REPORT OCTOBER 2016
+Construction activity remained subdued on account
+of stalled projects in the sector and onset of monsoon.
+As monsoon winds up, the construction sector is
+set for a turnaround on the package of measures
+approved by the Cabinet Committee on Economic
+Affairs (CCEA) to revive stalled projects, and especially
+the unclogging of cash fl ows. Available information
+shows that the construction of highways and capital
+expenditure under Railways are picking up and there
+are similar signs in respect of the sales of commercial
+properties in main cities. Though backed by low base,
+the consumption of steel accelerated in August after
+two months of contraction. Port cargo continues to
+decelerate, mostly on account of slowdown in imports
+of coal as domestic production picked up, and also due
+to contraction in tonnage of iron ore and fertilisers.
+Railway freight contracted due to low haulage of coal,
+and foodgrains, but it is expected to turn around once
+kharif procurement of foodgrains starts. Growth of
+handicap to the accuracy of these estimates. Given
+foreign tourist arrivals accelerated on account of the
+these caveats, updated estimates of potential output
+e-visa facility. Accordingly, the services PMI improved
+suggest that the output gap – the deviation of actual
+further, driven by new business and improved
+output from its potential level and expressed as a
+business expectations in Q2.
+percentage of potential output – remains negative, as
+III.3 Output Gap
+it has been since 2015-16, but is slowly closing (Chart
+The above assessments of the formation of aggregate III.9). This is corroborated by the latest round of the
+demand and aggregate supply provide insights into Reserve Bank’s order books, inventory and capacity
+the state of the economy vis-a-vis the underlying utilisation survey which shows capacity utilisation
+business cycle and, in turn, the trade-off between
+plateauing, after declining from 2011-12 (Chart III.2).
+growth and infl ation confronting the setting of
+Economic activity is evolving in close alignment with
+monetary policy. In this context, measurement of
+staff’s projections, still below its underlying potential.
+the potential level of output i.e., the sustainable level
+of output in which the intensity of resource use is Persisting slack in the economy has restrained a fuller
+non-infl ationary, becomes crucial. Bearing in mind expression of aggregate demand, which remains
+that potential output is unobservable, that it has to essentially consumption-driven. The continuing
+be estimated and that these estimations are highly weakness in investment poses a risk not only to the
+sensitive to the choice of period and methodology prospects of the recovery gaining momentum on a
+and the availability of data, staff has been employing
+durable basis but also to potential output itself. There
+the pragmatic approach. It combines a battery of
+is also some evidence, anecdotal and estimation-based,
+methodologies, including different univariate fi lters
+that productivity is getting impaired. Key to breaking
+- Hodrick–Prescott (HP); Baxter-King (BK); Christiano-
+out of this low-level trap is a revival of investment,
+Fitzgerald(CF); multivariate Kalman fi lter – with
+especially private, in a conducive environment of
+estimates of the production function approach
+reforms in product and factor supplies that unlock
+in a principal components framework to derive a
+productivity and competitiveness, and raise the
+proximate view of potential output, while cautioning
+economy’s potential itself. This acquires urgency
+about the limitations with which these estimates
+have to be used (see MPRs of September 2015 and in view of the prolonged weakening of the global
+April 2016). The non-availability of a historical profi le economy and the sense that global potential output
+of GVA/GDP under the new series is also a major may have become lastingly debilitated.
+
+MONETARY POLICY REPORT OCTOBER 2016
+IV. Financial Markets and Liquidity Conditions
+Liquidity conditions have eased significantly, consistent with the accommodative stance of monetary policy. Bond
+yields touched multi-year lows. Commercial paper (CP) and corporate bond markets witnessed stronger transmission
+of monetary policy relative to the credit market, with issuances of CPs and corporate bonds increasing. Bank credit
+growth remains sluggish, albeit consistent with the nominal GDP growth outturn.
+Spells of turbulence have kept global fi nancial imbibed these rigidities, they have declined more
+markets unsettled since the April MPR, mainly than lending rates in recent months.
+sparked by worries about weakening global growth
+IV.1 Financial Markets
+and diminishing confi dence in the ability of central
+Q1 commenced with money markets fully
+banks to nurture a sustainable recovery. In Q1 of
+2016-17, equity, bond and commodity markets traded transmitting the 25 bps cut in the repo rate of April
+on a subdued note, with higher volatility and investor 5. Liquidity conditions were infl uenced by restraint
+differentiation having widened credit spreads on EME in government expenditure and a sustained elevation
+and corporate assets. The universe of negative yields in currency demand entailing a leakage from the
+expanded rapidly in this risk-averse environment. banking system during rabi procurement period of
+The Brexit vote of June 23, however, took markets April and May. Open market purchases and term
+by surprise, causing equity, currencies and bonds repos of varying tenors, in addition to the Reserve
+to plunge across the globe. Yet, recovery too was Bank’s normal liquidity operations, assuaged liquidity
+surprisingly quick, especially in the context of a pressures. Consequently, the weighted average call
+black swan type event. In Q2, volatility has subsided, money rate (WACR) and collateralised overnight
+commodity prices have fi rmed up, credit spreads have rates traded tightly around the repo rate with a slight
+narrowed, equity markets have rallied to new highs softening bias (Chart IV.1). The return of currency
+and portfolio fl ows to EMEs have resumed. Although to the system towards the end of May and a pick-up
+uncertainty around the Fed’s decision of September in government expenditure in June helped to ease
+21 did push up bond yields, other market segments liquidity conditions.
+maintained poise and risk appetite has intensifi ed.
+Two developments are noteworthy in the evolution of
+Domestic fi nancial markets have been resilient to these money market in this period. First, with the relaxation
+global developments and have, in fact, shown greater
+sensitivity to domestic cues. Even in the equity and
+foreign exchange segments, which are most vulnerable
+to global spillovers, the impact of international events
+has been transient. The Indian rupee turned out to
+be among the most stable currencies, notwithstanding
+fears about FCNR(B) redemptions commencing in
+September. In the money markets, interest rates
+have eased in the fi rst half of 2016-17 propelled
+by comfortable liquidity conditions, and volatility
+has fallen. Bond yields touched multi-year lows,
+responding to abundant liquidity and expectations of
+falling infl ation cheered by a satisfactory monsoon. By
+contrast, credit markets have remained isolated in this
+generalised softening, with lending rate movements
+reportedly inhibited by asset quality concerns and
+balance sheet repair. Although deposit rates have also
+
+MONETARY POLICY REPORT OCTOBER 2016
+system, stepped up government expenditure –
+necessitating ways and means advances (WMA)
+from the Reserve Bank – and stronger mobilisation
+of deposits. Accordingly, the Reserve Bank switched
+into a liquidity absorption mode with variable rate
+reverse repo operations, including of 28-day tenor for
+the fi rst time. Surplus transfer from the Reserve Bank
+was quickly followed by large coupon payments and
+redemptions in mid-August.
+The WACR remained below the repo rate throughout,
+tracked by other overnight money market rates. In
+fact, on 95 per cent of the trading days in the fi rst half
+of 2016-17 (excluding Saturdays), the WACR traded
+marginally below the repo rate (by about 11 bps on an
+average). The benign effects of comfortable liquidity
+conditions in the overnight segments spread through
+the continuum of money market rates, easing term
+in reserve maintenance norms (to a daily minimum of premia and softening three-month CP and certifi cate
+90 per cent from 95 per cent earlier) as part of the of deposit (CD) rates to intra-year lows. In fact, CP
+refi nements in the liquidity management framework rates fell well below the weighted average lending
+in April (see section IV.2), there was a moderation rate (WALR) on fresh rupee loans of up to one-
+in banks’ holdings of excess reserves (Chart IV.2). year maturity, rendering CP issuances an attractive
+Secondly, the market response to the narrowing of alternative for raising working capital funds in an
+the policy rate corridor to +/-50 bps on April 5 was environment characterised by risk aversion among
+refl ected in a compression of money market spreads banks (Chart IV.4). Higher rated corporates raised
+vis-à-vis the repo rate and a decline in volatility (Chart `1.37 trillion in the fi rst half of the year (up to mid-
+IV.3). September 2016) through CPs.
+With the evolution of liquidity condi tions passing The implementation of the Basel III liquidity coverage
+a tipping point in June, a new phase was evident in ratio (LCR) has impacted liquidity in money markets
+Q2, aided by the return of currency to the banking across the world. In order to cushion these pressures,
+
+MONETARY POLICY REPORT OCTOBER 2016
+the Reserve Bank has been providing banks headroom by early May, a softening bias set in as fears of a hike
+by allowing carve-outs in the prescription of SLR in the US federal funds rate receded and the Reserve
+cumulating to 11 per cent of NDTL, including 2 per Bank’s open market operations lifted sentiment. As
+cent available under the marginal standing facility infl ation moved up higher than expected, however,
+(MSF). In this sense, the SLR has enabled a friction- gilt yields hardened and rising international crude
+free transition to the LCR relative to the cross-country
+prices added an upside. Foreign portfolio investors
+experience (Box IV.1).
+(FPIs) sold net debt amounting to `106 billion during
+Bond markets began Q1 on a fi rm note as investors May and June. Bond markets were least impacted by
+engaged in consolidation and profi t-booking, although Brexit, with 10-year FIMMDA generic yields moving up
+Box IV.1: Basel III Liquidity Coverage Ratio and the Operating Target of Monetary Policy
+The phased introduction of the Basel III Liquidity method of moments (GMM) estimates in a dynamic
+Coverage Ratio (LCR) since January 2015 across panel data regression framework involving monthly
+jurisdictions has altered volume and rates in the data on bank-wise LCR positions relative to the
+unsecured segment of the money market, posing prescribed norm, capital to risk weighted asset ratios
+challenges for the implementation of monetary policy
+(CRAR), gross non-performing assets (GNPA) as a ratio
+(Bonner and Eijffi nger, 2012; and Schmitz, 2013). Under
+of total assets and a dummy* to capture the impact
+the LCR regulation, a bank’s stock of high quality liquid
+of the LCR on the money market show that banks
+assets (HQLA) must exceed its projected total net cash
+operating closer to the prescribed LCR norm tend to
+outfl ows over the next 30 calendar days under a stress
+borrow at a higher rate in the call market (Table 1).
+scenario. Any borrowing from the uncollateralised
+Banks with higher CRAR seem to have the advantage
+market of less than 30 days maturity attracts a run
+of borrowing at a lower rate, while banks with higher
+off rate of 100 per cent, i.e., to be repaid within 30
+GNPA have to pay higher rates on their call borrowings.
+days, and therefore, would require 100 per cent HQLA
+backing. A bank can borrow and retain cash as part of While the WACR (and call volumes) are sensitive to
+HQLA to avoid a fall in LCR, but in that case borrowed the LCR regulation, the overall impact on the WACR is
+liquidity cannot be used for non-HQLA asset fi nancing. limited to 7 bps. Thus, the accommodation provided
+This is observed to have altered banks’ activity in the to banks within the prescribed SLR has been critical in
+call money market in the post-LCR regime. Generalised mitigating adverse effects of the LCR on the WACR.
+Table 1: Estimated Impact of LCR on Call Market Spread and Volumes
+WACR Spread over Repo Rate Call Market Borrowing to Total Asset Ratio
+Dep. Var. Dynamic GMM Dynamic GMM
+Dep. Var.
+Coeff. P-val Coeff. P-val
+Constant -0.090 0.18 Constant 12.180 0.05
+Spread(-1) -0.200 0.00 CallVol(-1) 0.180 0.00
+LCRD(-1) 0.070 0.02 CallVol(-2) -0.400 0.00
+CRAR (-3) -0.004 0.00 LCRD(-1) 6.150 0.08
+GNPA (-3) 0.060 0.01 CDratio 0.0004 0.00
+Wald Chi-square 33.03 (0.00) Wald Chi-square 167.1 (0.00)
+AR(1) -5.51 (0.00) AR(1) -2.29 (0.02)
+AR(2) -1.66 (0.10) AR(2) -0.35 (0.72)
+Sargan stat. (2-step) 58.89 Sargan stat. (2-step) 61.1
+* The dummy assigns a value of one to banks with LCR positions within 10 per cent above the prescribed norm and zero otherwise; given that the
+prescribed LCR in India was raised to 70 per cent in January 2016, banks operating at less than 80 per cent LCR could be expected to borrow in the
+call market at a higher rate relative to others.
+References:
+Bonner, Clemens and Sylvester Eijffi nger (2012), “The Impact of the LCR on the Interbank Money Market?”,
+De Nederlandsche Bank Working Paper No.364, December.
+Schmitz, Stefan W (2013), “The Impact of the Liquidity Coverage Ratio (LCR) on the Implementation of Monetary
+Policy”, Economic Notes, Wiley Blackwell, June.
+
+MONETARY POLICY REPORT OCTOBER 2016
+by eight basis points only on June 23, and softening In the corporate bond segment, issuances fell by
+immediately thereafter. With infl ation in India rising 4.1 per cent in Q1 indicating subdued corporate
+beyond the usual seasonal upturn at this time of the investment with a preference for refi nancing rather
+year, yields remained range-bound in June, although than investing in new capacities. Corporate bond
+open market purchase operations continued to yields – especially on AAA corporate bonds – declined
+provide comfort. signifi cantly in Q2, tracking gilts. This galvanised
+Starting in mid-June, gilt yields softened into Q2 a spate of issuances to take advantage of the rate
+with abundant liquidity and optimism generated differential vis-à-vis bank lending rates. Overall
+by the satisfactory progress of the monsoon lifting resources mobilised through private placement
+sentiment, notwithstanding the peaking of infl ation increased by around 12 per cent in H1 (up to August)
+in July which the market had fully priced in. The over the corresponding period of last year. While FPI
+post-Brexit resumption of portfolio fl ows into the gilt investment in corporate bonds witnessed net outfl ows
+segment of the bond markets also softened yields. till August 2016 mainly due to narrowing of interest
+Trading volumes in the secondary market increased rate differentials and stable hedging costs, investment
+from a daily average of `489 billion in June to `1057 by mutual funds (excluding PSU bonds) increased by
+billion in July and `935 billion in August. A substantial around 31 per cent over March 2016. Corporates also
+part of the increase in activity was on account of global raised resources through issuances of masala bonds.
+funds, pushed out of advanced economies by negative These bonds are denominated in rupees and entail
+yields, and also profi t booking by banks. no exchange rate risk for the issuers. In the fi nancial
+year so far, companies have raised around `88
+The new 10-year benchmark announced on August
+billion through masala bonds. With these alternative
+29, 2016 had a dramatic effect. In the ‘when issued’
+avenues, corporates have cut down substantially on
+market, it closed at 6.98 per cent on September 2,
+their recourse to external commercial borrowings.
+when trading ceased in that segment, setting the
+stage for the OTC market. The 10-year benchmark Equity markets experienced choppy trading in Q1.
+yield touched a multi-year low of 6.80 per cent in the The Brexit referendum triggered some panic FPI
+secondary market on September 23. In H1 of 2016-17, selling, but in the last week of the month, the Sensex
+gilt yields have eased by more than 50 bps as against recovered these losses and posted increases on the
+a policy repo rate cut of 25 bps (Chart IV.5). Market back of optimism over the progress of the monsoon
+sentiment was also buoyed by the announcement of a and the Cabinet’s approval of the 7th Pay Commission
+number of measures by the Reserve Bank and SEBI to recommendations.
+improve depth and liquidity in the market1.
+Equity markets turned up in Q2, supported by
+rejuvenation of FPI buying interest and recovery in
+global equity markets over expectations of expanded
+accommodation in monetary policies of systemic
+central banks. The prospects of the GST coming
+into force also lifted market sentiment. Overall, the
+benchmark BSE Sensex posted a gain of around 21 per
+cent over its February 2016 level in the fi rst half of 2016-
+17. Mid-cap and small-cap stocks outperformed the
+benchmark indices, pointing to a greater signifi cance
+of domestic macroeconomic conditions relative to the
+global economy for these fi rms. These developments
+have focused interest in market valuations. The price-
+1 They include: allowing FPIs to trade on the negotiated dealing system- order
+matching (NDS-OM) platform; permitting individual investors with demat
+accounts with depositories to trade directly on NDS-OM; and enabling a
+market making scheme by Primary Dealers in designated semi-liquid
+securities. Amended SEBI regulations allowed FPIs to directly access the
+corporate bond market without brokers in September.
+
+MONETARY POLICY REPORT OCTOBER 2016
+to-earnings (PE) ratio of the Sensex was at 20.7 at end-
+September as against a range between 7.3 (Russia) and
+25.7 (South Africa) for other EMEs.
+Through the fi rst half of 2016-17, resource mobilisation
+through IPOs and right issues has been high – 32
+companies raised `162.9 billion in H1 as against
+`126.6 billion during the same period a year ago. What
+is interesting is that this recent buoyancy in IPOs also
+evinced strong retail interest – the average number of
+times the retail portion of the IPO subscription rose
+from about 2.4 in 2015-16 to 7.7 in 2016-17 so far.
+The gains made on listing mirrored this surge in retail
+participation – the average listing premium rose from
+5.1 per cent in 2015-16 to 22.5 per cent in 2016-17.
+In the foreign exchange market, the rupee traded
+with a depreciating bias against the US dollar in Q1,
+mainly refl ecting the strengthening of the US dollar
+against EME and commodity currencies and the yen
+on the back of weak macroeconomic data out of China In the credit market, activity weakened as non-food
+and renewed political turmoil in Brazil. Higher than credit growth remained sluggish through H1 (Chart
+expected infl ation readings and import payment- IV.7). Movements in credit fl ows, however, need to be
+related foreign currency buying by oil marketing juxtaposed against two developments which suggest
+companies and PSUs also impacted the rupee’s that underlying credit market activity may not have
+movements. FPI outfl ows, particularly from the debt
+been as feeble as the headline numbers suggest.
+segment, kept the rupee under downward pressure,
+First, banks have written-off/sold loans to asset
+which intensifi ed with the Brexit vote; however,
+reconstruction companies (ARCs), which effectively
+the rupee recovered ground swiftly, as sentiment
+compressed their loan books. Second and more
+improved and FPI fl ows returned vigorously. Viewed
+importantly, more than half of the Ujawal DISCOM
+in relation to EME peers, rupee moved in a narrow
+Assurance Yojana (UDAY) bond issuances during the
+band, even as several other currencies appreciated
+fi nancial year so far represent conversion/swapping of
+in nominal terms, some of them going through
+bank credit into special securities. Adjusting for the
+corrections of sizable past depreciation.
+UDAY bond issuances, the fl ow of non-food credit to
+The bounce back from Brexit sustained an appreciating
+the economy during H1 (up to September 16, 2016)
+bias in the rupee’s movements into Q2, with
+was comparable to that in the corresponding period of
+intermittent downsides from the strength of the US
+dollar. Nonetheless, an overall optimism in the rupee
+Table IV.1: Nominal and Real Effective Exchange
+was evident in the strong resumption of FPI infl ows
+Rates: Trade-Based (Base: 2004-05=100)
+in both the equity and debt markets. While the rupee
+traded range-bound in the rest of Q2, uncertainty Item Index: Appreciation (+) /
+September Depreciation (-) (per cent)
+refl ected in one-month implied volatility increased.
+23, 2016 (P)
+September March 2016
+The rupee moved in a narrow range against the US 23 over over March
+dollar and the euro in H1. It appreciated strongly March 2016 2015
+against the pound sterling, but depreciated against the
+36-currency REER 114.59 3.6 -2.3
+Japanese yen, mirroring cross-currency movements 36-currency NEER 74.50 1.1 -4.1
+against the US dollar (Chart IV.6). In terms of the 6-currency REER 126.42 3.7 -3.1
+nominal effective exchange rate index (36-currency 6-currency NEER 66.97 0.7 -6.6
+`/ US$ 66.66 0.5 -6.8
+basket), the rupee exhibited stability through H1,
+(As on September 30, 2016)
+whereas in terms of the real effective exchange rate
+P: Provisional.
+index, it appreciated by 3.6 per cent since March 2016 Note: REER fi gures are based on Consumer Price Index (Combined).
+(Table IV.1).
+
+MONETARY POLICY REPORT OCTOBER 2016
+last year (Chart IV.8). In terms of industry sub-sectors, period, effectively leaving the WALR on outstanding
+bank credit to chemicals, textiles, food processing and rupee loans unchanged. For fresh rupee loans, the
+mining further contracted. Non-banking sources of WALR declined by 5 bps (April-August). Rupee loans
+funding for the commercial sector, both foreign and that are being disbursed since April 1, 2016 are priced
+domestic, also remained subdued. As a result, the total at the MCLR, and therefore, the base rate continues
+fl ow of resources to the commercial sector during the
+to account for a substantial share in the pricing of
+year (up to September 16, 2016) was lower by about 15
+outstanding credit.
+per cent than a year ago.
+A comparison of the behaviour of key components of
+The Reserve Bank instituted a new lending rate system
+the MCLR reveals that the marginal cost of funds has
+for banks – the marginal cost of funds based lending
+moderated in respect of both PSBs and private sector
+rate (MCLR) system – effective April 1, 2016 (Box IV.2).
+banks, driven down by the marginal cost of borrowings
+During H1 of 2016-17, the median one-year MCLR of
+(Chart IV.10). On the fl ip side, the expected return
+PSBs and private sector banks declined by 15 bps and
+on net worth has increased from an already elevated
+25 bps, respectively (Chart IV.9). Banks have, however,
+increased the spread and term premia over the same level.
+
+MONETARY POLICY REPORT OCTOBER 2016
+Box IV.2: Transmission under the BPLR, Base Rate and MCLR Regimes
+The benchmark prime lending rate (BPLR) system two components, viz., business strategy and credit risk
+introduced in 2003 fell short of its original intent of premium. In principle, the role of each component of
+serving as the reference rate for pricing loan products the MCLR can be monitored and analysed. Different
+linked to the actual cost of funds. Perversely, the components of the MCLR vary widely across banks
+share of sub-BPLR lending rose as high as 77 per at any point in time, refl ecting: (i) differences in the
+cent by September 2008, concentrated at longer term composition and maturity profi le of their liabilities –
+tenors (above three years), effectively undermining current, savings and time deposits - and the extent of
+the BPLR. Residential housing and consumer durables reliance on retail vis-a-vis wholesale customers, which
+were outside the purview of the BPLR and sub-BPLR has a bearing on the cost of funds; (ii) divergences in
+lending became a source of distortion in terms of cross- the operating cost environment of banks arising from
+subsidization across borrower categories. differences in the use of technology, quality of human
+capital and the geographical spread of bank branches;
+The base rate system, which came into effect in July
+and (iii) the return on net worth expected by banks.
+2010, was meant to guard against the arbitrary pricing of
+loans prevalent under the BPLR system by disallowing An inter-temporal comparison of monetary policy
+loans at sub-prime rates. However, discrimination in transmission shows that the magnitude of transmission
+the pricing of credit between new and old customers varies across regimes and policy cycles. The
+continued as banks often tweaked the spread over transmission of monetary policy is marked by long and
+the base rate. The fl exibility accorded to banks in the
+variable time lags with asymmetric market responses to
+determination of cost of funds – average, marginal or
+policy impulses – generally higher during a tightening
+blended cost – rendered assessment of transmission
+phase and lower during an easing phase, irrespective
+diffi cult.
+of the prevailing regime for pricing of credit (Table 1).
+The MCLR system introduced on April 1, 2016 was In the current environment, factors that continue to
+designed taking into account limitations of both the impede transmission include: (i) fi xed interest rates
+BPLR and the base rate regimes. Under the MCLR offered on savings deposits (though deregulated)
+system, banks determine their benchmark lending which, along with current accounts, constitute around
+rates linked to marginal cost of funds. The MCLR 35 per cent of aggregate deposits, thereby stifl ing
+consists of four components: (a) marginal cost of funds transmission to more than a third of deposits; (ii) no
+(i.e., marginal cost of borrowings comprising deposits reduction in interest rates on small savings in Q2 of
+and other borrowings, and return on net worth), (b) 2016-17, followed by a marginal reduction of 10 bps in
+negative carry on account of cash reserve ratio (CRR), Q3, notwithstanding a notable decline in G-sec yields;
+(c) operating costs and (d) term premium/discount for (iii) stressed asset quality of banks and pricing of risk
+prescribed maturities. The MCLR plus spread is the premium refl ecting risk aversion; and (iv) sluggish
+actual lending rate for a borrower. The spread comprises demand for bank credit.
+Table 1: Transmission Under Different Regimes and Policy Cycles (Change in median rate in basis points)
+Phase Policy Variables Public Sector Banks Private Sector Banks Foreign Banks
+CRR Repo Reverse BPLR Base MCLR BPLR Base MCLR BPLR Base MCLR
+Rate Repo Rate (1 Year) Rate (1 Year) Rate (1 Year)
+Rate
+Tightening
+Apr 2004- Sep 2008 450 300 150 300 337 132
+Easing
+Oct 2008- Feb 2010 -400 -425 -275 -200 -37 13
+Tightening
+Mar 2010-June 2010 100 50 50 0 0 0
+Jul 2010- Mar 2012 -50 325 375 300 275 262 283 12 250
+Easing
+Apr 2012-June 2013 -150 -125 -125 -25 -50 0 -8 25 -30
+Tightening
+July 2013-Dec 2014 0 75 75 0 0 33 25 0 30
+Easing
+Jan 2015-Mar 2016 0 -125 -125 0 -55 -8 -50 0 -62
+Apr 2016- Sep 2016 0 -25 25 -7 -5 -15 -125 0 -25 0 -13 -28
+
+MONETARY POLICY REPORT OCTOBER 2016
+IV.2 Liquidity Conditions and the Operating
+Procedure of Monetary Policy
+Under the amended RBI Act, 1934 and related
+notifi cations, the Reserve Bank is enjoined to set out
+the operating procedure of monetary policy and any
+changes thereto in the public domain. This operating
+procedure – embodied in the Reserve Bank’s liquidity
+management framework – was published in the
+April 2015 MPR, Box IV.I. The central premise of the
+operating procedure is to achieve the operating target
+of monetary policy – to align the weighted average call
+money rate (WACR) with the repo rate through active
+liquidity management, consistent with the stance of
+monetary policy. Based on continuous assessment
+of the performance of the operating framework in
+pursuit of this objective and the evolving nature of
+liquidity demand in the economy, major changes were
+introduced in the framework in April 2016, which factors which were evened out through fi ne-tuning
+included: (a) narrowing the liquidiy adjustment facility operations involving variable rate repo auctions of
+(LAF) corridor around the policy repo rate from +/- tenors ranging between 5 days and 21 days.
+100 bps to +/-50 bps; (b) smoothening the supply of
+In Q2, with the Government taking recourse to WMA
+liquidity through timely use of open market purchase/
+and overdrafts (ODs) in the fi rst week of July, the
+sale auctions in conjunction with normal liquidity
+liquidity conditions moved to a surplus. Fine-tuning
+facilities and fi ne-tuning operations; (c) progressively
+term reverse repo auctions – the key instrument for
+lowering the ex ante liquidity defi cit in the system to
+absorbing surpluses – exceeded `1 trillion around
+a position closer to neutrality; and (d) reducing the
+this time. Easy liquidity conditions persisted in early
+minimum daily maintenance of the CRR from 95 per
+August, reaching near balance when the Reserve
+cent of the requirement to 90 per cent.
+Bank transferred its surplus to the Government on
+Since the introduction of these refi nements in the August 11. With government spending picking up,
+liquidity management framework, the Reserve Bank subdued currency demand during July and August,
+has injected liquidity of `1.01 trillion through open
+market operations (OMOs) in the fi rst half of the year.
+Including the liquidity impact of foreign exchange
+market operations, the net injection of permanent
+liquidity was of the order of about `1.6 trillion (Chart
+IV.11), which has signifi cantly offset the infl uence of
+the two key autonomous drivers of liquidity – cash
+balances of the Government and currency demand
+(Chart IV.12).
+In Q1, currency demand increased by `600 billion
+in the fi rst three weeks of April. Accordingly, `300
+billion was injected through open market purchases
+in April and `400 billion in May to accommodate the
+higher liquidity defi cit in the system, given the access
+to the LAF averaging around `1 trillion. Gyrations in
+liquidity conditions were infl uenced by fl uctuations
+in Government cash balances and other frictional
+
+MONETARY POLICY REPORT OCTOBER 2016
+and proactive front-loading of liquidity by the Reserve Structural and cyclical factors impeding transmission
+Bank in anticipation of potential pressure associated to bank lending rates, particularly stressed balance
+with redemptions of FCNR(B) deposits kept liquidity
+sheets of banks and sluggish credit growth, may
+conditions in surplus mode. In the early part of
+require a review of the MCLR implementation by
+September, with the Government resorting to WMA
+banks, given the context of signifi cant softening of
+again, the net LAF absorption reached `1 trillion.
+long-term yields. In this scenario, the Reserve Bank
+In anticipation of liquidity pressures arising from
+would continue to manage liquidity proactively and
+advance tax payments in September, the Reserve Bank
+consistent with the stance of monetary policy, while
+conducted an OMO purchase auction of `100 billion
+on September 8. Liquidity defi cit returned to a surplus taking timely and appropriate measures to insulate
+mode by the end of the month. the system from shocks.
+
+MONETARY POLICY REPORT OCTOBER 2016
+V. External Environment
+Global economic activity and trade remain subdued in 2016 so far. While advanced economies (AEs) confront
+persisting slack and low inflation, several key emerging market economies (EMEs) have had to contend with slower
+economic activity and sluggish investment.
+Since the MPR of April 2016, global growth and spending on oil wells, equipment and inventories.
+trade have weakened and new risks to the outlook In Q3, factory activity contracted for the fi rst time
+have slanted the balance further to the downside. in six months in August amidst slumping orders and
+Industrial activity, in particular, has slumped, going production. Labor market conditions, on the other
+into contraction in some AEs. Rising protectionism is hand, rebounded to positive territory in July from a
+threatening to accentuate the compression of trade six-month slump and continued to improve in the rest
+volumes. While commodity prices have fi rmed up, of Q3 with low levels of layoffs in August and a drop
+the outlook remains subdued. Crude oil prices rose in jobless claims to a two-month low in September.
+to a recent peak in Q2 of 2016 but mostly on supply
+In the Euro area, growth decelerated from Q1 to Q2,
+disruptions across geographies. In Q3, this upturn has
+both sequentially and y-o-y. Net exports and consumer
+been curbed by higher inventories. Prices of precious
+spending supported growth, but fi xed investment and
+metals have been buoyed by safe haven demand, a
+inventories operated as drags. Industrial production
+telling insight into the state of the global economy.
+contracted in July. The re-emergence of stress in
+Food prices remain elevated on harvest failures in
+some parts of the banking sector in Q3 tightened
+several parts of the world. Infl ation remains subdued
+fi nancial conditions. However, economic sentiment
+in AEs and has started to edge down in EMEs.
+improved in September in its major economies. The
+International fi nancial markets were shocked by the Japanese economy decelerated in Q2 after a modest
+outcome of Brexit referendum in Q2, with equity improvement in Q1, as weak domestic consumption
+markets plunging worldwide, currency volatility and sluggish external demand prompted companies
+heightening and investors herding into safe havens. to cut capital spending. In the UK, economic growth
+Markets quickly stabilised, and moved up in Q3. was stronger in Q2 than Q1, even as industrial growth
+However, incoming data can dispel this uneasy calm,
+was partly offset by a fall in construction activity. The
+as the uptick in bond yields – out of a widening
+outlook for Q3 is subdued with the fuller effects of
+negative universe – in the run-up to the Fed’s
+Brexit yet to play out (Table V.1).
+September meeting has shown. Equity prices regained
+Among major EMEs, growth performance in recent
+lost ground and currencies recovered, but uncertainty
+quarters remains divergent. The recent uptick
+surrounding the monetary policy stances of systemic
+in commodity prices has provided some relief to
+central banks will likely continue to impart volatility
+commodity exporters, while net terms of trade
+to currency and equity markets. Capital fl ows are
+gains for commodity importers are moderating. In
+returning to EMEs, though foreign direct investment
+China, growth held steady at 6.7 per cent y-o-y in
+has not sustained the pace it achieved a year ago.
+Q2 on the back of strong policy stimulus. Private
+V.1 Global Economic Conditions
+investment growth, however, shrank to a record low.
+The US economy slowed in the fi rst half of 2016, In Q3, factory output and retail sales grew faster
+despite the higher than expected upturn in Q2. The than expected in August, underpinned by housing
+impetus from private consumption, non-residential market and government infrastructure spending. By
+fi xed investment and exports was offset by drops in contrast, the Brazilian economy continues to face
+inventory accumulation, residential fi xed investment deep recession in the midst of political uncertainty
+and government spending. Investment in Q2 declined undermining consumer and business confi dence, but
+for three consecutive quarters as companies cut back the recent uptick in commodity prices could alleviate
+
+MONETARY POLICY REPORT OCTOBER 2016
+Table V.1: Real GDP Growth (q-o-q, annualised)
+(Per cent)
+2015: Q2 2015: Q3 2015: Q4 2016: Q1 2016: Q2 2016 (P) 2017 (P)
+Advanced Economies (AEs)
+US 2.6 2.0 0.9 0.8 1.4 2.2 2.5
+Euro Area 1.6 1.2 1.6 2.4 1.2 1.6 1.4
+Japan -1.9 2.1 -1.7 2.1 0.7 0.3 0.1
+UK 2.0 1.2 2.8 1.6 2.8 1.7 1.3
+Canada -0.5 2.2 0.5 2.5 -1.6 1.4 2.1
+Emerging Market Economies (EMEs)
+China 7.2 7.2 6.0 4.8 7.2 6.6 6.2
+Brazil -9.1 -6.2 -5.1 -1.7 -2.2 -3.3 0.5
+Russia* -4.5 -3.7 -3.8 -1.2 -0.6 -1.2 1.0
+South Africa -2.0 0.3 0.4 -1.2 3.3 0.1 1.0
+Korea 1.6 4.8 2.8 2.0 3.2 2.7 2.9
+Thailand 2.1 3.6 3.4 4.0 3.2 3.0 3.2
+Malaysia 3.6 3.6 4.8 4.0 2.8 4.4 4.8
+Mexico 3.3 2.8 1.8 2.0 -0.7 2.5 2.6
+Saudi Arabia** -4.7 2.1 5.9 2.8 - 1.2 2.0
+Memo 2015 2016 (P) 2017 (P)
+World Output 3.1 3.1 3.4
+World Trade Volume 2.7 1.7 1.8 - 3.1
+P : Projection, * year-on-year, **: Seasonally Unadjusted.
+Source: Bloomberg, IMF, WTO and Eurostat.
+some stress. In Russia, recessionary conditions are of global growth in 2016 (Chart V.1). The OECD’s
+diminishing as refl ected in the economy contracting composite leading indicators point to stable growth
+at a slower rate in Q2 on the support of a modest pick- in the US, the Euro area and Japan, and a pick up in
+growth momentum in China, Russia, Brazil and India
+up in the industrial sector and transportation services.
+(Chart V.2).
+The South African economy continued to weaken
+in Q2, following a contraction in Q1, due to slowing Global trade decelerated further in H1 of 2016 in
+demand from China and low commodity prices. China an environment of subdued demand and rising
+and India are projected to contribute more than half protectionism, exacerbated by uncertainties
+
+MONETARY POLICY REPORT OCTOBER 2016
+surrounding Brexit, the Fed’s monetary policy stance barring those of precious metals lifted by safe haven
+and volatile fi nancial markets (Chart V.3a). While the buying. Crude oil prices rallied between January and
+pace of contraction in trade volume of EMEs reduced May on account of supply disruptions in several
+markedly in Q2, the slowdown in the trade volume OPEC countries and North America and a softening
+of AEs has continued since Q1 of 2015. Within EMEs, of the US dollar, but eased thereafter on the build-
+trade volume contracted in all major regions in Q2, up of inventories, particularly in the US. Prices
+except Central and Eastern Europe where weakening have remained range bound since early September
+(Chart V.4a).
+currencies have given a signifi cant boost to exports.
+The pace of contraction reduced sharply in Emerging Prices of precious metals have rallied on strong
+Asia, with currency depreciation supporting exports in investor demand, weak dollar and safe haven buying.
+a number of countries, and stimulus driven demand Persistently weak US economic data have been driving
+boosting imports in China (Chart V.3b). The World up investment demand for precious metals, with
+Trade Organisation projects that global trade volume Brexit providing a further boost. Post Brexit, gold
+growth in 2016 would be the lowest since the global prices surged to a two-year high and have remained
+fi nancial crisis. elevated so far. Iron ore prices, which soared in 2016
+due to stimulus and property boom driven demand
+V.2 Commodity Prices and Global Infl ation
+from China, have subsided lately due to increased
+Global commodity prices have been largely driven supply from Brazil and Australia. Food prices have
+by supply conditions even as demand remains soft, been generally trended upwards since January 2016,
+
+MONETARY POLICY REPORT OCTOBER 2016
+with sugar, in particular, showing a sharp increase due Japan has also remained in defl ation mode for the
+to drought in Brazil (Chart V.4b). past fi ve months, induced by faltering consumption
+and an unrelentingly strong yen.
+Global infl ationary pressures remain contained by
+weak global growth and soft commodity prices. In AEs, By contrast, infl ation remains diverse among major
+the general price level remained virtually unchanged EMEs. In Brazil, Russia and South Africa, infl ation
+despite monetary easing, although core infl ation has been well above the target due to weak currency,
+was fi rmer (Chart V.5a). In the US, barring medical food infl ation and structural rigidities, though these
+care and shelter, most of the remaining sectors of pressures have been easing in recent months. On
+the economy faced negative price pressures. In the the other hand, China, Korea, Indonesia, Malaysia
+Euro area, defl ation risks increased as the economic and Thailand face benign and ebbing infl ationary
+outlook deteriorated and business and consumer situations (Chart V.5b). By and large, infl ation in EMEs
+sentiment weakened, with declining energy prices, has benefi tted from low commodity prices, ebbing
+strengthening of the euro, subdued wage growth and currency depreciation pressures and slack in demand,
+weak productivity growth accentuating these risks. both at home and abroad (Box V.1).
+Box V.1: Exchange Rate and Commodity Prices Pass-through to Infl ation in EMEs
+Exchange rate and commodity prices are two important these currency and commodity prices movements have
+transmission channels of infl ation across open infl uenced infl ation in some select EMEs is examined
+economies. By what percentage infl ation changes in by estimating a reduced form equation derived from
+response to a percentage change in exchange rate and a partial equilibrium micro-founded pricing behavior
+commodity prices – the pass-through – is, however, of fi rms. Specifi cally, the pricing decision of a fi rm is
+determined by several factors, of which the credibility determined by marginal costs, mark-ups, exchange
+of monetary policy in anchoring infl ation expectations rate changes, wage costs and income in the exporting
+is an important one (Taylor, 2000). It is imperative and importing countries. In reduced form, this can be
+to have a good measure of this pass-through in order specifi ed as:
+to understand the infl ationary process and fashion
+appropriate monetary policy responses. In this context,
+recent years have seen increased EME currency
+volatility, driven by policy and political uncertainties
+emanating from several parts of the globe. There has where, p= consumer prices; e = exchange rate; c =
+also been a signifi cant decline in global commodity costs; pc = commodity prices (crude oil), y = income
+prices, particularly crude oil, following supply-demand (demand) and superscripts d and f are domestic and
+mismatches, though supply disruptions have led to foreign country, respectively.
+some fi rming up since January 2016. How much of (contd.)
+
+MONETARY POLICY REPORT OCTOBER 2016
+Table 1: Regression results
+Variable Full Sample Asymmetric ERPT Pre-Crisis Post-Crisis
+0.24* 0.23* 0.13* 0.24*
+Dep^: -0.11*
+-0.09* -0.12* -0.09*
+App^: -0.05*
+0.31* 0.33* 0.36* 0.31*
+0.02* 0.02* 0.03* 0.01*
+0.01* 0.01* 0.03* 0.01**
+-0.03* -0.02* -0.04* -0.02
+Staff estimates; *Signifi cant at 5 per cent; **Signifi cant at 10 per cent; Dep^: Depreciation; App^: Appreciation; ec: error correction; ERPT:
+exchange rate pass-through.
+Note: Long-run cointegration is estimated using dynamic ordinary least squares and the short-run using Arellano-Bond generalised method of
+moments. The Sargan test for over indentifying restrictions and Arellano-Bond autocorrelation test are found to be satisfactory for all the models.
+Estimates carried out in difference form for a panel of References:
+17 EMEs1 employing a battery of estimation methods
+Aron, J., Macdonald, R. and Muellbauer, J. (2014),
+for the period 2005:Q1 to 2016:Q2 reveal that exchange
+“Exchange rate pass-through in developing and emerging
+rates, commodity prices, exporting country’s costs and
+markets: A survey of conceptual, methodological and
+domestic demand infl uence infl ation in these EMEs
+policy issues, and selected empirical fi ndings”, Journal
+(Table 1). However, the extent of this infl uence has
+of Development Studies, 50(1), pp.101-143.
+declined in the post-crisis period, even while infl ation
+has become more persistent. The pass-through of Taylor, B. J. (2000), “Low infl ation, pass-through and the
+exchange rate depreciation is far stronger than that of pricing power of fi rms”, European Economic Review,
+appreciation. Despite the weakening of pass-through, 44(7), pp. 1389–1408.
+infl ation in EMEs has benefi tted from the decline in
+commodity prices and relative currency stability in the
+post-crisis period.
+V.3 Monetary Policy Stance bond yields at zero per cent. The ECB has kept its
+monetary policy stance unchanged since the last cut
+Globally, monetary policy stances remained
+in the policy rate in March 2016.
+accommodative in Q2 of 2016. In Q3 so far, some
+AEs have eased further, as Brexit paralysed markets Monetary policy stances in EMEs have varied. South
+and added to global uncertainty. The Fed has kept Korea and Indonesia cut policy rates in Q2, with the
+its policy rate unchanged since end-2015; however, latter easing further in September to support the
+in its September meeting, it indicated that the case economy as expectations of a rate increase by the
+for a rate hike has strengthened. After pausing for US Fed diminished. Russia cut its policy rate by 50
+several months, both the UK and Japan have renewed basis points each in June and September on ebbing
+monetary easing as a response to Brexit. The Bank of infl ationary pressures. In contrast, Colombia and
+England cut its policy rate in August and also expanded Mexico increased policy rates by 200 bps and 150 bps,
+its asset purchase programme. The Bank of Japan respectively, during 2016 so far to counter infl ationary
+doubled its exchange traded funds (ETF) purchases in pressures emanating from depreciating currencies.
+July to contain the surge in yen to an almost two year Brazil kept its policy rate unchanged in the face of a
+high. In September, it shifted its policy focus from crippling recession even though infl ation remained
+targeting base money to targeting 10-year government well above the target (Charts V.6a & b).
+1 Brazil, Chile, China, Colombia, Czech Republic, Hungary, India, Indonesia, South Korea, Malaysia, Mexico, the Philippines, Poland, Russia, South Africa,
+Thailand and Turkey.
+
+MONETARY POLICY REPORT OCTOBER 2016
+V.4 Global Financial Markets mid-June levels. The impact was less pronounced in
+the US, as market expected a delay in policy tightening
+Global fi nancial markets rebounded from mid-
+by the Fed even as US payrolls data and corporate
+February through June 23 as positive sentiments
+earnings beat expectations.
+prevailed due to continuing accommodative monetary
+policy stances by central banks in AEs and the EME equity markets performed relatively well in Q2
+widely held expectation that the UK would remain of 2016 supported by global low policy rates and low
+in the European Union. Better than expected global volatility. In May, they were impacted by anticipation
+economic conditions, recovery in oil price, stimulus of a rate hike by the Fed and concerns relating to
+in China, and pushing back of a rate hike by the US growth and political risks in some economies. The
+Fed reinforced the calm in the fi nancial markets. initial risk-off and fl ight-to-safety response to the
+The unexpected outcome of the Brexit referendum Brexit referendum in June was fully offset by mid-
+surprised fi nancial markets in June. The initial July. In Q3, equity prices have gained by about 4.4 per
+cent in AEs and 8.3 per cent in EMEs (Chart V.7).
+reactions were severe with large movements in bond
+yields, equity prices and exchange rates. However, Sovereign bond yields, which had been falling in
+fi nancial markets stabilised quickly, stock markets major AEs, rose in the later part of April due to a global
+climbed to intra-year highs in August, and bond yields
+came off recent lows with volatility easing.
+Equity markets gained steadily during Q2 of 2016, as
+risk sentiment improved despite Brexit uncertainties
+and US economic data providing mixed signals.
+However, the sharp sell-off around the world triggered
+by Brexit on June 23 led to a record loss of US$ 3
+trillion in market capitalisation in the next two trading
+days. Volatility surged immediately, but also receded
+quickly when markets realised that the exit would be
+a long drawn process. Equity markets subsequently
+recouped losses, barring UK and European banks.
+Japanese equity markets rebounded quickly as various
+measures to stabilise markets were announced. Euro
+area equity prices, which dropped by around 9 per
+cent immediately after Brexit, gradually returned to
+
+MONETARY POLICY REPORT OCTOBER 2016
+sell-off triggered from Europe, which spread to the US.
+In May, bond markets traded range-bound, though US
+treasury securities remained more attractive relative
+to sovereign securities of other AEs offering negative
+yields. Post Brexit, increased risk-off behaviour of
+investors led to a sharp fall in bond yields across major
+AEs that continued till about mid-July. Thereafter,
+yields recovered and hardened till mid-September on
+concerns over major central banks’ ability to continue
+with unconventional asset purchases. They have
+recently softened again after the FOMC held rates
+unchanged in September.
+Bond yields in EMEs have also eased, buoyed by
+dovish monetary policy stances of some central banks
+and rise in commodity prices. Infl ows to EME bond
+markets were modest in May on rising prospects of a
+Fed rate hike and concerns about growth and political May on Brexit concerns and fell sharply on the day
+risks in a number of EMEs. However, in June, infl ows of the outcome. Since then, it has depreciated by 12.4
+turned up sharply following dovish signals from the per cent against the US dollar (Chart V.8).
+ECB and reduced expectations on tightening by the
+Emerging market currencies have remained susceptible
+US Fed, barring some transitory sell-offs around the
+to both global and domestic factors. While the Chinese
+Brexit referendum. The search for yields in the bond
+renminbi has depreciated modestly since April, the
+markets of EMEs has further intensifi ed in Q3, with
+Turkish lira and the Mexican peso have weakened
+investors taking advantage of record low interest rates
+signifi cantly. The South African rand has turned
+in AEs and chasing carry trade. Consequently, yields
+weaker since mid-August due to economic weakness
+consistently eased in major EMEs, except in Turkey
+and escalation of political concerns. By contrast, the
+and South Africa.
+Brazilian real gained against the US dollar in Q2 and
+In currency markets, the divergence in growth and Q3, driven by global liquidity, bottoming commodity
+prices and changing domestic political dynamics.
+monetary policy in AEs remained the major driving
+The Russian ruble, which rallied between January
+factors. The US dollar depreciated against trading
+and June, has stabilised, barring some pressures in
+partner currencies during March to late April, largely
+mid-July and early August due to bearish oil market
+refl ecting revised expectations on the path of the US
+conditions and political tensions.
+policy rate. It strengthened subsequently with the
+widening of long-term bond yield spreads between In sum, risks to global economic activity and trade
+the US and the Euro area. The appreciation of the yen are skewed to the downside. While EMEs seem to be
+against major currencies continued through Q2 and Q3, recovering, growth in major AEs remains subdued.
+refl ecting changing perceptions about monetary policy Infl ation is expected to remain benign. Financial
+in Japan vis-a-vis other reserve currencies, and on safe markets, despite the recent calm, remain vulnerable
+haven fl ows. The pound sterling, which strengthened to swings in investor sentiment, driven by policy and
+against the US dollar in April, started weakening in political uncertainty.

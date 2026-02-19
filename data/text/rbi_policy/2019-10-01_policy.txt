@@ -1,0 +1,3039 @@
+Published under Section 45ZM of the Reserve Bank of India Act, 1934
+Monetary Policy Report
+OCTOBER 2019
+Reserve Bank of India
+Mumbai
+Abbreviations
+Contents
+Chapter I: Macroeconomic Outlook 1
+I.1 : Key Developments since April 2019 MPR 1
+I.2 : The Outlook for Inflation 3
+I.3 : The Outlook for Growth 5
+I.4 : Balance of Risks 7
+1.5 : Conclusion 11
+Box I.1: Does Yield Spread Predict Output Growth? 8
+Chapter II: Prices and Costs 12
+II.1 : Consumer Prices 13
+II.2 : Drivers of Inflation 14
+II.3 : Costs 23
+II.4 : Conclusion 24
+Box: II.1: Time-varying Estimates of Spillovers from Food Inflation to Inflation
+excluding Food and Fuel 20
+Chapter III: Demand and Output 25
+III.1 : Aggregate Demand 25
+III.2 : Aggregate Supply 36
+III.3 : Output Gap 43
+III.4 : Conclusion 43
+Box III.1: Slowdown in the Automobile Sector 28
+Chapter IV: Financial Markets and Liquidity Conditions 45
+IV.1 : Domestic Financial Markets 45
+IV.2 : Monetary Policy Transmission 56
+IV.3 : Liquidity Conditions and the Operating Procedure of Monetary Policy 59
+IV.4 : Conclusion 64
+Box IV.1: WACR breaching the Policy Corridor: Causes and Determinants 62
+Chapter V: External Environment 66
+V.1 : Global Economic Conditions 66
+V.2 : Commodity Prices and Inflation 68
+V.3 : Monetary Policy Stance 72
+V.4 : Global Financial Markets 73
+V.5 : Conclusion 75
+Box V.1: International Food Prices – Pass-through to EMEs 70
+iii
+Abbreviations
+abbrEVIatIOns
+AEs - Advanced Economies CPI-AL - Consumer Price Index for
+Agricultural Labourers
+AIC - Akaike Information Criteria
+CPI-IW - Consumer Price Index for Industrial
+AIFIs - All India Financial Institutions
+Workers
+BAI - Business Assessment Index
+CPI-RL - Consumer Price Index for Rural
+BE - Budget Estimates
+Labourers
+BEI - Business Expectations Index
+CRR - Cash Reserve Ratio
+BK - Baxter-King CU - Capacity Utilisation
+BoJ - Bank of Japan CU (SA) - Capacity Utilisation (Seasonally
+bps - Basis Points Adjusted)
+DEA - Digestive enzymes and antacids
+BRICS - Brazil, Russia, India, China and
+South Africa DGCA - Directorate General of Civil Aviation
+BS-IV - Bharat Stage - IV DGCI&S - Directorate General of Commercial
+Intelligence and Statistics
+BSE - Bombay Stock Exchange
+DM - Dynamic Multiplier
+CAD - Current Account Deficit
+ECB - European Central Bank
+CAG - Comptroller and Auditor General of
+India ECRI - Economic Cycle Research Institute
+CD - Certificate of Deposit ECM - Error Correction Model
+CDS - Credit Default Swap ECT - Error Correction Term
+CF - Christiano-Fitzgerald EMs - Emerging Markets
+CGA - Controller General of Accounts EMEs - Emerging Market Economies
+CGST - Central Goods and Service Tax EU - European Union
+CiC - Currency in Circulation FAE - First Advance Estimates
+CI - Confidence Interval FAO - Food and Agriculture Organisation
+CII - Confederation of Indian Industry FBIL - Financial Benchmarks India Pvt. Ltd
+CLI - Composite Leading Indicator FCCBs - Foreign Currency Convertible Bonds
+CMB - Cash Management Bill FDI - Foreign Direct Investment
+CMIE - Centre for Monitoring Indian FIs - Financial Institutions
+Economy
+FICCI - Federation of Indian Chambers of
+CP - Commercial Paper Commerce and Industry
+CPC - Central Pay Commission FMCG - Fast-Moving Consumer Goods
+CPI - Consumer Price Index FPI - Foreign Portfolio Investment
+CPI-C - Consumer Price Index - Combined FRE - First Revised Estimates
+v
+Monetary Policy Report October 2019
+FX - Foreign Exchange IOS - Industrial Outlook Survey
+FY - Financial Year IRF - Impulse Response Function
+GARCH - Generalized Autoregressive ISMA - Indian Sugar Mills Association
+Conditional Heteroskedasticity
+IT - Information Technology
+GDP - Gross Domestic Product
+LAF - Liquidity Adjustment Facility
+GFCE - Government Final Consumption
+LCR - Liquidity Coverage Ratio
+Expenditure
+LIBOR - London Inter- bank Offered Rate
+GFCF - Gross Fixed Capital Formation
+LIC - Life Insurance Corporation of India
+GFD - Gross Fiscal Deficit
+LIC HFL - LIC Housing Finance Limited
+GIC - General Insurance Corporation
+LOP - Law of One Price
+GIC HFL - GIC Housing Finance Limited
+LPA - Long Period Average
+GNDI - Gross National Disposable Income
+LPG - Liquefied Petroleum Gas
+GOI - Government of India
+MA - Moving Average
+G-Secs - Government Securities
+Mb/d - million barrels per day
+GST - Goods and Services Tax
+MEIS - Merchandise Export from India
+GSTN - Goods and Services Tax Network Scheme
+GVA - Gross Value Added MCLR - Marginal Cost of Funds Based
+Lending Rate
+H1 - First Half of the Year
+MFs - Mutual Funds
+H2 - Second Half of the Year
+MIBOR - Mumbai Interbank Outright Rate
+HDFC - Housing Development Finance
+Corporation m-o-m - Month-on-Month
+HFC - Housing Finance Company MPC - Monetary Policy Committee
+HP - Hodrick-Prescott MPR - Monetary Policy Report
+HRA - House Rent Allowance MSCI - Morgan Stanley Capital International
+ICR - Interest Coverage Ratio MSF - Marginal Standing Facility
+IEA - International Energy Agency MSMEs - Micro, Small and Medium
+Enterprises
+IGST - Integrated Goods and Service Tax
+MSP - Minimum Support Price
+IIP - Index of Industrial Production
+MVKF - Multivariate Kalman Filter
+IL&FS - Infrastructure Leasing and Financial
+Services Limited NAFED - National Agricultural Cooperative
+Marketing Federation of India
+IMD - India Meteorological Department
+NBER - National Bureau of Economic
+IMF - International Monetary Fund
+Research
+IMO - International Maritime Organisation
+NBFCs - Non-Banking Financial Companies
+INR - Indian Rupee
+NCAER - National Council of Applied
+IOCL - Indian Oil Corporation Limited Economic Research
+vi
+Abbreviations
+NDSI - Non-Deposit Systemically Important POL - Petroleum, Oil, and Lubricants
+NDS-OM - Negotiated Dealing System-Order PMUY - Pradhan Mantri Ujjwala Yojana
+Matching
+PRN - Production Weighted Rainfall Index
+NDTL - Net Demand and Time Liabilities
+PSBs - Public Sector Banks
+NEER - Nominal Effective Exchange Rate
+PSU - Public Sector Undertaking
+NFC - Non-Food Credit
+Q1 - First Quarter
+NHB - National Housing Bank
+Q2 - Second Quarter
+NIIP - Net International Investment
+Q3 - Third Quarter
+Position
+Q4 - Fourth Quarter
+NPA - Non-Performing Asset
+q-o-q - Quarter-on-Quarter
+NSC - National Savings Certificate
+RBI - Reserve Bank of India
+NSDL - National Securities Depository
+Limited RD - Revenue Deficit
+NSE - National Stock Exchange RE - Revenue Expenditure/Revised
+Estimate
+NSO - National Statistical Office
+REER - Real Effective Exchange Rate
+OBICUS - Order Books, Inventories and
+Capacity Utilisation Survey RHS - Right Hand Side
+OD - Over Draft RMB - Renminbi
+OECD - Organisation for Economic Co- RMSE - Root Mean Squared Error
+operation and Development
+SAAR - Seasonally Adjusted Annualised Rate
+OG - Output Gap
+SAE - Second Advance Estimates
+OIS - Overnight Indexed Swap
+SCBs - Scheduled Commercial Banks
+OMCs - Oil Marketing Companies
+SDLs - State Development Loans
+OMOs - Open Market Operations
+SEBI - Securities and Exchange Board of
+OPEC - Organisation of the Petroleum India
+Exporting Countries
+SGST - State Goods and Service Tax
+PADO - Public Administration, Defence and
+SIAM - Society of Indian Automobile
+Other Services
+Manufacturers
+PBOC - People’s Bank of China
+SLR - Statutory Liquidity Ratio
+PCE - Personal Consumption Expenditure
+SVAR - Structural Vector Autoregression
+PD - Primary Dealer
+T-Bill - Treasury Bill
+PE - Provisional Estimates
+TLTRO - Targeted Longer-term Refinancing
+PFCE - Private Final Consumption Operations
+Expenditure
+TVP-VAR - Time-Varying Parameter Vector
+PMI - Purchasing Managers’ Index Autoregression
+vii
+Monetary Policy Report October 2019
+UK - United Kingdom WADTDR - Weighted Average Domestic Term
+Deposit Rate
+US - United States
+US$/USD - US Dollar WALR - Weighted Average Lending Rate
+VAR - Vector Autoregression WMA - Ways and Means Advances
+VARX - Vector Auto Regression with WPI - Wholesale Price Index
+Exogenous Variables
+WTI - West Texas Intermediate
+VECM - Vector Error Correction Model
+WTO - World Trade Organisation
+VIX - S&P 500 Volatility Index
+WTOI - World Trade Outlook Indicator
+VRR - Voluntary Retention Route
+WACR - Weighted Average Call Money Rate y-o-y - Year-on-Year
+WADR - Weighted Average Discount Rate YTM - Yield to Maturity
+viii
+Chapter I Macroeconomic Outlook
+I. Macroeconomic Outlook
+The slowdown in domestic economic activity that started in 2018-19 extended into the first half of 2019-20.
+Headline consumer price index (CPI) inflation is projected to remain below target over the rest of 2019-20 and
+the early months of 2020-21. Real gross domestic product (GDP) growth is expected to recover in H2:2019-20,
+facilitated by favourable base effects and transmission of past monetary policy actions. A slew of measures by the
+government impart an upside to growth prospects. Intensification of global uncertainty around US-China trade
+tensions, a hard Brexit and geo-political tensions are key downside risks to the baseline growth path.
+I.1 Key Developments since April 2019 MPR emerging though in agriculture and allied activities.
+The initial delay and deficiency in the south-west
+Since the release of the Monetary Policy Report (MPR)
+monsoon has been mitigated by the resurgence of
+of April 2019, global economic activity has weakened
+rains during July-September. Comfortable reservoir
+further. Several downside risks flagged in the April
+levels augur well for rabi sowing and foodgrains
+MPR appear to be materialising: escalation of trade
+stocks above the buffer norms provide a cushion
+tensions; growing probability of a disorderly Brexit;
+against potential inflationary pressures. Meanwhile,
+volatility in crude oil prices; and a risk-on risk-off
+headline CPI inflation remains below target. While
+sentiment in financial markets on tumultuous geo-
+political and economic events. In their wake, global food inflation has edged up since March 2019,
+growth has lost the momentum it had gathered in inflation excluding food and fuel has undergone a
+Q1:2019. Central banks across advanced economies broad-based moderation.
+(AEs) and emerging market economies (EMEs) are
+Monetary Policy Committee: April-August 2019
+easing monetary policy in counter-cyclical defence.
+During April-August 2019, the Monetary Policy
+Global trade has sunk into contraction, with knock-
+Committee (MPC) met thrice in accordance with
+on effects impacting investment and industrial
+the bi-monthly schedule. In the April meeting, the
+production, especially manufacturing. Reflecting
+MPC cut the repo rate by 25 basis points (bps) to 6.0
+this, commodity prices slumped, with crude oil
+per cent (with a majority vote of 4-2) to strengthen
+prices tumbling in August and gold prices surging
+domestic growth impulses by spurring private
+on safe haven demand. Foreign exchange markets
+investment, while maintaining a neutral stance (with
+turned volatile, following the depreciation of the
+a majority vote of 5-1). With signs of weakening of
+Chinese renminbi in early August. Crude oil prices
+growth impulses even further widening the negative
+were bolstered temporarily in mid-September by the
+attack on Saudi Arabian oil facilities and disruption output gap, and with headline inflation projected to
+to global oil supplies. remain below the target over the next 12 months,
+the MPC voted unanimously to reduce the repo
+Domestically, the slowdown in economic activity
+rate by another 25 bps in its June 2019 meeting and
+that started in 2018-19 extended into the first half
+changed the stance of monetary policy from neutral
+of 2019-20. Real GDP growth fell to a 25-quarter low
+to accommodative.
+in Q1:2019-20 on weak private consumption and
+investment and high frequency indicators for Q2 In its August meeting, the MPC reduced the policy
+point to a slowdown in the various constituents of repo rate by a further 35 bps to 5.40 per cent on
+aggregate demand deepening. Some green shoots are signs of accentuation of the slowdown in domestic
+
+Monetary Policy Report October 2019
+activity amidst deteriorating global growth and
+Table I.2: Baseline Assumptions for Near-Term
+escalating trade tensions posing downside risks to Projections
+the outlook. With the inflation outlook projected
+Indicator MPR (April 2019) Current MPR
+to be benign and within the target over the forecast (October 2019)
+Crude oil (Indian US$ 67.0 per barrel US$ 62.6 per barrel
+horizon, all members of the MPC voted unanimously
+basket) during 2019-20
+to reduce the policy rate (4 members for a reduction
+Exchange rate ₹69/US$ ₹71.3/US$
+of 35 bps and two for 25 bps) and to maintain an
+Monsoon Normal for 2019 10 per cent above long
+accommodative stance. The MPC was of the view period average
+Global growth 3.5 per cent in 2019 3.2 per cent in 2019
+that the standard 25 bps cut might prove to be
+3.6 per cent in 2020 3.5 per cent in 2020
+inadequate in view of evolving global and domestic
+Fiscal deficit (per cent To remain within BE To remain within BE
+macroeconomic developments, while a 50 bps of GDP) 2019-20 2019-20
+Centre: 3.4 Centre: 3.3
+reduction might be excessive, especially taking into Combined: 5.9 Combined: 5.9
+account the actions already undertaken. Overall, the Domestic No major change No major change
+macroeconomic/
+MPC reduced the policy repo rate by a cumulative 85
+structural policies
+bps during April-August, in addition to the reduction during the forecast
+period
+of 25 bps in February.
+Notes:
+1. The Indian basket of crude oil represents a derived numeraire
+The MPC’s voting pattern reflects the diversity in
+comprising sour grade (Oman and Dubai average) and sweet grade
+individual members’ assessments, expectations (Brent) crude oil.
+2. The exchange rate path assumed here is for generating staff’s
+and policy preferences, a feature that is reflected in baseline growth and inflation projections and does not indicate
+any ‘view’ on the level of the exchange rate. The Reserve Bank is
+voting patterns of the MPC in other central banks
+guided by the objective of containing excess volatility in the foreign
+(Table I.1). exchange market and not by any specific level of and/or band around
+the exchange rate.
+3. Global growth projections are from the World Economic Outlook
+Macroeconomic Outlook
+(January and July 2019 Updates), International Monetary Fund (IMF).
+4. BE: Budget estimates.
+Chapters II and III analyse the macroeconomic
+5. Combined fiscal deficit refers to that of the Centre and States taken
+developments during April-September 2019 and together.
+Sources: RBI staff estimates; Budget documents; and IMF.
+explain deviations of inflation and growth outcomes
+vis-à-vis staff’s projections. Turning to the outlook,
+Table 1.1: Monetary Policy Committees and the evolution of key macroeconomic and financial
+Voting Pattern
+variables over the past six months warrants revisions
+Country Policy Meetings: April 2019 - September 2019 in the baseline assumptions (Table I.2).
+Total Meetings with Meetings with
+First, international crude oil prices declined between
+Meetings Full Consensus Dissents
+mid-May and mid-September reflecting weakness in
+Brazil 4 4 0
+global demand amidst excess supply conditions and
+Chile 4 3 1
+Czech Republic 4 2 2 large stockpiles, despite geo-political tensions and
+Hungary 5 5 0
+production cuts by the Organisation of the Petroleum
+Israel 4 1 3
+Exporting Countries (OPEC) (Chart I.1). Crude oil
+Japan 4 0 4
+South Africa 3 2 1 prices hardened temporarily in the second half of
+Sweden 3 3 0
+September following disruptions to production in
+Thailand 4 3 1
+Saudi Arabia. Given the current demand-supply
+UK 4 4 0
+US 4 1 3 assessment, the baseline scenario assumes crude oil
+Sources: Central bank websites. prices at an average of US$ 62.6 per barrel.
+
+Chapter I Macroeconomic Outlook
+Second, the nominal exchange rate (Indian rupee, INR and services, reflecting the slowdown in domestic
+vis-à-vis the US dollar) has depreciated from its April demand. Looking ahead, inflation expectations
+level, especially during August, impacted by a drop feed into future inflation through price and wage
+in the Chinese renminbi below the psychological contracts. One-year ahead inflation expectations
+level of 7 yuan per US$ in the wake of an escalation of urban households increased by 20 bps over the
+in US-China trade actions. A generalised flight to previous round in the September round of the survey
+safety towards the US dollar assets and portfolio conducted by the Reserve Bank; three-month ahead
+capital outflows also amplified pressures on the inflation expectations moved up by 40 bps during
+rupee. The rupee came under renewed pressure this period (Chart I.3).1 According to the Reserve
+Bank’s consumer confidence survey for September,
+in mid-September following the spike in crude oil
+prices but recovered in subsequent days following
+the announcement of various measures by the
+government to boost investment and growth and to
+stabilise the flow of funds into the capital market.
+Third, the weakening of global economic activity
+and trade is confirmed by the global manufacturing
+purchasing managers’ index (PMI) remaining in
+contraction zone in September 2019 at 49.7, the
+World Trade Organisation's Goods Trade Barometer
+indicating weakness in merchandise trade persisting
+in Q3:2019 and downgrades to global growth
+projections by various agencies. Against this backdrop,
+global growth for 2019 and 2020 is now expected to
+be below the April baseline (Table I.2 and Chart I.2).
+I.2 The Outlook for Inflation
+Headline CPI inflation has remained below target
+so far in 2019-20. Importantly, inflation excluding 1 The Reserve Bank’s inflation expectations survey of households is
+conducted in 18 cities and results of the September 2019 survey are based
+food and fuel has softened across major goods on responses from 5,810 households.
+
+Monetary Policy Report October 2019
+inflation expectations moderated from the previous projected at 3.4 per cent in Q2:2019-20, 3.5 per cent
+round. in Q3, and 3.7 per cent in Q4, with risks evenly
+balanced (Chart I.6). The 50 per cent and the 70 per
+Manufacturing firms polled in the July-September
+cent confidence intervals for headline inflation in
+2019 round of the Reserve Bank’s Industrial Outlook
+Q4:2019-20 are 2.7-4.7 per cent and 2.2-5.3 per cent,
+Survey (IOS) expected an increase in the cost of raw
+respectively. For 2020-21, assuming normal monsoon
+materials and muted selling prices in Q3:2019-20
+and no major exogenous or policy shocks, structural
+(Chart I.4).2 According to the purchasing managers’
+model estimates indicate that inflation will move in
+survey for manufacturing firms, input prices eased
+a range of 3.5-4.0 per cent. The 50 per cent and the 70
+in September due to weak demand for raw materials
+and semi-finished items; output prices registered
+a marginal increase. Services sector firms reported
+lower input prices and higher output prices in
+August.
+Professional forecasters surveyed by the Reserve
+Bank in September 2019 expected CPI inflation to
+increase from 3.2 per cent in August 2019 to 3.9 per
+cent in Q4:2019-20 and to 4.0 per cent in Q2:2020-21
+(Chart I.5).3
+Taking into account the initial conditions, the signals
+from forward-looking surveys and estimates from
+time-series and structural models, CPI inflation is
+2 The results for the July-September round of the industrial outlook survey
+are based on responses from 481 companies.
+3 29 panelists participated in the September 2019 round of the Reserve
+Bank’s survey of professional forecasters.
+
+Chapter I Macroeconomic Outlook
+per cent confidence intervals for Q4:2020-21 are 2.5- and spatial – could impinge upon the prospects for
+5.4 per cent and 1.8-6.2 per cent, respectively. agriculture.
+There are both upside and downside risks to Turning to the outlook, consumer confidence for
+the baseline inflation forecasts. The upside risks the year ahead moved lower in the May, July and
+include: volatility in international and domestic September rounds of the Reserve Bank’s survey, due
+financial markets from trade tensions, Brexit and to ebbing of sentiments on the general economic
+monetary policy stances of the major AEs; supply situation and the employment scenario (Chart I.7).4
+disruptions in the global crude oil market due to geo-
+Sentiment in the manufacturing sector polled in the
+political tensions; and, sudden spikes in the prices
+July-September 2019 round of the Reserve Bank’s IOS
+of perishable food items. Downside risks could
+dipped for the quarter ahead, reflecting moderation
+emanate from more than assumed softening in crude
+in expected production, order inflows, capacity
+oil and other commodity prices due to sluggish global
+utilisation, employment conditions and exports
+demand, and weaker inflation excluding food and
+(Chart I.8).
+fuel domestically due to depressed domestic demand
+conditions. Surveys by other agencies of future business
+expectations indicate a mixed picture (Table I.3).
+I.3 The Outlook for Growth
+Firms in the manufacturing and services sectors
+As indicated earlier, domestic economic activity
+polled in the Nikkei’s purchasing managers’ surveys
+turned out to be weaker in H1:2019-20 vis-à-vis
+were optimistic about one-year ahead output
+projections in the April 2019 MPR in an environment
+prospects.
+of global headwinds. The expected pick-up in both
+In the September 2019 round of the Reserve Bank’s
+private consumption and investment failed to
+survey, professional forecasters expected real GDP
+materialise, and exports lost momentum under the
+growth to recover from 5.0 per cent in Q1:2019-20 to
+weight of the slump in world trade. Although the
+south-west monsoon turned out to be above long
+4 The survey is conducted by the Reserve Bank in 13 major cities and the
+period average, its uneven progress – both temporal September 2019 round is based on responses from 5,192 respondents.
+
+Monetary Policy Report October 2019
+7.2 per cent in Q4:2019-20 and then moderate to 7.0
+Table I.4: Projections - Reserve Bank and
+per cent in Q2:2020-21 (Chart I.9).
+Professional Forecasters
+(Per cent)
+Taking into account the baseline assumptions, survey
+2019-20 2020-21
+indicators, the reductions in the policy repo rate since
+Reserve Bank’s Baseline Projection
+February 2019, the base effects and model forecasts,
+Inflation, Q4 (y-o-y) 3.7 4.0
+real GDP growth is projected at 6.1 per cent in
+Real GDP Growth 6.1 7.0
+2019-20 – 5.3 per cent in Q2, 6.6 per cent in Q3, 7.2
+Median Projections of Professional
+per cent in Q4 – with risks evenly balanced (Table I.4). Forecasters
+For 2020-21, the structural model estimates indicate Inflation, Q4 (y-o-y) 3.9 4.0#
+Real GDP growth 6.2 7.0
+real GDP growth at 7.0 per cent – quarterly growth
+Gross domestic saving (per cent of GNDI) 30.1 30.5
+rates in the range of 6.5-7.4 per cent – assuming a
+Gross capital formation (per cent of GDP) 31.0 31.0
+Credit growth of scheduled commercial 12.0 12.9
+Table I.3: Business Expectations Surveys
+banks
+Item NCAER FICCI Dun and CII Combined gross fiscal deficit (per cent of 6.1 6.0
+Business Overall Bradstreet Business GDP)
+Confidence Business Composite Confidence Central government gross fiscal deficit (per 3.3 3.3
+Index (July Confidence Business Index cent of GDP)
+2019) Index (June Optimism (September Repo rate (end-period) 5.0 -
+2019) Index (July 2019)
+Yield on 91-days treasury bills (end-period) 5.2 5.4
+2019)
+Yield on 10-year central government 6.3 6.5
+Current level of 121.8 59.6 70.0 52.5 securities (end-period)
+the index
+Overall balance of payments (US$ billion) 15.1 10.0
+Index as per 115.4 60.3 78.4 59.6 Merchandise exports growth 1.5 6.3
+previous survey
+Merchandise imports growth 0.5 7.1
+% change, q-o-q 5.5 -1.2 -10.7 -11.9
+Current account balance (per cent of GDP) -1.9 -2.0
+% change, y-o-y 6.5 -16.1 -13.2 -19.1
+Note: GNDI: Gross National Disposable Income.
+Notes: 1. NCAER: National Council of Applied Economic Research. #: Q2:2020-21.
+2. FICCI: Federation of Indian Chambers of Commerce & Industry. Source: RBI staff estimates; and Survey of Professional Forecasters
+3. CII: Confederation of Indian Industry. (September 2019).
+
+Chapter I Macroeconomic Outlook
+banks to their lending rates impart an upward bias to
+the baseline growth projection path. However, further
+escalation of trade tensions, a hard or no-deal Brexit
+and increased volatility in global financial markets
+pose downside risks to the baseline growth path.
+I.4 Balance of Risks
+The baseline projections of inflation and growth
+in the preceding sections are conditional on the
+assumptions relating to the key variables set out
+in Table I.2. Uncertainties surrounding these
+assumptions could lead to upward and downward
+deviations from baseline projections. This section
+assesses the balance of risks to the baseline
+projections in plausible alternative scenarios.
+(i) Global Growth Uncertainties
+The baseline scenario assumes a slowdown in
+external demand in 2019 and 2020. Yield curve
+normal monsoon, and no major exogenous or policy
+inversion in major AEs has raised concerns about
+shocks.
+the growth outlook (Box I.1). Global growth could
+There are upside as well as downside risks to the
+turn out to be weaker if there is further escalation
+baseline growth scenario (Chart I.10). The measures
+of trade tensions, a hard/no-deal Brexit, a greater-
+announced by the government in August-September than-envisaged slowdown in some major economies
+to boost growth and investment – policy reforms like China, or a combination of these factors. In
+on foreign direct investment (FDI), upfront release such a scenario, if global growth slips down by 50
+of funds for recapitalisation of public sector banks bps vis-à-vis the baseline, domestic growth and
+(PSBs), merger of PSBs, incentives for exports and real inflation could be lower by around 20 bps and 10
+estate, reduction in the corporate income tax rate – bps, respectively, from their baseline trajectories
+along with a faster resolution of stressed assets, and (Charts I.11a and I.12a). Conversely, an expeditious
+a faster pace of transmission of past repo rate cuts by and orderly resolution of trade tensions, and/or a
+
+Monetary Policy Report October 2019
+Box I.1: Does Yield Spread Predict Output Growth?
+The spread between yields on the US 10-year and According to the expectations hypothesis of the term
+3-month treasury securities – a closely watched structure, long-term interest rates equal the sum of
+metric for term spread – has inverted for the first current and expected future short-term interest rates
+time since 2007 and turned negative at 13 basis plus a term premium. The term premium explains
+points (bps) in June 2019. The spread has remained why the yield curve usually slopes upwards, i.e.,
+in negative territory for the third consecutive month yields on long-term securities usually exceed those
+in August at 35 bps (from 83 bps a year ago). on short-term securities. The yield curve flattens or
+Since the 1950s, US recessions have been preceded inverts/slopes downward when the public expects
+by sizeable inversions in the yield curve. The only short-term interest rates to fall. In such a scenario,
+occasion when the 3-month Treasury security investors bid up the prices of longer-term securities
+yield exceeded the 10-year Treasury yield without causing a fall in long-term yields relative to yield
+the occurrence of a subsequent recession was in on short-term securities. There is no unanimity,
+September 1966. Barring this, yield curve inversion however, on the theoretical relationship between
+has coincided with a recession in the following 18-24 the term spread and economic activity. To a large
+months (Chart I.1.1a). extent, the usefulness of the spread for forecasting
+Inversion/narrowing of yield spreads has occurred economic activity remains a “stylised fact in search
+in other AEs. Yields have flattened in Germany, of a theory” (Benati and Goodhart, 2008). Moreover,
+the UK, Japan, Singapore and Australia, mirroring the predictive power of the term spread for output
+a slowdown in the global economy. In the case of growth depends on monetary policy objectives and
+Germany, the spread of the 10-year bond yield over the reaction function used. In the case of monetary
+the 3-month bond yield turned negative falling to 24 policy tightening for example, short-term rates are
+bps in August 2019 as compared with 61 bps a year likely to rise more than long-term rates and cause
+ago. Germany experienced recessions beginning in the yield curve to flatten or possibly invert (Feroli,
+1966, 1973, 1980, 1991, 2001 and 2008. All recessions, 2004). It is also argued that the term spread forecasts
+except the 1966 recession, were preceded by a sharp output growth better, the more responsive the
+decline in long-term Treasury security yields relative monetary authority is to deviations of output from
+to short-term yields. The only inversion that was not potential. The spread forecasts less accurately if
+followed by a recession was in 1970 (Chart I.1.1b). monetary policy focusses exclusively on controlling
+
+Chapter I Macroeconomic Outlook
+Table I.1.1: Correlation between GDP Growth and Yield Spreads
+Lagged Yield Spread Future Yield Spread
+Country t-6 t-5 t-4 t-3 t-2 t-1 t t+1 t+2 t+3 t+4 t+5 t+6
+US 0.136 0.192 0.218 0.213 0.229 0.154 0.041 -0.073 -0.166 -0.204 -0.231 -0.341 -0.360
+(0.042) (0.004) (0.001) (0.001) (0.001) (0.021) (0.545) (0.278) (0.013) (0.002) (0.001) (0.000) (0.000)
+Germany 0.268 0.272 0.307 0.291 0.322 0.119 -0.026 -0.207 -0.372 -0.385 -0.400 -0.418 -0.311
+(0.037) (0.034) (0.016) (0.023) (0.011) (0.361) (0.843) (0.110) (0.003) (0.002) (0.001) (0.001) (0.015)
+Notes: 1. Yield spread between 10-year and 3-month Treasury securities has been measured as the quarterly average of monthly observations.
+2. Data for the US and Germany pertain to the period Q2:1962–Q2:2019 and Q4:2002–Q2:2019, respectively.
+3. Figures in the parentheses represent p-values.
+Sources: Bloomberg; and RBI staff estimates.
+inflation. The consumption smoothing model steeper is the yield curve – higher the yield on 10-
+derives a relationship between the slope of the yield year Treasury securities relative to that on 3-month
+curve and future economic activity by assuming that Treasury securities – the higher is the future rate of
+individuals prefer stable consumption rather than GDP growth. Similarly, correlations between GDP
+high consumption during periods of rising income growth and future yield spreads up to six quarters
+and low consumption when income is falling (Harvey, have been found to be negative and statistically
+1988). If they expect a recession in the future, significant for both countries, except for period t+1
+consumers sell short-term financial instruments and where it is insignificant for both countries. Negative
+purchase bonds at a discount to generate income, correlations between GDP growth and the lead terms
+resulting in a flattening or inversion of the yield of the yield spread suggest that higher the GDP
+growth in period t, less steep would be the yield
+curve.
+curve in subsequent quarters (Sahoo and Gupta,
+The empirical literature suggests that the yield
+2019).
+spread predicts output growth at a four-to-six-quarter
+To sum up, the yield spread has been useful in
+horizon with considerable variation across countries
+predicting output growth and recessions at least up
+and over time. However, the ability of the term
+to one year in advance, particularly in major AEs,
+spread to forecast output growth has declined since
+although its signalling value has somewhat blurred
+the mid-1980s (Wheelock and Wohar, 2009). On the
+in the present environment of unconventional
+other hand, probit models show that the yield spread
+monetary policies. The current phase of negative
+outperforms in relation to other macroeconomic and
+yield spreads warrants that policymakers remain
+financial variables while predicting the probability
+vigilant.
+of recession (Estrella and Hardouvelis, 1991; Estrella
+References:
+and Mishkin, 1998).
+Benati, L. and C. Goodhart (2008), “Investigating
+The contemporaneous correlation between the
+Time-Variation in the Marginal Predictive Power of
+yield spread and real GDP growth was found to
+the Yield Spread”, Journal of Economic Dynamics
+be statistically insignificant for both the US and
+and Control, 32(4), pp. 1236-72.
+Germany (Table I.1.1). However, correlations
+between GDP growth and the yield spread lagged by Estrella, A. and G. A. Hardouvelis (1991), “The Term
+one to six quarters were found to be positive and Structure as a Predictor of Real Economic Activity”,
+statistically significant for both the countries, except Journal of Finance, 46(2), pp. 555-76.
+for the period t-1 for Germany, where it was found to Estrella, A. and F. S. Mishkin (1998), “Predicting
+be insignificant. These correlations suggest that the U.S. Recessions: Financial Variables as Leading
+
+Monetary Policy Report October 2019
+Indicators”, Review of Economics and Statistics, Sahoo, S. and B. Gupta (2019), "Does Yield Spread
+80(1), pp. 45-61. Predict Output Growth?", Reserve Bank of India
+Feroli, M. (2004), “Monetary Policy and the (Mimeo).
+Information Content of the Yield Spread”, Topics in Wheelock, D. C. and M. E. Wohar (2009), “Can the
+Macroeconomics, 4(1), Article 13. Term Spread Predict Output Growth and Recessions?
+Harvey, C. R. (1988), “The Real Term Structure A Survey of the Literature”, Federal Reserve Bank of
+and Consumption Growth”, Journal of Financial St. Louis Review, September/October.
+Economics, 22(2), pp. 305-33.
+smooth Brexit could boost confidence and provide (iii) Exchange Rate
+support to global trade and demand. Should
+The INR depreciated vis-à-vis the US dollar in August
+global growth surprise by 50 bps on the upside,
+2019, reflecting global developments. Looking ahead,
+domestic growth and inflation could edge higher by
+rising trade protectionism, and slowing global
+around 20 bps and 10 bps, respectively.
+trade and global output could increase volatility in
+(ii) International Crude Oil Prices international financial markets and exert further
+downward pressure on the currency. Should the INR
+The Indian basket of crude oil prices has exhibited
+depreciate by 5 per cent from the baseline, inflation
+high volatility in the first half of 2019-20 and the
+could edge up by around 20 bps and boost net exports
+outlook remains uncertain. Upside risks to the
+and GDP growth by around 15 bps. In contrast, a
+baseline assumption can emanate from geo-political
+slew of measures taken by the government to boost
+tensions. Assuming crude oil prices increase to US$
+73 per barrel, inflation could be higher by around 30 output and investment, policy reforms in the FDI
+bps and growth weaker by around 20 bps from the regime, and greater than expected monetary policy
+baseline. Conversely, crude oil prices could soften accommodation by the central banks in major AEs
+further if global demand turns out to be weaker than could attract increased capital inflows and lead to an
+expected. Should the price of the Indian basket of appreciation of the INR. An appreciation of the INR
+crude fall to US$ 53, inflation could ease by around by 5 per cent could moderate inflation by around 20
+30 bps and growth could be higher by around 20 bps bps and GDP growth by around 15 bps vis-à-vis the
+(Charts I.11a and I.12a). baseline (Charts I.11b and I.12b).
+
+Chapter I Macroeconomic Outlook
+(iv) Food Prices 2019-20 and the early months of 2020-21. Volatility
+in international and domestic financial markets, as
+Food prices picked up during April-August, mainly
+well as global crude oil prices, and domestic prices
+due to pressures from prices of vegetables and pulses.
+of perishable food items pose upside risks to the
+However, overall food inflation remains benign. The
+baseline inflation path. On the other hand, the
+baseline path assumes that food inflation will firm
+softer outlook on global commodity prices and large
+up in the near term reflecting, inter alia, the seasonal
+pick-up in prices of vegetables and some pick-up buffer stocks could keep headline inflation below the
+in prices of pulses as the demand-supply balance baseline.
+stabilises. There are both upside and downside risks
+Real GDP growth is expected to recover in H2:2019-
+to the baseline. The strong revival of monsoon during
+20, facilitated by favourable base effects and
+July-September and the resultant catch-up in kharif
+transmission of past monetary policy actions.
+sowing, large buffer stocks, and improved prospects
+The measures announced by the government in
+for rabi crops from better reservoir levels could soften
+August-September to boost growth – such as release
+food inflation more than assumed, and consequently,
+of funds for recapitalisation of public sector banks,
+headline inflation could be below the baseline by up
+merger of public sector banks, reforms in the FDI
+to 50 bps. However, heavy rains and floods in some
+regime, initiatives for exports and the real estate
+areas could exert some upward pressure on food
+sector, reduction in the corporate income tax rate –
+inflation and accordingly, headline inflation could be
+and faster resolution of stressed assets could push
+higher by around 50 bps (Charts I.11b and I.12b).
+growth above the baseline path. Intensification of
+I.5 Conclusion
+global uncertainty around US-China trade tensions,
+Headline inflation is projected to remain below the a hard Brexit and geo-political tensions are key
+medium-term target of 4 per cent over the rest of downside risks to the baseline growth path.
+
+Monetary Policy Report October 2019
+II. Prices and Costs
+Consumer price inflation registered an uptick during March-August 2019, underpinned by a pick-up in food
+inflation, particularly in vegetables and protein-based items. Fuel group inflation moderated sequentially after April
+and moved into deflation in July and August 2019. Inflation excluding food and fuel has softened since March in
+a broad-based manner notwithstanding a sharp increase in gold prices. Nominal growth in rural wages, both for
+agricultural and non-agricultural labourers, remained subdued. Growth in organised sector staff costs showed
+divergent movements – rising for the manufacturing sector and remaining range bound for the services sector. Farm
+inputs and industrial raw materials price inflation has softened in 2019-20 so far.
+Over the last six months i.e., March-August 2019 of April 2019 had projected CPI inflation at 2.9 per
+consumer price index (CPI) inflation trailed below the cent for Q1:2019-20 and 3.0 per cent for Q2:2019-20.
+target of 4.0 per cent averaging 3.1 per cent over this Actual inflation outcomes have, by and large, tracked
+period.1 Its key driver was food prices which emerged these projections (Chart II.2).
+out of deflation in March 2019 and gradually firmed
+While food prices moved out of deflation as anticipated,
+over the ensuing months in the usual summer season
+the summer rise in prices of vegetables this year was
+upturn. In contrast, prices of fuel and light items
+more pronounced than observed in recent history.
+remained soft and slumped into deflation during
+Pulses prices moved out of two and a half years of
+July-August 2019. Excluding food and fuel, inflation
+deflation in May 2019. As a result, food inflation
+ebbed by around 100 basis points between March-
+inched up by 230 basis points, larger than expected,
+June 2019 and reached a 23-month low in June 2019,
+between March and August 2019. Meanwhile,
+before registering some uptick during July-August
+inflation excluding food and fuel softened more than
+(Chart II.1).
+anticipated, providing an offset. The Indian basket of
+The RBI Act, 1934 (amended in 2016) enjoins the crude oil prices eased unexpectedly – from an average
+RBI to set out deviations of actual outcomes from of US$ 67 per barrel during 2019-20 (which was the
+projections, if any, and to explain the underlying baseline assumption in the April MPR) to below US$
+reasons thereof. The Monetary Policy Report (MPR) 60 per barrel in August. Prices within the fuel group
+1 Headline inflation is measured by year-on-year changes in all India CPI Combined (Rural and Urban).
+
+Chapter II Prices and Costs
+underwent substantial correction in respect of both
+rural items of consumption such as firewood and
+dung cake and those of urban usage such as liquefied
+petroleum gas (LPG). Consequently, the fuel group as
+a whole slipped into deflation during July-August. On
+the whole, these divergent movements caused CPI
+headline inflation outcomes to marginally overshoot
+inflation projections, i.e., by 20 basis points each in
+Q1:2019-20 and Q2:2019-20 (July-August) (Chart II.2).
+II.1 Consumer Prices
+A decomposition of year-on-year (y-o-y) inflation
+shows that its rising trajectory during March to June
+2019 was propelled by a sustained increase in price
+momentum (Chart II.3). In July, large favourable base
+effect helped moderate the high price momentum.2
+In August, however, the price momentum outweighed
+a low base effect and consequently, inflation edged
+2 Inflation (i.e., the y-o-y change in CPI) in any given month arithmetically equals the previous month’s inflation plus the difference between current
+month-on-month (m-o-m) change in the price index (momentum) and the m-o-m change in the price index 12 months earlier (base effect). See Box 1.1 of
+MPR, September 2014.
+
+Monetary Policy Report October 2019
+up marginally. The elevation in price momentum in adjusted basis moderated during June-August 2019
+H1:2019-20 was driven by the food group, mainly across both goods and services categories (Chart II.5).3
+by prices of vegetables, pulses, meat and fish. In
+II.2 Drivers of Inflation
+contrast, the momentum underlying fuel and light
+A historical decomposition of inflation shows that it
+inflation collapsed during July-August under the
+was impacted by positive supply shocks in H1:2019-
+weight of a broad-based decline in prices of items of
+20, which, in conjunction with subdued domestic
+rural and urban fuel consumption. The momentum
+demand, kept headline inflation low and stable (Chart
+of prices of items excluding food and fuel moderated
+II.6a).4
+during March-August 2019 and was completely
+overwhelmed by favourable base effects, barring July. The break-up of overall CPI inflation into goods
+and services components suggests that perishable
+The distribution of inflation across CPI groups
+goods (non-durable goods with 7-day recall) such as
+shows a considerable drop in median inflation rates
+– from 4.8 per cent in 2018 to 2.1 per cent in 2019 vegetables and fruits were the largest contributor to
+so far. Moreover, the negative skew in inflation overall inflation during April-August (Chart II.6b). The
+in 2017 and 2018 resulting from food prices was contribution of less perishable goods (non-durable
+absent in 2019, implying that a generalised goods with 30-day recall) moderated due to deflation in
+moderation in inflation was underway this year prices of rice, petroleum products, LPG and electricity.
+(Chart II.4). Diffusion indices of month-on-month The contribution of durable goods to overall inflation
+(m-o-m) price changes in CPI items on a seasonally increased during June-August 2019, primarily on
+3 The CPI diffusion index, a measure of dispersion of price changes, categorises items in the CPI basket according to whether their prices have risen,
+remained stagnant or fallen over the previous month. A reading above 50 for the diffusion index signals generalisation of price increases and a reading
+below 50 signals a broad-based deflation.
+4 Historical decompositions are used to estimate the contribution of each shock to the movements in inflation over the sample period, based on a Vector
+Auto Regression (VAR) with the following variables (represented as the vector Y) – the annual growth rate in crude oil prices; inflation; the output gap; the
+t
+annual growth rate in rural wages and the policy repo rate. The VAR can be written in reduced form as: Y =c + A Y + e; where e represents a vector of
+t t-1 t t
+shocks [oil price shock; supply shock (inflation shock); output gap shock; wage shock; and policy shock]. Using Wold decomposition, Y can be represented
+t
+as a function of its deterministic trend and sum of all the shocks e. This formulation facilitates decomposition of the deviation of inflation from its
+t
+deterministic trend into the sum of contributions from various shocks.
+
+Chapter II Prices and Costs
+account of a sharp increase in prices of gold and to for the same period a year ago. Inflation in the food
+a lesser extent, in those of motor vehicles. Imported group turned positive beginning March 2019 – after
+goods (petrol; diesel; LPG; kerosene; electronic goods; remaining in the negative zone for five consecutive
+gold; silver; chemical and chemical products; metal months during October 2018-February 2019 – and
+and metal products; and refined vegetables oils) increased steadily thereafter driven by prices of
+together contributed negatively to overall inflation vegetables, fruits and protein-rich items such as
+in the recent period (Chart II.6c). The contribution pulses, meat, fish and milk (Chart II.7a).
+of services to overall inflation moderated. However,
+Within the food and beverages group, the price
+services (with a weight of 23.4 per cent in overall
+build-up during the financial year so far in the case
+CPI) contributed to about a third to overall inflation
+of vegetables has been substantial, but close to
+(Chart II.6b).
+historical summer price increases. In the case of fruits,
+CPI Food Group pulses, meat and fish, the price build-up has been,
+In terms of weighted contribution, the food and in fact, larger than the historical average (2011-18).
+beverages group (weight: 45.9 per cent in CPI) For all the other sub-groups within the food group,
+contributed 32.9 per cent to overall inflation during the build-up has been much lower than in the past
+April-August 2019 as compared with 25.0 per cent (Chart II.7b).
+
+Monetary Policy Report October 2019
+Inflation in respect of cereals (weight of 9.7 per cent months and thunderstorms in several parts of northern
+in CPI and 21.1 per cent in the food and beverages and north-eastern states that spoiled the produce in
+group) remained moderate during April-August 2019, transit. Despite this firming up, potato prices moved
+with rice prices remaining in deflation, reflecting into deflation beginning April 2019 on account of
+robust production and adequate stocks. As per the favourable base effects. Onion prices, which had
+fourth advance estimates of foodgrain production, declined during December 2018-March 2019, revived
+production of rice was at 1164 lakh tonnes in 2018- from April with a sharp uptick during June-August.
+19, higher than 1128 lakh tonnes in 2017-18, which A reduction in rabi onion acreage in Maharashtra,
+was until recently an all-time record. Exports of
+particularly in the major onion-producing district of
+rice declined during April-July 2019 as the 5 per
+Nashik due to drought-like conditions, led to a slump
+cent incentive provided by the government to rice
+in mandi arrivals. Onion prices were also supported by
+exporters under the Merchandise Exports from India
+procurement operations by the National Agricultural
+Scheme (MEIS) was withdrawn from April 1, 2019 and
+Cooperative Marketing Federation of India (NAFED)
+this resulted in higher domestic availability. Wheat
+in Maharashtra. Excessive rainfall, coupled with
+inflation, however, remained high at an average of
+floods in several parts of major onion-supplying states
+6.8 per cent during April-August 2019 (3.4 per cent in
+such as Maharashtra, Karnataka and Madhya Pradesh
+2018-19) due to a fall in imports following a hike in
+during July-August, also led to a reduction in supplies.
+import duty to 40.0 per cent in April 2019 from 30.0
+Tomato prices began picking up from March 2019,
+per cent in May 2018.
+with inflation in this item rising sharply to 70.1 per
+As regards vegetables (weight of 6.0 per cent in CPI cent in May 2019 from (-) 52.2 per cent in November
+and 13.2 per cent in the food and beverages group), 2018. Delayed harvesting in Maharashtra as well as
+a recovery in the prices of onions, tomatoes and fungus damaged crops in Karnataka triggered the
+potatoes (which account for 36.5 per cent of the total
+initial uptick in prices, which was exacerbated by
+CPI vegetables) led the upturn in prices (Chart II.8a).
+supply disruptions due to incessant rains and flood-
+Potato price pressures picked up right from April 2019. like situations in key supplier states – Karnataka,
+First, untimely rains during February and March in Maharashtra and Himachal Pradesh. Tomato inflation,
+West Bengal impacted the crop which was ready to however, eased to 28.4 per cent in July largely due to
+be harvested. Second, mandi arrivals declined due a favourable base effect, before hardening to 39.4 per
+to a sudden increase in temperature during summer cent in August on account of an adverse base effect.
+
+Chapter II Prices and Costs
+A decomposition of CPI vegetables into trend, cyclical statistically significant higher volatility in m-o-m
+and seasonal components reveals that the cyclical changes in prices of vegetables and fruits in urban
+upswing, starting from December 2018, was the key areas than in rural areas5.
+driver of the vegetables inflation during H1:2019-20
+CPI pulses (weight of 2.4 per cent in CPI and 5.2 per
+(till July 2019), with the trend component remaining
+cent in the food and beverages group), driven by a
+flat. The seasonal uptick during the summer season
+sustained uptick in prices, emerged from 29 successive
+tracked the pattern in previous years (Chart II.8b).
+months of deflation in May 2019 to reach a 35-month
+Prices of fruits (weight of 2.9 per cent in CPI and 6.3
+high inflation of 6.9 per cent in August 2019 (Chart
+per cent within the food and beverages group) moved
+II.9a). Even so, the CPI pulses index remained below
+into deflation in December 2018. Fruits prices began
+trend (Chart II.9b). Pulses production was lower at 234
+rising from February 2019 with sharp uptick in April
+lakh tonnes (as per the fourth advance estimates) in
+and July. However, fruits remained in deflation up to
+2018-19 than 254 lakh tonnes in 2017-18. In addition,
+August 2019. Price pressures were particularly evident
+pulses imports declined from 57 lakh tonnes in 2017-
+in respect of bananas and apples, which together
+18 to 26 lakh tonnes in 2018-19, reducing the domestic
+constitute around 35.6 per cent of the category of
+supply glut. A sizeable stock of pulses – at around 40
+fruits. While banana prices were impacted by lower
+lakh tonnes – is available, which could be released in
+mandi arrivals, apple prices increased in the usual
+the market to contain price pressures.
+seasonal upturn. Apple prices were also supported by
+lower imports following the increase in import duty Meat and fish prices also contributed to the pick-up
+on apples from the US by 20.0 per cent in June 2019. in food inflation, partly reflecting the sustained rise
+However, price pressures in respect of both bananas in feed prices, particularly of maize. In fact, inflation
+and apples declined in August due to higher domestic in meat and fish prices was the highest in 62 months
+arrivals in mandis. in July 2019. While egg prices moved in line with
+The rise in prices of vegetables and fruits during the their historical pattern, those of milk and products
+summer months of 2019 was witnessed in urban as hardened during May-August 2019, primarily
+well as rural areas. A sectoral analysis suggests that reflecting an increase in retail milk prices by ₹2 per
+there is no statistically significant difference between litre to ₹6 per litre due to pass-through of an increase
+the m-o-m changes in prices of fruits and vegetables in procurement prices of milk by ₹5-6 per litre by milk
+between rural and urban areas. There is, however, co-operatives.
+5 Based on a F-test and t-test framework. The robustness of the results was tested using both seasonally adjusted and unadjusted data.
+
+Monetary Policy Report October 2019
+Prices of sugar emerged out of deflation in May 2019 Inflation in respect of oils and fats remained subdued
+after remaining in negative territory for 15 consecutive at around 0.8 per cent during April-August 2019,
+months. However, they slipped back into deflation with soft international prices and higher domestic
+during June-August 2019, reflecting domestic supply production keeping prices under check. According
+to the fourth advance estimates, oilseeds production
+surpluses as well as favourable base effects. As per the
+increased by 2.5 per cent in 2018-19; however, a
+Indian Sugar Mills Association (ISMA), the opening
+decline in groundnut production during the year
+stock of sugar as on October 1, 2019 is expected to be
+contributed to price pressures in groundnut oil during
+at an all-time high of 145 lakh tonnes. International
+a major part of 2018-19 as well as in 2019-20 so far.
+sugar prices, which were in deflation during May
+2017-February 2019 due to persistent excess global CPI Fuel Group
+supply, also returned to positive territory in March Fuel group inflation moderated sequentially after
+2019. Some increase in sugar prices in the domestic April up to June and sank into deflation in July and
+market was observed in Q1:2019-20, possibly August 2019, with inflation in major constituents
+reflecting the increase in minimum selling prices of such as electricity, LPG, firewood and chips and dung
+sugar by ₹2 per kilogram in February 2019. cake all slipping into negative territory (Chart II.10a).
+
+Chapter II Prices and Costs
+After registering price increases between March-
+June, domestic LPG prices declined abruptly in July
+and August, following a collapse in international
+petroleum products prices (Chart II.10b). Electricity
+prices, which constitute around one-third of the fuel
+and light sub-group, have been in deflation for most
+of the months since January 2019. Prices of items of
+rural consumption such as firewood and chips, and
+dung cake have also remained in deflation since April
+2019. This could partly be on account of increased LPG
+use in rural areas.6 In contrast, administered kerosene
+prices registered calibrated increases as oil marketing
+companies (OMCs) raised administered prices to
+align them more closely with market prices so as
+to eventually phase out the subsidy on petroleum
+products.
+2019, it was not sustained and it moderated by about
+CPI excluding Food and Fuel 30 bps in August (Chart II.11).
+CPI inflation excluding food and fuel moderated Within CPI excluding food and fuel, price increases
+by close to 100 bps between March and June 2019. during the financial year so far have been considerably
+Even excluding volatile components such as lower than historical averages for most of the
+constituent sub-groups (Chart II.12).
+petroleum products, gold and silver, it moderated
+by around 70 bps, reflecting the broad-based nature Empirical evidence suggests that persistently low
+of the disinflation in this group. Although inflation food inflation has spilled over to CPI excluding food
+excluding food and fuel picked up by 35 bps in July and fuel (Box II.1).
+6 Rural households were provided LPG connections under the Pradhan Mantri Ujjwala Yojana (PMUY), which significantly improved the LPG coverage (all
+India) from 62 per cent in 2015-16 to 94 per cent in 2018-19. Estimates suggest that this could have contributed to around 1.60 percentage points reduction
+in inflation in traditional sources of cooking fuels like firewood and chips and dung cakes.
+
+Monetary Policy Report October 2019
+Box: II.1: Time-varying Estimates of Spillovers from Food Inflation to Inflation
+excluding Food and Fuel
+Movements in food inflation have direct and indirect
+Let Y denote a n ×1 vector i, z of 5
+t
+effects on headline inflation – directly through
+variables at time t. Then,
+the relative weight of food in the CPI basket, and
+Y = X β + A-1Σ ε, t = s+1….n. (1)
+indirectly by second round effects through changes t t t t t t
+in inflation expectations, wages and relative price Where X = Is⊗(Y ’… Y ’); a = (a , a , a , a , .
+t t-1 t-s t 21 31 32 41
+adjustments (Cecchetti and Moessner, 2008). . . , a ) is a stacked vector of the lower-triangular
+
+Empirical results based on cross-country evidence elements in A; h = (h , . . . , h ) with h = logσ2
+t t 1t kt jt jt
+suggest that volatile and persistent food price shocks
+for j = 1, . . . , k, t = s+1, . . . , n and β be the vector
+t
+in economies having a large share of expenditure on
+of coefficients. It is assumed that parameters in (1)
+food in the consumption basket are likely to have
+follow a random walk process as in (2).
+larger and longer effects of food inflation on non-
+food inflation (Walsh, 2011). These spillovers could β =β +u ε   I 0 0 0
+t+1 t βt  t    
+be time dependent and conditioned by the state a t+1 =a t +u at with  u ât ~ N  0, 0 Σ β 0 0  (2)
+of the economy. A time-varying parameter vector u   0 0 Σ 0 
+autoregression with stochastic volatility (TVP-VAR), h t+1 =h t +u ht  u h at t       0 0 0 a Σ h     
+(Primiceri, 2005), was employed to estimate the time-
+for t = s+1, ... , n.
+varying pass-through coefficients. It is based on five
+The empirical results suggest that (i) pass-through
+variables, viz., the output gap (deviation of output
+coefficients are time varying – ranging between 8 per
+from its potential level, y); food inflation ;
+cent and 14 per cent during Q3:2003-04 to Q1:2019-
+inflation excluding food and fuel ; the policy
+20; (ii) pass-through is high when food inflation is
+interest rate (i) (proxied by the call money rate,
+high and persistent, and low when food inflation is
+which is the operating target of monetary policy), and
+the exchange rate (Indian Rupees per US$) changes low. In the recent low food inflation scenario, the
+(z), over the sample period from Q1:1996-97 pass-through coefficient has moderated to around 10
+to Q1:2019-20.7 The estimated model can be per cent (Chart II.1.1a & b). In view of this asymmetric
+represented as follows: impact of food inflation on inflation excluding food
+(Contd.)
+7 CPI food price and CPI excluding food and fuel price indices, prior to 2011 were estimated using the corresponding indices of CPI Industrial Workers.
+
+Chapter II Prices and Costs
+and fuel, maintaining low and stable food prices Settlements Quarterly Review, Bank for International
+becomes critical to contain underlying inflation Settlements, pp. 55–66.
+pressures. This would entail supply side reforms to Reserve Bank of India (2014), ‘Report of the Expert
+ensure that food inflation remains under check. Committee to Revise and Strengthen the Monetary
+Policy Framework (Chairman: Dr Urjit R. Patel)’.
+Reference
+Primiceri, G. (2005), ‘Time Varying Structural Vector
+Bordoloi, S. (2019), “Spill-over from Food inflation
+Autoregressions and Monetary Policy’, Review of
+to Core inflation in India: An Empirical Analysis”,
+Economic Studies, 72, pp. 821-852.
+(Mimeo).
+Walsh, J. (2011), ‘Reconsidering the role of food
+Cecchetti, S. and Moessner, R. (2008), ‘Commodity prices in inflation’, IMF Working Paper, WP/11/71,
+prices and inflation dynamics’, Bank for International International Monetary Fund.
+Inflation in the transport and communication sub- clothing and footwear, mainly in rural areas. Other
+group moderated primarily due to a sustained deflation sub-groups contributing to the goods moderation
+in petroleum product prices (Chart II.13a). However, were personal care items, particularly, gold; silver; and
+the wedge between international and domestic prices toiletries, and household goods and services items.
+The pick-up in goods inflation since June has almost
+remains considerable due to an incomplete pass-
+entirely emanated from the personal care and effects
+through (Chart II.13b).
+sub-group, driven by a sharp pick-up in gold prices.
+An examination of the components of CPI excluding
+Services inflation moderated from elevated levels in
+food, fuel, petrol and diesel inflation in terms of
+February 2019 to 4.9 per cent in August 2019 (Chart
+goods and services shows that while goods inflation
+II.14b) in a broad-based manner across education
+saw phases of both moderation (February-May) and services like tuition and coaching; transportation
+uptick (June-August), services inflation has fallen fares, particularly, bus fares; medical services;
+persistently (Chart II.14a & b). A key sub-group housing; and household services like sweeping and
+contributing to the downturn in goods inflation was tailoring charges.
+
+Monetary Policy Report October 2019
+Other Measures of Inflation Inflation in wholesale price index (WPI) fell steadily
+in contrast to the sectoral CPIs to a low of 1.1 per cent
+Inflation in sectoral CPIs, i.e., for industrial workers
+in August 2019. On the one hand, fuel group inflation
+(CPI-IW), agricultural labourers (CPI-AL) and rural
+collapsed from 4.6 per cent in March to (-) 4.0 per cent in
+labourers (CPI-RL), rose rapidly between March
+August 2019 tracking international petroleum product
+and June 2019 compared with the muted uptick in
+prices; inflation in non-food manufactured products
+CPI headline inflation. Inflation in food and fuel
+also fell across the board and was in contraction in
+components of CPI-AL and CPI-RL was higher than
+August. On the other hand, WPI food inflation showed
+that in headline CPI and was accentuated by the
+an uptick from January and remained elevated till
+larger share of food in these indices. In the case of
+August, barring a fleeting correction in July. GDP and
+CPI-IW, a major source of divergence was the housing
+GVA deflators broadly remained in alignment with CPI
+component. Following the increase in HRA under the
+inflation during the last six months (Chart II.15a).
+7th central pay commission (CPC), housing inflation in
+CPI-IW remained above 26 per cent during July 2018 Underlying inflation dynamics can be gauged from
+to June 2019, pushing CPI-IW inflation to 8.7 per cent exclusion-based measures that remove volatile
+by May 2019. As the effect of increase in HRA waned, items/item groups or by statistical measures such
+CPI-IW inflation declined to 6.3 per cent in August. as trimming, which adjust for positive and negative
+
+Chapter II Prices and Costs
+skewness and chronic fat tails in the inflation predominantly reflecting the easing in prices of raw
+distribution by removing outliers. By these measures, jute and raw cotton.
+inflation have moved with a softening bias over the
+Of farm sector inputs, price pressures in respect
+last six months (Chart II.11 & 15b).
+of fertilisers remained subdued, largely reflecting
+II.3 Costs moderation in international prices, especially those
+of phosphate, di-ammonium phosphate and triple
+Developments in underlying cost conditions have
+superphosphate. Inflation in respect of pesticides
+largely been in sync with inflation in terms of the
+and other agrochemical products also softened
+WPI (Chart II.16). Price inflation in farm inputs and
+considerably in Q1:2019-20 due to easing of
+industrial raw materials (extracted from the WPI) has
+international crude oil prices. The price of electricity,
+fallen in 2019-20 so far. The moderation in global
+which carries a high weight in both industrial and
+crude oil prices during 2019-20 has kept domestic
+farm inputs, moved into deflation during June-August
+price pressures under check in respect of inputs such
+2019. However, inflation in fodder prices turned
+as high-speed diesel, aviation turbine fuel, naphtha,
+positive in January 2019, after remaining in deflation
+furnace oil and petroleum coke. In addition, the
+during August 2016-December 2018 (barring August
+contraction in mineral prices has also aided the fall in
+2017), to touch a 37-month high of 16 per cent in July
+industrial input costs.
+2019, before easing somewhat in August. Inflation
+Among other industrial raw materials, domestic in terms of agricultural machinery and implements
+coal inflation has subsided significantly since the costs has also remained elevated and sticky from
+H2:2018-19.
+beginning of 2019-20, averaging around 0.7 per cent
+during April-August 2019. Domestic coal prices largely Growth in nominal rural wages, both for agricultural
+moved in line with international coal prices during and non-agricultural labourers, remained subdued and
+the period. Inflation in paper and paper products sticky, hovering around 3.7 per cent and 3.8 per cent,
+has also moderated due to lower raw material costs respectively, during 2019-20 so far, reflecting the lagged
+including those of pulp and coal. In the case of impact of moderate rural inflation, low food prices and
+fibres, inflation eased during June-August 2019, a slowdown in the construction sector (Chart II.17).
+
+Monetary Policy Report October 2019
+With inflation in CPI-AL and CPI-RL having picked up costs and selling prices sequentially from Q2:2018-19
+since February 2019, however, real rural wage growth, to Q1:2019-20. However, the rate of decline in selling
+based on these price indices, turned negative since prices in Q1:2019-20 was sharper than that of input
+March 2019. costs. During Q2:2019-20, both input costs and selling
+prices firmed up. Input cost inflation reported by firms
+Growth in organised sector staff costs showed
+in the services sector PMI also softened gradually
+divergent movements for services and manufacturing
+from Q2:2018-19 to Q1:2019-20 but increased during
+firms. Unit labour costs for companies in the
+the first two months of Q2:2019-20.
+manufacturing sector fell marginally in Q4:2018-19
+but rose thereafter in Q1:2019-20 to 6.3 per cent due II.4 Conclusion
+to a decline in the value of production, coupled with
+The inflation trajectory in 2019-20 so far has been
+increase in staff cost.8 Unit labour cost for firms in
+characterised by rising food inflation, with price
+the services sector increased marginally in the last
+build-ups close to historical averages and well above
+quarter as higher growth in staff costs outpaced the
+levels observed in recent years, driven largely by a
+growth in value of production (Chart II.18).
+strong summer pick-up in prices of vegetables. Going
+Manufacturing firms participating in the Reserve forward, however, the build-up in vegetables prices
+Bank’s industrial outlook survey reported a fall in is likely to reverse with arrivals of the kharif harvest
+input costs in Q2:2019-20 on account of lower raw and winter supplies. The catch-up in monsoon and
+material costs. The cost of finance and salary outgoes sowing should help mitigate price pressures in cereals.
+are also expected to soften in Q2. The fall in input Moreover, buffer stocks of cereals are well above
+prices is likely to translate into a fall in selling prices prescribed norms. In the case of pulses, the arrival of
+in Q2. fresh produce in the market along with buffer stocks
+Firms polled for the manufacturing purchasing are also likely to keep prices under check. Going
+managers’ index (PMI) reported a decline in input forward, domestic fuel and petroleum product prices
+are subject to considerable uncertainty due to geo-
+political developments in the Middle East. A sudden
+spike in crude oil and petroleum products prices
+remains a major upside risk in spite of weak global
+demand. However, given the weak domestic demand
+and lower input costs, inflation in CPI excluding food
+and fuel is likely to remain moderate.
+Forward looking surveys of the Reserve Bank
+point to weak consumer confidence and sagging
+demand, especially pertaining to non-essential items.
+Manufacturing firms see input prices as still soft and
+pricing power is yet to firm up as the cost of finance
+and salary outgoes remain muted. However, inflation
+expectations of households have risen somewhat.
+On the whole, headline CPI inflation is expected to
+remain within the Reserve Bank’s target of 4.0 per
+cent during 2019-20.
+8 Unit labour cost is defined as the ratio of staff cost to value of production.
+
+Chapter III Demand and Output
+III. Demand and Output
+Aggregate demand weakened in Q1, underpinned by a slowdown in private consumption. On the supply side, a
+sharp deceleration in manufacturing essentially reflected weaknesses in the organised sector. Services
+sector growth was pulled down by ‘financial, real estate and professional services’ and construction activity.
+The recent measures by the Government should help kickstart the capex cycle and lead to the strengthening of
+domestic demand.
+Domestic economic activity suffered a sharp loss of in Q1:2019-20 from 5.6 per cent in Q4:2018-19
+pace in Q1:2019-20. Aggregate demand weakened in (Chart III.1b).
+Q1:2019-20 by a slowdown in private consumption.
+Of the constituents of GDP, private final consumption
+On the supply side, manufacturing activity collapsed
+expenditure (PFCE), the mainstay of aggregate
+with the prolonged slowdown in the production
+demand, slumped, with its growth plummeting by
+of capital goods and consumer durables and in the
+over four percentage points in Q1:2019-20 to an
+services sector, construction activity slowed down
+eighteen-quarter low. Government final consumption
+markedly. Incoming data suggest that the slowdown
+expenditure (GFCE) cushioned the deceleration in
+persisted into Q2:2019-20.
+aggregate demand. Excluding GFCE, real GDP growth
+III.1 Aggregate Demand would have slid down to 4.5 per cent in Q1:2019-
+Measured by year-on-year (y-o-y) changes in real 20. Gross fixed capital formation (GFCF) remained
+gross domestic product (GDP) at market prices, the weak in Q1:2019-20, with the capex cycle yet to gain
+deceleration in aggregate demand in Q4:2018-19 traction. Export growth decelerated considerably
+deepened to 5.0 per cent in Q1:2019-20, extending in Q1:2019-20 in an uncertain external trading
+the sequential slowdown that set in during Q1:2018- environment rendered hostile by trade tensions.
+19 to the fifth consecutive quarter (Table III.1 and With import growth reflecting domestic demand
+Chart III.1a). Momentum, measured by quarter-on- conditions and slowing more sharply, net exports
+quarter (q-o-q) seasonally adjusted annualised GDP made a positive contribution to growth after a gap of
+growth rate (SAAR), also moderated to 4.4 per cent nine quarters.
+Table III.1: Real GDP Growth (Per cent)
+Item 2017-18 2018-19 Weighted 2017-18 2018-19 2019-20
+(FRE) (PE) Contribution* (FRE) (PE)
+2017-18 2018-19 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+Private final consumption expenditure 7.4 8.1 4.2 4.5 10.1 6.0 5.0 8.8 7.3 9.8 8.1 7.2 3.1
+Government final consumption expenditure 15.0 9.2 1.5 1.0 21.9 7.6 10.8 21.1 6.6 10.9 6.5 13.1 8.8
+Gross fixed capital formation 9.3 10.0 2.9 3.1 3.9 9.3 12.2 11.8 13.3 11.8 11.7 3.6 4.0
+Exports 4.7 12.5 1.0 2.5 4.9 5.8 5.3 2.8 10.2 12.7 16.7 10.6 5.7
+Imports 17.6 15.4 3.8 3.6 23.9 15.0 15.8 16.2 11.0 22.9 14.5 13.3 4.2
+GDP at Market Prices 7.2 6.8 7.2 6.8 6.0 6.8 7.7 8.1 8.0 7.0 6.6 5.8 5.0
+FRE: First Revised Estimates; PE: Provisional Estimates.
+*: Component-wise contributions to growth do not add up to GDP growth in the table because change in stocks, valuables and discrepancies are not
+included.
+Source: National Statistical Office (NSO), Government of India.
+
+Monetary Policy Report October 2019
+GDP Projections versus Actual Outcome of lower than expected capital goods production and
+their imports, and moribund activity in construction.
+The April 2019 MPR had projected real GDP growth of
+6.8 per cent for Q1:2019-20, with risks evenly balanced
+III.1.1 Private Final Consumption Expenditure
+around the baseline path (Chart III.2). The actual
+The unexpected slump in PFCE resulted in its
+outcome for the quarter undershot the projections by
+share falling to 55.1 per cent in Q1:2019-20 from
+180 basis points. First, the realised growth in private
+56.1 per cent a year ago. The slowdown in private
+consumption demand surprised significantly on the
+downside, indicating that the April 2019 projection consumption was amplified by weak growth in
+underestimated the broad-based slowdown in both some of the labour intensive export sectors such as
+rural and urban consumption. Second, GFCF growth readymade garments, leather manufactures and jute
+also turned out lower than the projection on account manufactures (Chart III.3).
+
+Chapter III Demand and Output
+High frequency indicators of urban demand Various indicators of rural demand have also
+have weakened in recent months as reflected in remained weak (Chart III.6). Motorcycles and tractor
+contraction in sales of passenger vehicles and sales contracted in July and August. Although the
+production of consumer durables (Chart III.4). growth of consumer non-durables accelerated in
+Among them, passenger car sales have contracted July, it was driven mainly by sunflower oil. The
+by double digits every month since April 2019, sales growth of fast moving consumer goods (FMCG)
+resulting in major car producers suspending factory companies, a sizeable part of which occurs in rural
+production intermittently. A combination of factors areas, has also been sluggish. The reasonably strong
+such as higher prices due to stricter safety norms, kharif foodgrains production in the first advance
+uncertainty caused by new emission norms and
+the proposed switching to electric vehicles have
+dented the sales of passenger vehicles (Box III.1).
+The growth in household credit for vehicles extended
+by banks also moderated (Chart III.5). Domestic
+air passenger traffic growth remained modest in
+July due to grounding of a private airline, which
+impacted air fares and dampened demand; however,
+it improved in August. Going forward, passenger
+vehicle sales could improve with the government’s
+recent support for the sector such as permitting
+the operation of Bharat Stage (BS)-IV vehicles
+purchased till March 31, 2020, for the entire period
+of registration; withdrawal of a ban on the purchase
+of new vehicles by government departments; and
+deferring the implementation of hike in the one-time
+registration fee until June 2020.
+
+Monetary Policy Report October 2019
+Box III.1: Slowdown in the Automobile Sector
+The downturn in the automobile sector in India, expected to increase vehicle sales. On the other
+which could be attributed to several regulatory and hand, an increase in interest rate is expected to
+institutional factors, was accentuated by a slowdown moderate auto sales.
+in demand. This has drawn considerable attention X= [z, p, d, d] is a vector of exogenous variables
+t t 1 2
+in view of the industry’s role in economic activity1. determined from outside the simultaneous system
+An estimation framework using vector auto of equations, z is the y-o-y change in INR/US$
+t
+regressions with exogenous variables (Ludvigson, exchange rate, p is the y-o-y change in diesel
+t
+1998) (VARX) was conducted to assess the prices, d is a dummy variable representing the
+
+underlying factors for the slump in the auto sector implementation of BS-IV from April 2017. d
+
+using quarterly data from Q1:2007-08 to Q1:2019- is a dummy variable representing three events
+20. In the first VARX (1): which happened during the second half of 2018-
+Y = A(L)Y + CX + U, ....(1) 19, viz., liquidity issues faced by non-banking
+financial companies (NBFCs) post-IL&FS default,
+where Y= [c, y, s, i] is a vector of variables
+t t t t the announcement of axle load norms and
+endogenous to the simultaneous system of
+implementation of insurance and safety norms. U
+equations. c is the credit demand measured as a t
+t is a vector of idiosyncratic errors.
+gap between the credit disbursed by scheduled
+commercial banks (SCBs) for automobile purchases A similar model was estimated by using the deviation
+from its long-term trend. s is the deviation of sales of sales of passenger cars from its long-term trend
+t
+of commercial vehicles from its long-term trend. y instead of sales of commercial vehicles (s) in (1).
+t t
+is aggregate demand measured as the output gap The key findings emerging from the impulse
+and i is the weighted average lending rate of SCBs. response functions (IRFs) from the two VARXs
+t
+A rise in aggregate demand and credit demand are (Charts III.I.1) are:
+(Contd.)
+1 The share of “manufacture of transport equipment” was 12.0 per cent in manufacturing gross value added (GVA) and 2.1 per cent in overall GVA in 2017-18.
+
+Chapter III Demand and Output
+(i) both commercial vehicle and passenger car of commercial vehicles positively impact bank
+sales are sensitive to aggregate demand shocks; credit flow to the automobile sector.
+(ii) both commercial vehicle and passenger car The dummy, representing three events (d ) is
+
+sales respond positively to a decline in interest statistically significant and explains 10 percentage
+rates; points of the decline in commercial vehicle sales
+and 8 percentage points of the decline in passenger
+(iii) fuel prices have a negative impact on
+car sales.
+commercial vehicle sales;
+Shocks like the slump in demand, liquidity crisis
+(iv) exchange rate depreciation affects auto sales
+in the NBFC sector and measures to enhance safety
+negatively; and
+and security norms, appear to have resulted in a
+(v) bank credit does not have any significant
+downswing in the automobile sector.
+impact on vehicle sales; however, the reverse
+A slowdown in passenger car sales was also observed
+causation is statistically significant, i.e., sales
+in the US, the Euro area, China, South Korea and
+Japan for a variety of reasons (Chart III.1.2). These
+are: (i) stricter emission norms in China and the
+Euro area; (ii) mandatory sales of electric vehicles
+by car makers in the Euro area; (iii) tepid demand
+due to subdued global growth; and (iv) depressed
+consumer confidence from escalating US-China
+trade tensions.
+Reference:
+Ludvigson, S. (1998). “The Channel of Monetary
+Transmission to Demand: Evidence from the
+Market for Automobile Credit”, Journal of Money,
+Credit and Banking, 30(3), pp. 365–383.
+
+Monetary Policy Report October 2019
+estimates of the Ministry of Agriculture – only 0.8 per
+cent below last year’s level – and bright prospects for
+the rabi season in view of soil moisture conditions
+and comfortable reservoir levels could buoy rural
+incomes and demand, going forward.
+III.1.2 Gross Fixed Capital Formation
+Growth in gross fixed capital formation (GFCF)
+moderated sharply in Q4:2018-19 and Q1:2019-
+20 after double digit growth in the five previous
+quarters. The share of GFCF in aggregate demand
+declined to 32.5 per cent in Q1:2019-20 from 32.8 per
+cent a year ago. High frequency indicators suggest
+that investment activity remained sluggish in Q2.
+Import of capital goods and production of capital
+goods contracted in July (Chart III.7). However,
+housing loans disbursed by scheduled commercial
+banks (SCBs) remained resilient, reflecting the policy
+push for the affordable housing sector.
+Q1:2019-20, while there was some deterioration
+Capacity utilisation (CU) in the manufacturing in stalled projects in the government sector in Q1
+sector, measured by the order books, inventory and (Chart III.9).
+capacity utilisation survey (OBICUS) of the Reserve
+Gross capital formation has decelerated since
+Bank, moderated to 73.6 per cent in Q1:2019-20 from
+2011-12 due to a slowdown in investment by
+76.1 per cent in Q4:2018-19; seasonally adjusted CU,
+the private sector (Chart III.10). Underlying the latter is
+however, improved to 74.8 per cent in Q1:2019-20
+from 74.5 per cent in Q4 (Chart III.8). The number corporate deleveraging in select industries as reflected
+of stalled projects in the private sector declined in in improving interest coverage ratios (Chart III.11).
+
+Chapter III Demand and Output
+The slowdown in investment activity was also April-August 2019, the fiscal position of the central
+reflected in a decline in financial flows from banks government strengthened as the gross fiscal deficit
+and non-banks to the commercial sector (Chart III.12;
+(GFD) and revenue deficit (RD) improved vis-à-vis the
+see Chapter IV for details).
+corresponding period of the previous year in terms
+III.1.3 Government Expenditure of budget estimates (BE), mainly due to lower growth
+in expenditure (Table III.2). Total expenditure of the
+Government final consumption expenditure
+(GFCE) cushioned aggregate demand in Q4:2018-19 central government in the current fiscal year so far
+and Q1:2019-20, as pointed out earlier. During has been driven by revenue expenditure.
+Table III.2: Key Fiscal Indicators – Central
+Government (April-Aug)
+(Per cent)
+y-o-y
+As a per cent of BE
+Indicator Growth
+2018-19 2019-20 2019-20
+1. Revenue receipts 26.9 30.7 29.8
+a. Tax revenue (Net) 24.7 24.5 10.5
+b. Non-tax revenue 40.1 63.4 102.0
+2. Total non-debt receipts 26.4 29.8 29.6
+3. Revenue expenditure 43.8 42.5 10.7
+4. Capital expenditure 44.0 40.2 3.0
+5. Total expenditure 43.8 42.2 9.8
+6. Gross fiscal deficit 94.7 78.7 -6.3
+7. Revenue deficit 114.0 89.9 -8.1
+8. Primary deficit 767.7 773.4 -10.0
+BE: Budget Estimates.
+Sources: Controller General of Accounts; and Union Budget Document,
+2019-20.
+
+Monetary Policy Report October 2019
+In order to meet expenditure commitments, revenue did move closer subsequently, before finally catching
+generation is critical. On the receipts side, income tax up in August 2019 (Chart III.14a and 14b). There
+collections gained traction during April-August 2019 have, however, been large inter-state variations in
+(Chart III.13). SGST collections, with a few states not requiring
+the GST compensation cess. Plugging loopholes
+Notwithstanding month-over-month fluctuations,
+and mitigating information technology (IT) glitches
+the GST collections grew by 4.9 per cent (y-o-y) during
+such as putting in place an invoice-matching system
+April-September 2019. The share of State GST (SGST)
+collections in total GST revenue has been sizably to facilitate a system validated input tax credit,
+higher than Central GST (CGST), attributable to the overcoming operational deficiencies of the payment
+adjustment for input tax credit. After apportionment module, alignment of system validations with the
+of integrated GST (IGST) collections, the share of GST Acts and Rules along with alleviating system
+CGST collections remained significantly lower than design deficiencies may facilitate tapping of GST
+SGST collections during April-September 2018. They potential.2
+2 Report of Comptroller and Auditor General of India on Indirect Taxes – Goods and Services Tax for the year ended March 2018, Report No. 11, July, 2019.
+
+Chapter III Demand and Output
+Non-tax revenue has been an important source of of the capital expenditure multiplier (RBI, 2019).3
+finance for the central government. During April- A major challenge for government finances in the
+August 2019, this component witnessed robust growth remaining period of the current financial year is to
+driven by the surplus transfer from the Reserve Bank. adhere to the budgeted capital spending and revenue
+Resource mobilising efforts through disinvestment generation targets.
+may also help garner revenues, going forward.
+As regards direct taxes of states, stamp duty collections
+On the expenditure front, both revenue and capital are highly correlated with construction activity
+expenditure of the central government witnessed (Chart III.16). Hence, a slowdown in the construction
+sector might impact stamp duty collections.
+some moderation in Q1:2019-20. However, after the
+declaration of election results, both revenue and After remaining above 6 per cent of GDP between
+capital expenditure picked up significantly during 2008-09 to 2016-17, the combined GFD of the centre
+July-August 2019; almost 40 per cent of budgeted and states dropped below 6 per cent in 2017-18. It
+capital expenditure for roads and highways was is estimated at 6.2 per cent in 2018-19 (RE) and 5.9
+incurred in the month of July 2019. Likewise, per cent in 2019-20 (BE). Outstanding liabilities of
+information available for 22 states indicates a the general government are budgeted to marginally
+slowdown in revenue expenditure in Q1:2019-20 decline to 69.6 per cent of GDP in 2019-20 from 69.8
+though it picked up in July 2019. per cent in 2018-19, driven by the centre, though
+states’ debt is showing a rising trend. The debt
+States have reduced their capital spending in order
+servicing capacity of the general government has
+to adhere to fiscal deficit targets in the last few years
+improved in 2018-19 with the interest payments as
+(Chart III.15). This seems to have, in turn, affected
+per cent to revenue receipts exhibiting a decline.
+investment adversely. Going forward, a pick-up in
+capital spending by both the centre and states is The Reserve Bank has managed the centre’s market
+desirable given the growth augmenting property borrowing programme during 2019-20 so far as
+3 Reserve Bank of India (2019), “Estimable Fiscal Multipliers for India”, Monetary Policy Report, pp. 35-37, April.
+
+Monetary Policy Report October 2019
+Table III.3: Government Market Borrowings
+(₹ crore)
+2017-18 2018-19 2019-20 (September 30, 2019)
+Item
+Centre States Total Centre States Total Centre States Total
+Net borrowings 4,48,410 3,40,281 7,88,691 4,22,737 3,48,643 7,71,380 3,40,972 1,56,447 4,97,419
+Gross borrowings 5,88,000 4,19,100 10,07,100 5,71,000 4,78,323 10,49,323 4,42,000 2,25,445 6,67,445
+Sources: Government of India and RBI staff estimates.
+per the planned issuance schedule. The budgeted Q2:2016-17, as slowdown in import growth was more
+gross market borrowing of the central government pronounced than that for exports.
+for 2019-20 at ₹7,10,000 crore is about 24.3 per
+The persisting loss of momentum in global trade
+cent higher than last year. The central government
+impacted India’s merchandise exports, which
+completed 62.3 per cent of its budgeted gross
+contracted during Q1:2019-20 and in July-August
+market borrowings as on September 30, 2019 (50.4
+2019-20 in both the petroleum, oil and lubricants
+per cent in the corresponding period of 2018-19)
+(POL) and non-POL categories (Chart III.17a). The
+(Table III.3). The Union Budget 2019-20 provides for
+sectors which contributed to the overall decline
+consolidation measures like switching of securities
+included engineering goods, gems and jewellery and
+budgeted at ₹50,000 crore, of which ₹40,109 crore
+rice. POL exports declined mainly on account of a fall
+worth of securities have already been switched. The
+in international crude oil prices. In addition, routine
+states completed 35.6 per cent of their budgeted
+maintenance-related shutdowns in major refineries
+gross market borrowings till September 30, 2019 as
+adversely impacted exports in June 2019 (Chart
+compared with 27.6 per cent in the corresponding
+III.18a).
+period of 2018-19. A major part of market borrowings
+Imports also contracted in Q1:2019-20 due to
+by the states is expected to occur in H2:2019-20.
+deceleration in POL growth and decline in non-POL
+III.1.4 External Demand
+non-gold imports. Gold imports surged on the back of a
+Net exports contributed positively to aggregate decline in prices, wedding and festive season demand
+demand in Q1:2019-20 for the first time after during Q1:2019-20 (Chart III.18b). The decline in non-
+
+Chapter III Demand and Output
+POL non-gold imports was broad-based as imports account increased due to higher dividends on foreign
+of transport equipment, pearls and precious stones, investment in Q1:2019-20.
+metalliferous ores and vegetable oil contracted.
+The CAD was comfortably met by a mix of foreign direct
+Imports continued to contract in July-August 2019 in
+investment (FDI), foreign portfolio investment (FPI)
+a broad-based manner. The trade deficit moderated
+and external commercial borrowings in Q1:2019-20
+from US$ 46.7 billion in Q1:2018-19 to US$ 46.2 billion
+with net accretion to reserves to the tune of US$
+in Q1:2019-20, although on a sequential basis, i.e.,
+14.0 billion. Higher FPI flows, including under the
+Q1:2019-20 over Q4:2018-19, it expanded modestly.
+voluntary retention route (VRR) introduced in March
+However, with imports declining faster than exports,
+2019, eased external financing conditions. Net inflows
+the trade deficit narrowed from US$ 36.5 billion
+under external commercial borrowings to India stood
+in July-August 2018-19 to US$ 26.9 billion in the
+at US$ 6.3 billion in Q1:2019-20 as against an outflow
+corresponding period of 2019-20. While the current
+of US$ 1.5 billion a year ago. Net FDI flows at US$
+account deficit (CAD) mirrored the movements in
+13.9 billion in Q1:2019-20 were higher than US$ 9.6
+the trade deficit, both on a y-o-y and sequential basis,
+billion a year ago. Easing of norms for FDI in single
+CAD as per cent of GDP widened to 2 per cent in
+brand retail, contract manufacturing, and coal mining
+Q1:2019-20 from below one per cent in Q4:2018-19.
+are likely to give a push to FDI inflows and strengthen
+More than 80 per cent of the trade deficit was financed
+India’s participation in the global value chain.
+through invisibles, i.e., net export of services and
+Notwithstanding outflows from the equity segment
+remittances. Net services exports grew by 7.3 per cent
+in July and August 2019, net FPI purchases (excluding
+in Q1:2019-20 on a y-o-y basis – primarily driven by
+software, travel and financial services (Chart III.17b). VRR) in the domestic capital market were at US$ 3.3
+Revenue growth of major information technology billion during April-September 2019 as against an
+(IT) companies making software exports, improved outflow of US$ 11.5 billion a year ago. Net flows
+on a y-o-y basis in Q1:2019-20; an increase of 0.6 under non-resident deposits were robust in Q1:2019-
+per cent in total global IT spending is projected in 20. India’s forex exchange reserves were placed at
+2019. Remittances remained stronger in Q1:2019- US$ 434.6 billion on October 1, 2019 – an increase
+20, though the net outgo of payments under income of US$21.7 billion over the level at end-March 2019.
+
+Monetary Policy Report October 2019
+III.2 Aggregate Supply
+On the supply side, the gross value added (GVA)
+growth decelerated to 5.7 per cent in Q4:2018-19 and
+further to a twenty-one-quarter low of 4.9 per cent in
+Q1:2019-20 (Table III.4). GVA momentum, measured in
+terms of seasonally adjusted q-o-q annualised growth,
+also declined sharply in Q1 (Chart III.19).
+The deceleration in GVA growth (y-o-y) was caused
+by a significant deceleration in services growth to 6.7
+per cent in Q1:2019-20 from 8.2 per cent in Q4:2018-
+19, pulled down by construction and ‘financial, real
+estate and professional services’. Manufacturing
+registered the second lowest growth in the 2011-
+12 series4. Despite some deceleration, public
+administration, defence and other services (PADO)
+III.2.1 Agriculture
+grew at a healthy rate. Excluding PADO, the GVA
+growth would have slipped to 5.0 per cent in Q4:2018- In Q1:2019-20, value added in agriculture and allied
+19 and 4.5 per cent in Q1:2019-20 (Chart III.20). activities recovered from contraction in the preceding
+Growth in ‘trade, hotels, transport, communication quarter on the back of higher production of wheat
+and services related to broadcasting’ registered an and oilseeds during the rabi season. This was also
+uptick sequentially. supported by higher horticulture production by 0.7
+Table III.4: Sector-wise Growth in GVA
+(y-o-y, per cent)
+Sector 2017-18 2018-19 Weighted 2017-18 (FRE) 2018-19 2019-
+(FRE) (PE) Contribution (PE) 20
+2017-18 2018-19 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+Agriculture, forestry and fishing 5.0 2.9 0.8 0.4 4.2 4.5 4.6 6.5 5.1 4.9 2.8 -0.1 2.0
+Industry 6.1 6.2 1.4 1.4 -0.1 7.7 8.0 8.6 9.9 6.1 6.0 3.4 1.7
+Mining and quarrying 5.1 1.3 0.2 0.0 2.9 10.8 4.5 3.8 0.4 -2.2 1.8 4.2 2.7
+Manufacturing 5.9 6.9 1.1 1.2 -1.7 7.1 8.6 9.5 12.1 6.9 6.4 3.1 0.6
+Electricity, gas, water supply and other utilities 8.6 7.0 0.2 0.2 8.6 9.2 7.5 9.2 6.7 8.7 8.3 4.3 8.6
+Services 7.8 7.7 4.8 4.8 8.6 6.5 8.0 8.0 7.5 7.5 7.6 8.2 6.7
+Construction 5.6 8.7 0.5 0.7 3.3 4.8 8.0 6.4 9.6 8.5 9.7 7.1 5.7
+Trade, hotels, transport, communication 7.8 6.9 1.5 1.3 8.3 8.3 8.3 6.4 7.8 6.9 6.9 6.0 7.1
+Financial, real estate and professional services 6.2 7.4 1.4 1.6 7.8 4.8 6.8 5.5 6.5 7.0 7.2 9.5 5.9
+Public administration, defence and other services 11.9 8.6 1.5 1.1 14.8 8.8 9.2 15.2 7.5 8.6 7.5 10.7 8.5
+GVA at basic prices 6.9 6.6 6.9 6.6 5.9 6.6 7.3 7.9 7.7 6.9 6.3 5.7 4.9
+FRE: First Revised Estimates; PE: Provisional Estimates.
+Source: NSO.
+4 The lowest growth in manufacturing was recorded in Q1:2017-18 possibly due to the transient impact of the implementation of the goods and services
+tax (GST).
+
+Chapter III Demand and Output
+per cent to a record of 3,138 lakh tonnes, as per the comparison with 9 per cent below the LPA last year.
+third advance estimates for 2018-19. In terms of distribution, 12 sub-divisions (compared
+to 1 sub-division last year) received excess rainfall, 19
+The fourth advance estimates of agricultural
+received normal rainfall (23 sub-divisions last year),
+production for 2018-19 released in August placed
+and 5 suffered deficient rainfall (12 sub-divisions last
+foodgrains production at 2,850 lakh tonnes – same
+year) (Chart III.22). Abundant rains between mid-
+as the final estimate of 2017-18 for the previous year,
+August and September augmented the live storage
+but lower than the target of 2,903 lakh tonnes for the
+available in 113 reservoirs (as on September 26, 2019)
+year. Poor performance of south-west and north-east
+monsoon impacted crop production during 2018-
+19, particularly in the rabi season with most of the
+crops missing their respective targets set for the
+year. Nevertheless, production of rice, wheat and
+sugarcane touched a record high in 2018-19.
+In 2019, the south-west monsoon started with a
+week’s delay and its progress across southern and
+central India was hindered by cyclone Vayu. As a
+result, there was a rainfall deficit of 36 per cent below
+the Long Period Average (LPA) in June. The monsoon
+gained momentum from July. Heavy rainfall in the
+beginning of the month reduced the cumulative deficit
+to 9 per cent below the LPA by the end of the month
+(Chart III.21). The cumulative all-India rainfall as on
+September 30, 2019 was 10 per cent above the LPA in
+
+Monetary Policy Report October 2019
+with the cumulative reservoir level at 115 per cent of 9.5 per cent lower as on June 28, 2019 than a year
+the live storage in the corresponding period of the ago. However, sowing recovered thereafter, with an
+improvement in precipitation across the country and
+previous year.
+announcement of minimum support prices (MSPs)
+The production weighted rainfall index5 (PRN) was
+for kharif crops. As a result, the total area sown caught
+also higher than a year ago and was ‘normal’ or
+up with last year’s average as on September 27, 2019
+‘above normal’ for all the major crops, barring rice
+(Chart III.24a). At a disaggregated level, sowing caught
+(Chart III.23).
+up across all crops, exceeding last year’s levels in
+respect of cotton and pulses (Chart III.24b).
+Reflecting the initial delay in the onset of the
+monsoon, kharif sowing started on a low note with The first advance estimates of production of
+acreage for most crops lagging behind the area sown major kharif crops for 2019-20 have placed foodgrains
+last year. The total area sown under kharif crops was production at 1,406 lakh tonnes, 0.8 per cent lower
+5 The All India production-weighted rainfall index (PRN) for a crop (total foodgrains) is constructed as a ratio of the weighted averages of state-wise actual
+rainfall and IMD normal rainfall, expressed as a percentage. The weights used are based on five year average shares of the state-wise crop (total foodgrains)
+production.
+
+Chapter III Demand and Output
+than last year’s level, reflecting the delayed onset III.2.2 Industry
+of monsoon and intense rains and floods in various
+The slowdown in industrial activity that set in
+states. However, among the commercial crops,
+from Q2:2018-19 deepened further in Q1:2019-20
+the production of oil seeds, cotton, jute and mesta
+(Chart III.25). A sharp deceleration in manufacturing
+has been estimated to be higher than last year’s
+GVA in Q1:2019-20 essentially reflected weaknesses
+production.
+in the organised sector. In terms of the index of
+The MSPs announced for the kharif season 2019-20
+industrial production (IIP)7, however, the performance
+ensure a return of at least 50 per cent over the cost
+of manufacturing improved in Q1:2019-20 from
+of production (as measured by A2 plus FL6) for all
+the previous quarter. In July, manufacturing output
+the crops (Table III.5). However, the growth in MSP
+accelerated further (Chart III.26).
+in 2019-20 for kharif crops over last year’s level of
+support price was modest (in the range of 1.1-9.2 per In terms of the use-based classification, the
+cent) as compared with a range of 3.7-52.5 per cent in intermediate goods sector grew by double digits for the
+2018-19. While the highest increase in the MSP was third consecutive month in July 2019, mainly driven by
+for soyabean (9.2 per cent), followed by ragi (8.7 per mild steel slabs. Consumer non-durables growth also
+cent), the lowest was for niger seeds and moong (1.1 accelerated, supported by sunflower oil production.
+per cent). However, the capital goods sector contracted for the
+Table III.5. Minimum Support Price – Kharif Season Crops
+`/Quintal Growth Rate (per cent) Return Return in
+in 2018-19 over 2019-20 over
+Crop
+2017-18 2018-19 2019-20 2018-19 over 2019-20 over
+Cost (per cent) Cost (per cent)
+2017-18 2018-19
+Paddy common 1550 1750 1815 12.9 3.7 50.1 50.2
+Paddy (F)/Grade’A’ 1590 1770 1835 11.3 3.7 51.8 51.9
+Jowar-Hybrid 1700 2430 2550 42.9 4.9 50.1 50.2
+Jowar-Maldandi 1725 2450 2570 42.0 4.9 51.3 51.4
+Bajra 1425 1950 2000 36.8 2.6 97.0 84.7
+Ragi 1900 2897 3150 52.5 8.7 50.0 50.0
+Maize 1425 1700 1760 19.3 3.5 50.3 50.3
+Tur (Arhar) 5450 5675 5800 4.1 2.2 65.4 59.5
+Moong 5575 6975 7050 25.1 1.1 50.0 50.0
+Urad 5400 5600 5700 3.7 1.8 62.9 63.9
+Groundnut 4450 4890 5090 9.9 4.1 50.0 50.0
+Sunflower seed 4100 5388 5650 31.4 4.9 50.0 50.0
+Soyabean yellow 3050 3399 3710 11.4 9.2 50.0 50.0
+Sesamum 5300 6249 6485 17.9 3.8 50.0 50.0
+Niger seed 4050 5877 5940 45.1 1.1 50.0 50.0
+Medium staple cotton 4020 5150 5255 28.1 2.0 50.0 50.1
+Long staple cotton 4320 5450 5550 26.2 1.8 58.8 58.5
+Source: Ministry of Agriculture and Farmers’ Welfare, Government of India.
+6 A2 plus FL includes all paid out costs such as expenses on hired labour, machines, rent paid for leased land, seeds, fertilisers, irrigation charges, depreciation
+as well as imputed value of family labour.
+7 IIP at the appropriate digit level is taken into account to represent the unorganised manufacturing sector in the quarterly GVA estimates.
+
+Monetary Policy Report October 2019
+seventh successive month, caused by contraction in sources was lower in July and August on a y-o-y basis
+commercial vehicles, tractors and printing machinery. (Charts III.28).
+The consumer durables segment contracted for two The deceleration in manufacturing GVA in Q1:2019-20
+consecutive months, pulled down by a decline in the was also reflected in sales growth of manufacturing
+production of passenger vehicles, auto components companies, pulled down mainly by lower sales
+of automobiles, petroleum, and iron and steel
+and two-wheelers (Chart III.27).
+(Chart III. 29). The slowdown in sales also mirrored
+Electricity generation accelerated in Q1:2019-20
+in a sharp decline in profit before tax (Chart III. 30).
+due to increased summer demand following the A silver lining was witnessed in the sales of cement,
+delayed onset of the monsoon. With the seasonal pharmaceuticals and chemical companies, which
+pressure abating, electricity generation from various continued to grow in Q1:2019-20.
+
+Chapter III Demand and Output
+Overall business sentiment in the Indian and fall in profit margins of the surveyed firms.
+manufacturing sector has deteriorated recently. Business expectations index (BEI) also moderated to
+The business assessment index (BAI) fell to 92.5 in 102.2 in Q3:2019-20 (from 112.8 in Q2:2019-20). The
+Q2:2019-20 (from 108.4 in Q1:2019-20) in the 87th manufacturing purchasing managers’ index (PMI)
+round of the Reserve Bank’s Industrial Outlook for September 2019 was unchanged at its previous
+Survey (IOS) due to a decline in new orders, month level, while new orders and employment
+contraction in production, lower capacity utilisation improved, albeit, marginally, new export orders
+declined.
+III.2.3 Services
+In Q1:2019-20, services sector growth was the lowest
+in the last seven quarters, pulled down by financial,
+real estate and professional services, and construction
+activity. PADO grew at a healthy rate in Q1:2019-20
+and cushioned the loss of pace of GVA from overall
+services. ‘Trade, hotels, transport, communication
+and services related to broadcasting’ maintained
+momentum, though transport services indicators
+have weakened significantly in the recent period. The
+sales of commercial vehicles, passenger vehicles, and
+two-wheelers contracted sharply in July-August.
+Growth in domestic air passenger traffic accelerated
+in August. While rail freight traffic contracted in July,
+
+Monetary Policy Report October 2019
+domestic air cargo traffic growth improved in August PADO growth moderated sequentially in Q1:2019-
+(Chart III.31a and b). The services PMI, however, 20, reflecting subdued revenue expenditure (net
+expanded in July and August, reversing the of interest payments and subsidies) of the union
+contraction in June. and the state governments ahead of elections. The
+growth of ‘financial, real estate and professional
+Of the two key indicators of construction activity,
+services’ decelerated in Q1:2019-20 mainly due to
+the production of cement accelerated sharply in July
+the poor performance by listed real estate companies
+before contracting in August, while finished steel
+consumption moderated in July-August (Chart III.32). notwithstanding a healthy growth in financial
+Softer domestic steel prices are likely to strengthen services (Chart III.33).
+steel consumption, going forward.
+
+Chapter III Demand and Output
+In the residential real estate sector, both sales and gap – measured by the deviation of actual output
+new launches contracted in Q1:2019-20, indicating from its potential level and expressed as a ratio of
+sluggish demand (Chart III.34a). With sales outpacing potential output – provides a summary measure
+new launches, the inventory overhang has declined of demand-supply conditions in the economy.
+somewhat, though the large inventory overhang still Since potential output and the output gap are both
+unobservable and their estimates can be sensitive
+has a moderating influence on residential house
+to the choice of methodology and data availability,
+prices (Chart III.34b).
+a pragmatic approach has been followed by applying
+III.3. Output Gap
+several methods to estimate potential output. The
+A detailed analysis of aggregate demand and aggregate methods followed are univariate filters such as the
+supply in the above sections provides an assessment
+Hodrick-Prescott (HP) filter, the Baxter-King (BK) filter
+of the state of the economy in H1:2019-20. The output
+and the Christiano-Fitzgerald (CF) filter on the one
+hand, and multivariate Kalman filter (MVKF) taking
+into account inflation developments, on the other, to
+draw robust inferences on the state of the business
+cycle (Chart III.35). The composite estimate arrived
+by combining all these measures suggests that the
+output gap has turned more negative.
+III.4. Conclusion
+A combination of domestic and global headwinds has
+depressed economic activity, especially in terms of
+aggregate demand. The near-term outlook of the Indian
+economy is fraught with several risks. First, private
+consumption, which all along supported economic
+activity, is now beginning to slow down due to a host
+of factors. In this context, the performance of large
+employment generating sectors such as automobile
+
+Monetary Policy Report October 2019
+and real estate remains less than satisfactory. Recent global uncertainties have weakened investment
+measures initiated such as the sharp cut in corporate activity at home. Further escalation of trade tensions
+tax rates, stressed assets funds for the housing sector, could adversely impact export prospects, besides
+infrastructure investment funds, implementation of delaying the investment upturn. The private corporate
+a fully electronic GST refund system and funds for sector has not been adding new capacities even as
+export guarantee would be helpful. Second, bank credit existing capacity utilisation has risen close to its long-
+growth has slowed down and overall fund flows to the term average for several quarters. The recent measures
+commercial sector have declined, partly due to risk should help kickstart the capex cycle so that new
+aversion and partly due to a slowdown in demand. The capacities can come on stream and lead to the
+recent recapitalisation of public sector banks augurs strengthening of domestic demand in the short-term
+well for improving credit flows, which are important while boosting the medium-term growth potential of
+for reviving private investment activity. Meanwhile, the economy.
+
+Chapter IV Financial Markets and Liquidity Conditions
+IV. Financial Markets and Liquidity Conditions
+Domestic financial market segments reacted to evolving domestic and global developments in a diverse manner in
+the first half of 2019-20. While money markets experienced swift and complete transmission of policy impulses, the
+government securities and foreign exchange market segments were impacted by domestic economic slowdown and
+global spillovers. The stock market intermittently scaled new highs amidst sell-off pressures from geo-political tensions.
+In the credit market, bank lending decelerated reflecting weak demand and risk aversion.
+Global financial markets were on edge through the first losses on geo-political developments, poor corporate
+half of 2019-20 (H1:2019-20) amidst sporadic bouts performance and weakness in macroeconomic
+of turbulence around trade tensions, geo-political indicators in Q2. Rising global uncertainty amidst
+flashpoints, uncertainty surrounding a chaotic Brexit geo-political tensions and domestic cyclical downturn
+and a subdued global growth outlook, despite dovish in the economy adversely impacted the foreign
+monetary policy stances of leading central banks. exchange market. Overall flow of financial resources
+Equity markets, in particular, experienced high to the commercial sector moderated mainly due to
+volatility with stocks of emerging market economies reduced credit offtake from banks reflecting weak
+(EMEs) undergoing sell-offs on fears of political demand and risk aversion.
+unrest in Hong Kong and debt default concerns in
+IV.1.1 Money Market
+Argentina. In bond markets, corporate credit spreads
+widened as global growth prospects dimmed; on During H1:2019-20, various segments of the money
+the other hand, ebbing risk appetite coupled with market were impacted by the RBI’s monetary policy
+accommodative monetary policy stances resulted in actions, stance and liquidity conditions. In the
+softening of sovereign yields across AEs and EMEs. overnight money market, the weighted average call
+In the currency market, the US dollar continued to rate (WACR) generally remained below the policy repo
+appreciate against other major currencies, reflecting rate during H1:2019-20, trading with a downward bias
+relatively stronger US macroeconomic fundamentals. (see Section IV.3 for details). The spread between the
+EME currencies depreciated amidst mounting WACR and the policy repo rate widened from June,
+spillover risks arising from trade tensions and market and averaged 6 bps in September. Other overnight
+turmoil. money market rates in the collateralised segment,
+i.e., the tri-party repo rate and the market repo rate,
+IV.1 Domestic Financial Markets
+moved largely in tandem with the WACR. Both the
+Various segments of the domestic financial market
+tri-party repo rate and the market repo rate remained
+exhibited divergent movements in response to
+below the WACR by 7 bps during H1:2019-20 on an
+evolving domestic and global developments in
+average.
+H1:2019-20. While money markets witnessed swift
+and complete transmission, the moderation of Volumes in the inter-bank money market shifted
+yields in bond markets was interrupted by domestic from the uncollateralised to the collateralised
+and international factors in August. Equity markets segment during H1:2019-20. The progressive easing
+made handsome gains in Q1, with the election of liquidity conditions led to a fall in the share of
+related uncertainty coming to an end, but suffered call money in total overnight money market volume.
+
+Monetary Policy Report October 2019
+Concomitantly, the share of tri-party repo and market to policy rate cuts and the shift in the policy stance
+repo in total money market volumes increased from neutral to accommodative during H1:2019-
+(Chart IV.1).1 20 (Chart IV.2). Interest rates on CPs moderated
+noticeably during H1, particularly those issued by
+In terms of market microstructure, mutual funds
+non-banking financial companies (NBFCs), although
+(MFs) continued to be the major lenders in the tri-
+CP rates traded above CD rates. In comparison, yields
+party repo and market repo segments, with average
+on 3-month T-bills moderated by a greater extent
+shares of 59 per cent and 39 per cent, respectively, in
+during the period.
+H1:2019-20. The major borrowers were public sector
+banks in the tri-party repo segment and primary In the wake of easy liquidity conditions in the
+dealers (PDs) in the market repo segment. Given banking system, fresh issuances of CDs declined to
+deficit liquidity conditions in April and May, lending ₹1,75,305 crore during H1:2019-20 (up to September
+by MFs declined while borrowing by MFs increased in
+13, 2019) as compared with ₹1,98,829 crore during the
+the collateralised segment during these two months.
+corresponding period of 2018-19. Primary issuances
+With systemic liquidity turning surplus since June,
+of CPs also declined to ₹11,92,277 crore during
+lending by MFs increased while borrowing declined
+H1:2019-20 from ₹13,58,117 crore during H1:2018-
+marginally in the collateralised segment during June-
+19, with more than 99 per cent of the issuances by
+September.
+companies with A1+ rating. CP issuances moderated
+Interest rates on longer-term money market from July reflecting heightened risk aversion in view
+instruments such as certificates of deposit (CDs), of downgrading of a few CP issuers in June and July
+commercial papers (CPs) and Treasury Bills (T-bills) 2019. Nevertheless, interest rates in the primary
+of 3-month maturity responded in varying degrees CP market – as reflected in the weighted average
+1 In the call money market, participants include banks and primary dealers discount rate (WADR) – moderated sharply by 130
+only, while other market participants such as mutual funds, insurance bps during H1:2019-20, facilitated by the easing of
+companies and other financial institutions are the key players in the tri-party
+repo and market repo segments. liquidity conditions (Chart IV.3a). During this period,
+
+Chapter IV Financial Markets and Liquidity Conditions
+non-financial corporates and NBFCs were the major in liquidity conditions from deficit to surplus since
+issuers in the CP market (Chart IV.3b). the beginning of June 2019; (ii) the predominance
+of issuances by top rated issuers raising funds at
+Risk premium in the money market (i.e., spread
+competitive rates; and (iii) the measures taken by the
+between 3-month CPs and 3-month T-bills) remained
+government and the Reserve Bank to provide liquidity
+high at an average of 99 bps during April-July reflecting
+the downgrading of some CP issuers in June-July and support to NBFCs.2 The spread between 3-month CP
+tight liquidity conditions during April-May (Chart rate of NBFCs and non-NBFCs narrowed (average of
+IV.4a). The risk premium declined sharply to an 23 bps in H1:2019-20 vis-à-vis 44 bps in H2:2018-19),
+average of 64 bps in August-September on account notwithstanding some intermittent spikes (Chart
+of (i) the liquidity effect emanating from the switch IV.4b).
+2 The Union Budget on July 5, 2019 announced that the government would provide a one-time partial credit guarantee to public sector banks to buy high-
+rated pooled assets worth ₹1 lakh crore from NBFCs. Moreover, the Reserve Bank in its bi-monthly monetary policy of August 2019 allowed bank lending
+to NBFCs for on-lending to agriculture, micro and small enterprises, and housing to be classified as priority sector lending, up to specified limits. The RBI
+also liberalised the external commercial borrowings framework, which facilitated NBFCs to raise funds for on-lending and repayment of rupee loans.
+
+Monetary Policy Report October 2019
+Table IV.1: Policy Transmission in the Money Market
+(Basis points)
+Change in Rates
+H1: 2019-20
+Repo WACR Tri-party Market Repo 3-month CD 91-day 3-month
+Repo T-bill CP (NBFCs)
+April 3 to June 4 -25 -32 -43 -37 -33 -16 -5
+June 6 to August 6 -25 -24 -18 -25 -48 -44 -80
+August 7 to September 30 -35 -23 -28 -32 -6 -38 20
+Cumulative (April 3 - September 30) -85 -79 -89 -94 -87 -98 -65
+Sources: RBI; CCIL; FBIL; and Bloomberg.
+During H1:2019-20, policy transmission was nearly Amidst heightened trade tensions, yields softened
+complete in all segments of the money market. Of by 38 bps by during May in the wake of election
+the three policy announcements during this period, results indicating political stability. This was aided
+the maximum impact was felt after the June policy by infusion of liquidity through open market
+– which signaled both a rate cut and a change in the operation (OMO) purchases and lower crude oil
+stance from neutral to accommodative – particularly prices. The softening trend continued in June with
+at the longer end of the money market spectrum the benchmark yield declining further by 15 bps
+(Table IV.1). Thus, both the announcement effect during the month, as market sentiment was buoyed
+of repo rate cuts and the liquidity effect of surplus by a further reduction in the policy rate, a shift in
+conditions were instrumental in securing policy the policy stance and continued OMO purchases by
+transmission. the RBI.
+IV.1.2 Government Securities (G-Sec) Market The moderation in yields extended into Q2 even
+as the market sentiment was unsettled by fears of
+G-sec yields traded with a softening bias at the
+excess supply of paper. In fact, G-Sec yields remained
+beginning of Q1:2019-20, taking cues from several
+volatile through July 2019. Nonetheless, positive
+positive developments during Q4:2018-19, viz.,
+monetary policy easing and a change in the policy Budget announcements such as pegging of the
+stance from calibrated tightening to neutral; fiscal deficit at 3.3 per cent of GDP and unchanged
+injection of durable liquidity; announcement of quantum of borrowing vis-à-vis the Interim Budget
+the voluntary retention route (VRR); and successive bolstered market sentiment. This was also reflected
+benign inflation prints. The softening of yields was, in renewed buying by foreign portfolio investors
+however, ephemeral and they started hardening in (FPIs) in the debt market. Moreover, benign inflation
+April 2019, partly due to (i) no change in the policy prints triggered market expectations of further rate
+stance contrary to market expectation; (ii) sustained cuts. All these factors resulted in the benchmark yield
+higher crude oil prices after the US announced softening further by 50 bps during July, touching a
+stopping of imports from Iran and supply disruptions low of 6.33 per cent on July 16, 2019 – its lowest level
+in Libya and Venezuela; and (iii) depreciation of the during H1:2019-20. Despite positive developments
+Indian rupee (INR). Consequently, the benchmark such as a larger than expected rate cut of 35 bps
+yield hardened by 6 bps during April 2019 despite by the MPC, rollback of surcharge on FPIs, higher
+injection of durable liquidity through a US dollar buy/ than expected surplus transfer by the RBI, the G-sec
+sell swap. market remained wary in August on concerns over
+
+Chapter IV Financial Markets and Liquidity Conditions
+bond yields. Subsequent reassurances by the
+Saudi authorities on restoring normalcy assuaged
+market apprehensions somewhat and softened
+crude prices thereafter. Moreover, large buying
+support from state owned banks, market expectation
+of a further rate cut and easing of limit on foreign
+investment in gilts softened yields towards the end
+of September. Overall, the benchmark yield softened
+by 65 bps during H1:2019-20, closing at 6.70 per cent
+on September 30, 2019.
+The yield curve, which underwent shifts in
+H1:2019-20, is characterised by its level and slope
+(Chart IV.6a).3 Since the April monetary policy
+announcement, the average level of yield has
+softened by 50 bps, driven down by: (i) cumulative
+policy easing by 85 bps, accompanied by a change in
+the monetary policy stance; (ii) build-up of surplus
+fiscal slippage arising from anticipation of a stimulus,
+liquidity position aided by liquidity infusion through
+and domestic/geo-political tensions. Accordingly, the
+OMOs and forex buy/sell swaps; (iii) ongoing
+benchmark yield hardened by 19 bps during August
+liquidity support measures to NBFCs; and (iv) benign
+2019, paring previous gains (Chart IV.5).
+domestic inflation prints. Since the August policy
+The hardening bias of benchmark yield continued announcement (up to September 30, 2019), however,
+in September owing to (i) rising crude oil prices the average level has firmed up by 24 bps even as
+following the attack on Saudi oil refineries; (ii) the yield curve has become steeper, reflecting inter
+lingering fiscal concerns; and (iii) surge in overnight alia fears of a large shortfall in government revenue
+indexed swap (OIS) rates fuelled by a rise in US after the announcement of corporate tax rate cuts by
+3 While the level is the average of all yields across maturities, the slope is represented by the difference in yield between the longest and the shortest
+maturity (term spread).
+
+Monetary Policy Report October 2019
+the Government, apprehensions of crude oil supply
+disruption and heightened geo-political uncertainties/
+financial market turmoil in some EMEs (Chart IV.6b).
+The introduction of the VRR and increased investment
+limits for G-Sec boosted overseas investor interest in
+debt instruments at the beginning of 2019-20. With
+benign inflation prints, coupled with political stability
+arousing investors’ appetite, FPIs remained net buyers
+in the G-Sec market during H1:2019-20, although they
+turned net sellers in September due to geo-political
+tensions and tepid domestic economic outlook (Chart
+IV.7). At the short end of the primary segment, T-bill
+yields softened during H1:2019-20 tracking the
+benchmark yield (Chart IV.8).
+At the longer end, issuances of state development
+loans (SDLs) were moderate during H1:2019-20 as
+IV.1.3 Corporate Bond Market
+against the front-loading of issuances by the GoI. The
+Corporate bond yields eased sharply during H1:2019-
+weighted average cumulative spread of SDLs’ cut-
+20, largely tracking G-sec yields and reflecting
+offs over the corresponding tenor G-sec at 52 bps in
+H1:2019-20 (as on September 30) was comparable to transmission of policy repo rate cuts (Chart IV.10a).
+54 bps in H1:2018-19 (Chart IV.9). During H1:2019-20, During this period, 5-year AAA corporate bond
+the average inter-state spread on securities of 10-year yields softened by 66 basis points – from 8.10 per
+tenor at 4 bps remained identical to that recorded in cent at end-March 2019 to 7.44 per cent at end-
+H1:2018-19. September 2019 – in response to the cumulative
+
+Chapter IV Financial Markets and Liquidity Conditions
+policy rate reduction of 85 basis points (excluding the crore during H1:2019-20 (up to September 27, 2019)
+reduction in February 2019 during the current easing from ₹7,131 crore during H1:2018-19.
+cycle). Moreover, easy liquidity conditions also led
+IV.1.4 Equity Market
+to a reduction in the risk premia. Illustratively, the
+Equity markets scaled records in the immediate
+yield spread (5-year AAA corporate bonds over 5-year
+aftermath of the 2019 general elections. Thereafter,
+G-sec) on bonds issued by public sector undertakings
+they corrected during Q2:2019-20 due to a combination
+(PSUs), financial institutions (FIs) and banks,
+of domestic and global factors which dampened
+NBFCs, and corporates declined by 32 bps, 20 bps
+market sentiment, closing at about the same level as
+and 19 bps points, respectively, during this period.
+at the beginning of the year (Chart IV.11a).
+State Bank of India (SBI) and ICICI Bank 5-year credit
+default swap (CDS) spreads – which indicate credit The BSE Sensex registered modest gains in April
+default risk – also declined by 23 bps and 21 bps, 2019, aided by continued FPI inflows, the policy
+respectively. repo rate cut by the RBI and positive global cues,
+notwithstanding weak corporate earnings results.
+Resource mobilisation through issuances of corporate
+Markets witnessed a sharp downturn during early
+bonds in the primary market increased sharply by 34.4
+May 2019 as trade tensions between the US and China
+per cent to ₹2.6 lakh crore during April-August 2019
+intensified. Investor sentiment, however, turned
+from ₹1.9 lakh crore a year ago (Chart IV.10b). Almost
+positive later in the month buoyed by the prospects
+the entire resource mobilisation in the corporate
+of a stable government and expectations of further
+bond market (97.3 per cent) continued to be through
+monetary easing by the RBI.
+the private placement route. Investments by FPIs in
+corporate bonds declined to ₹2.03 lakh crore at end- Market exuberance pushed the BSE Sensex to a
+September 2019 from ₹2.19 lakh crore at end-March record high of 40268 on June 3, 2019 but this rally
+2019. Consequently, FPIs’ utilisation of the approved proved transient as sentiment turned bearish after
+limit for investment in corporate bonds came down a default by a housing finance company triggered
+to 64.0 per cent at end-September 2019 from 75.9 per liquidity concerns in the NBFC sector. The downtrend
+cent at end-March 2019. The average daily turnover deepened in July over some Budget proposals such
+in the corporate bond market increased to ₹8,261 as (i) tax on super rich; (ii) buyback tax; and (iii)
+
+Monetary Policy Report October 2019
+increase in minimum public shareholding in listed While FPIs were net sellers to the tune of ₹605 crore in
+companies. Negative cues from global equity markets, the equity market, domestic institutional investors,
+reporting of a borrowing fraud in a public sector bank, particularly MFs, made heavy purchases amounting
+concerns over lackluster corporate earnings results to ₹50,316 crore during H1: 2019-20 (Chart IV.11b). In
+the primary segment of the equity market, resource
+for Q1: 2019-20, slow progress of the monsoon and
+mobilisation through public and rights issues grew
+continued FPI outflows due to the proposed increase
+nearly five times to ₹59,618 crore during April-
+in tax surcharge for FPIs registered as non-corporates
+August 2019 as compared with ₹12,028 crore in the
+exacerbated the decline in July 2019.
+corresponding period of the previous year.
+The equity market declined marginally in August
+IV.1.5 Foreign Exchange Market
+2019. Adverse domestic developments such as tepid
+Since April 2019, the INR traded with a depreciating
+corporate earnings results for Q1: 2019-20, lukewarm
+bias, dipping to a low of ₹72.19 per US dollar (reference
+industrial activity and auto sales, and negative global
+rate) on September 3, 2019. The fall in the INR was
+cues, viz., political unrest in Hong Kong, debt default
+in line with many EME currencies experiencing
+in Argentina and uncertainty over the US-China
+depreciation vis-à-vis the US dollar, which was
+trade negotiations completely nullified the positive
+pronounced in August and September. Overall, the
+impact of government measures like rollback of the
+fall in the INR during April-September 2019 was due
+super-rich tax on FPIs, frontloading of capitalisation
+to equity sell-offs by FPIs and strengthening of the
+of public sector banks and deferment of a hike in
+US dollar, triggered by rising risk aversion among
+registration fees for automobiles. The BSE Sensex
+investors on escalating US-China trade tensions and
+surged nearly 5 per cent on September 20 spurred
+concerns over tepid global growth. While the INR
+by the reduction in the corporate tax rate – the
+depreciated by 2.1 per cent vis-à-vis the US dollar
+biggest rally in over a decade. Subsequently, the BSE
+on September 30, 2019 over end-March 2019, it
+Sensex corrected on concerns about the health of the was modest in comparison with the depreciation of
+domestic banking sector and political uncertainty in many of its EME peers such as the Malaysian ringgit,
+the US. Overall, the BSE Sensex registered a gain of the South African rand, the Chinese yuan and the
+3.6 per cent during September 2019. Brazilian real (Chart IV.12a).
+
+Chapter IV Financial Markets and Liquidity Conditions
+In terms of the 36- and 6-currency nominal effective IV.1.6 Credit Market
+exchange rate (NEER), the INR appreciated by 0.4 per
+In the credit market, offtake during the year
+cent and 1.1 per cent, respectively, at end-September,
+(up to mid-September) has been muted; both,
+2019 over March (average) 2019. Similarly, the INR,
+low momentum and unfavourable base effects
+in terms of both 36- and 6-currency real effective
+dragged down non-food credit growth (Chart IV.13).
+exchange rate (REER), appreciated during the same
+The seasonal decline in credit during Q1:2019-20
+period (Table IV.2).
+was more pronounced than in the corresponding
+The appreciation in REER of the INR between March quarter of the previous year. The offtake during Q2
+and August 2019 was modest as compared with that (up to mid-September) has been subdued as compared
+of the Taiwan dollar, the Russian ruble, the Philippine with the corresponding quarter of the previous two
+peso, the Indonesian rupiah, the Turkish lira, and years.
+the Thai baht (Chart IV.12b).
+Table IV.2: Nominal and Real Effective Exchange
+Rates – Trade-based Weights
+(Base: 2004-05 = 100)
+Index: Appreciation (+) /
+End- Depreciation (-)
+September (Per cent)
+2019 (P)
+Item
+End- March 2019
+September over
+2019 over March 2018
+March 2019
+36-currency REER 116.7 1.3 -1.2
+36-currency NEER 73.9 0.4 -1.7
+6-currency REER 126.6 2,7 -0.9
+6-currency NEER 64.6 1.1 -1.9
+₹/US$ 70.69 -1.7 -6.4
+P: Provisional.
+Sources: RBI; and FBIL.
+
+Monetary Policy Report October 2019
+Of the incremental non-food credit flow during the
+year (August 2019 over August 2018), personal loans
+accounted for the largest share, followed by services
+and industry (Chart IV.15b). Within personal loans,
+credit offtake has been broadly concentrated in two
+segments, viz., housing and credit card outstanding.
+Within industry, credit growth to beverages and
+tobacco, cement, engineering, vehicles, construction
+and infrastructure (viz., power, telecommunications
+and roads) accelerated.
+Credit quality has deteriorated with both the
+stressed assets ratio and the non-performing assets
+(NPA) ratio increasing marginally in June 2019 after
+four successive quarters of decline (Chart IV.16a).
+Sector-wise analysis indicates that the NPA ratio
+deteriorated for all sectors in June 2019, barring
+The slowdown in credit growth was led by public
+industry (Chart IV.16b).
+sector banks and private sector banks, while credit
+growth of foreign banks continued to be modest, Banks have reduced their investment in the non-
+despite some uptick in the recent period (Chart IV.14). statutory liquidity ratio (SLR) portfolio by about
+While credit growth to agriculture and personal loans ₹35,000 crore in 2019-20 (up to September 13). This
+remained broadly unchanged in the last one year, credit is notwithstanding a marginal increase in exposure to
+growth to industry moderated in the last four months CPs in contrast to a decline in H2:2018-19. With both
+after accelerating continuously between August non-SLR investment and non-food credit undergoing
+2018 and April 2019. Credit growth to services has a decline, adjusted non-food credit4 growth
+decelerated sharply since January 2019 (Chart IV.15a). decelerated during the year so far (Chart IV.17).
+4 Includes non-food credit extended by scheduled commercial banks and their investment in commercial paper as also bonds/shares/debentures issued by
+private and public corporate sector.
+
+Chapter IV Financial Markets and Liquidity Conditions
+With muted credit offtake and decline in non- decline in funding from banks and lower funding
+SLR investments, banks have augmented their from non-bank sources. Among domestic non-bank
+SLR portfolios despite the reduction in SLR by RBI. sources of funding, public issues of equity and private
+placement increased significantly. Among foreign
+Banks held excess SLR of 6.9 per cent of net demand
+sources, both external commercial borrowings and
+and time liabilities (NDTL) on August 30, 2019 as
+foreign direct investment (FDI) registered sharp
+compared with 6.3 per cent of NDTL at end-March
+increases (Table IV.3). Notably, a new framework
+2019 (Chart IV.18).
+for external commercial borrowings was announced
+Overall, financial flows to the commercial sector in January 2019 to improve the ease of doing
+in 2019-20 so far (up to mid-September) have been business; subsequently, end-use provisions were also
+lower than in the same period last year due to a rationalised in July 2019.
+
+Monetary Policy Report October 2019
+Table IV.3: Flow of Funds to the Commercial Sector
+(Amount in ₹ crore)
+Item April to mid-Sep
+2018-19 2019-20
+Amount Per cent Amount Per cent
+to Total to Total
+A. Flow from banks, i.e., Adjusted non-food credit (A1+A2) 1,85,083 25.1 -1,28,760 -141.5
+A1. Non-food credit 1,65,187 22.4 -93,688 -103.0
+A2. Non-SLR investment by scheduled commercial banks 19,896 2.7 -35,072 -38.5
+B. Flow from non-banks (B1+B2) 5,51,004 74.9 2,19,755 241.5
+B1. Domestic sources 4,44,696 60.4 13,562 14.9
+1. Public issues by non-financial entities * 6,253 0.8 58,326 64.1
+2. Gross private placement by non-financial entities * 47,379 6.4 62,495 68.7
+3. Net issuance of CPs subscribed by non-banks 2,53,669 34.5 19,118 21.0
+4. Net credit by housing finance companies $ 52,181 7.1 -6,003 -6.6
+5. Total accommodation by 4 RBI regulated AIFIs * 40,032 5.4 -4,774 -5.2
+6. NBFCs-ND-SI and deposit taking NBFCs (net of bank credit) $ 41,200 5.6 -1,25,600 -138.0
+7. LIC’s net investment in corporate debt, infrastructure and social sector^ 3,982 0.5 10,000 11.0
+B2. Foreign sources 1,06,308 14.4 2,06,193 226.6
+1. External commercial borrowings / FCCB * -653 -0.1 54,073 59.4
+2. Foreign direct investment to India ^ 1,06,961 14.5 1,52,119 167.2
+C. Total flow from banks and non-banks (A+B) 7,36,087 100.0 90,995 100.0
+$: Up to Jun ^: Up to Jul *: Up to Aug.
+Sources: RBI; SEBI; BSE; NSE; NHB; LIC and merchant banks.
+IV.2 Monetary Policy Transmission lending rate (WALR) on fresh rupee loans decreased
+The response of deposit and lending rates of by only 29 bps (February-August 2019), the WALR
+commercial banks to the cumulative reduction in the on outstanding rupee loans, in contrast, increased
+policy repo rate by 110 bps during the easing cycle of by 7 bps over the same period. The inadequate
+monetary policy starting from February 2019 has been transmission essentially reflects slow adjustment in
+muted so far (Table IV.4). While the weighted average bank term deposit rates. This, in turn, reflects the
+Table IV.4: Transmission to Deposit and Lending Rates
+(Basis points)
+Period Repo Rate Term Deposit Rates Lending Rates
+Median Term WADTDR 1-year Median WALR - WALR - Fresh
+Deposit Rate MCLR Outstanding Rupee Loans
+Rupee Loans
+Feb-Mar 2019 -25 -1 -2 -5 -3 -24
+Apr-May 2019 -25 -6 0 0 7 13
+Jun-Jul 2019 -25 -4 -4 -15 2 -9
+Aug-Sep 2019* -35 -15 2 -15 1 -9
+Feb-Sep 2019* -110 -26 -4 -35 7 -29
+*: Latest data on WALR and WADTDR pertains to August 2019.
+WADTDR: Weighted Average Domestic Term Deposit Rate. WALR: Weighted Average Lending Rate.
+MCLR: Marginal Cost of Funds based Lending Rate.
+Source: RBI.
+
+Chapter IV Financial Markets and Liquidity Conditions
+long maturity profile of bank deposits at fixed interest transmission of policy rate to bond markets as against
+rates. muted transmission to credit markets (Chart IV.22).
+The WALR on fresh rupee loans declined during One of the important factors impeding monetary
+February-August 2019 across bank groups, with the transmission is administered interest rates on small
+largest decline observed in foreign banks and the least saving schemes set by the Government of India.
+in public sector banks (Chart IV.19). These administered interest rates are linked to
+market interest rates on G-secs with a lag and are
+As the lending activity of public sector banks was
+fixed on a quarterly basis at a spread ranging from
+constrained by higher NPAs and lower capital
+adequacy vis-à-vis private sector banks, the share of
+fresh rupee loans of private sector banks overtook
+that of PSBs in August 2019 (Chart IV.20).
+Actual lending rates comprise marginal cost of funds
+based lending rate (MCLR) and a spread. Banks
+charged the lowest spread (WALR on outstanding
+rupee loans over 1-year MCLR) on housing loans
+during August 2019 reflecting (i) lower probability
+of default; (ii) availability of good collateral; and (iii)
+competition from NBFCs (Chart IV.21). At the other
+end of the spectrum, the spread charged on ‘other
+personal loans’ was the highest.
+The spread between MCLR/WALR on fresh rupee
+loans/outstanding rupee loans and G-sec yields has
+risen sharply through 2019, reflecting complete
+
+Monetary Policy Report October 2019
+of interest on all small savings schemes (except
+savings deposit) were reduced by 10 bps. Even after
+the reduction, however, the small saving rates of
+various schemes continued to be higher by 18-62 bps
+in Q2:2019-20 than the formula-based interest rates.
+With the Government deciding to keep the interest
+rates on small savings unchanged for Q3:2019-20
+notwithstanding a decline in G-sec yields in the
+reference period (June-August 2019), the wedge
+between the current small saving rates on various
+schemes and the formula-based rates for Q3:2019-20
+has widened further to 70-110 bps (Table IV.5).
+The MCLR system of pricing loans lacks transparency
+as it is internal to each bank and borrowers have no
+way of ascertaining as to how it has been arrived at.
+While it may not matter for new borrowers as they
+0-100 bps over and above G-sec rate of comparable are able to compare overall lending rates across banks
+maturities. Interest rates on small saving schemes and take a decision in their best interest, it impacts
+were revised on June 28, 2019 for Q2: 2019-20, which existing borrowers as they cannot easily ascertain the
+came into effect from July 1, 2019 whereby the rates factors that lead to the changes in MCLR. The MCLR
+Table IV.5: Interest Rates on Small Savings Instruments – Q3:2019-20
+Small Savings Scheme Maturity Spread Average G-sec Formula-based Rate Government Difference
+(Years) (Percentage Yield (Per cent) of Interest (Per Announced (Basis points)
+point)$ of Corresponding cent) (applicable Rate of Interest
+Maturity (June 2019 for October to (Per cent) in
+to August 2019) December 2019) Q3
+(1) (2) (3) (4) (5) = (3) + (4) (6) (7) = (6)-(5)
+Savings Deposit - 4.00 -
+Public Provident Fund 15 0.25 6.81 7.06 7.90 84
+Time Deposits
+1 Year 1 0 5.85 5.85 6.90 105
+2 Year 2 0 6.01 6.01 6.90 89
+3 Year 3 0 6.18 6.18 6.90 72
+5 Year 5 0.25 6.50 6.75 7.70 95
+Post Office Recurring Deposit 5 0 6.50 6.50 7.20 70
+Account
+Post Office Monthly Income Scheme 5 0.25 6.47 6.72 7.60 88
+Kisan Vikas Patra 113 Months 0 6.81 6.81 7.60 79
+NSC VIII issue 5 0.25 6.66 6.91 7.90 99
+Senior Citizens Savings Scheme 5 1.00 6.50 7.50 8.60 110
+Sukanya Samriddhi Account Scheme 21 0.75 6.81 7.56 8.40 84
+$: Spreads for fixing small saving rates as per Government of India Press Release of February 16, 2016.
+Note: Compounding frequency varies across instruments.
+Sources: Government of India; and RBI staff estimates.
+
+Chapter IV Financial Markets and Liquidity Conditions
+system also did not deliver effective transmission as through reverse repos of maturity ranging from
+banks were slow to adjust their deposit interest rates overnight to 63 days. In addition, liquidity aggregating
+which, in turn, had a bearing on their lending rates. ₹47,128 crore was injected through variable rate
+repos of maturity ranging from 1 to 3 days. Four open
+To address these concerns, the Reserve Bank, in
+market operation (OMO) purchase auctions and one
+pursuance of the recommendations of an Internal
+US$ 5 billion buy/sell swap auction was conducted
+Study Group (Chairman: Dr. Janak Raj), mandated
+by the RBI during H1:2019-20. Furthermore, the SLR
+that all scheduled commercial banks (excluding
+was cumulatively reduced by 50 bps during H1 – 25
+regional rural banks) should link all new floating
+bps each effective April 13 and July 6, respectively,
+rate personal or retail loans and floating rate loans to
+Micro and Small Enterprises (MSEs) to the policy repo – to 18.75 per cent of NDTL of banks, in accordance
+rate or 3-month T-bill rate or 6-month T-bill rate or with the roadmap announced in December 2018 with
+any other benchmark market interest rate published a view to enabling banks to raise structural liquidity.
+by Financial Benchmarks India Private Ltd. (FBIL),
+Drivers and Management of Liquidity
+effective October 1, 2019. Banks are free to choose
+the spread over the benchmark rate, subject to the RBI’s forex operations including US$ 5 billion buy/
+condition that the credit risk premium may undergo sell swap auction and net OMO purchases were the
+change only when the borrower’s credit assessment major drivers augmenting liquidity in H1:2019-20,
+undergoes a substantial change, as agreed upon in the which was absorbed through operations under the
+loan contract. External benchmarks are transparent liquidity adjustment facility (LAF) by the RBI. This
+as they are available in the public domain and hence contrasts with H2:2018-19 when a large expansion in
+easily accessible to the borrowers. The external currency in circulation (CiC) resulted in a leakage of
+benchmark framework will improve transmission as liquidity from the banking system, which had to be
+(i) the lending rates will be referenced to one of the replenished through large scale open market purchase
+prescribed benchmark rates for new borrowers; and operations and liquidity injections under the LAF
+(ii) banks would need to reset the benchmark rate at (Chart IV.23).
+least once in three months for existing borrowers.
+IV.3 Liquidity Conditions and the Operating
+Procedure of Monetary Policy
+The RBI Act 1934 amended in 2016 requires the
+RBI to place the operating procedure relating to the
+implementation of monetary policy and changes
+thereto from time to time, if any, in the public
+domain. During H1:2019-20, liquidity management
+operations by the RBI were conducted within the
+broad framework discussed in the Monetary Policy
+Reports of October 2018 and April 2019. In addition
+to regular operations during H1:2019-20, the RBI
+resorted to fine-tuning variable rate repo and reverse
+repo auctions. Liquidity amounting to ₹5,09,585 crore
+was injected through the regular 14-day repos, while
+liquidity amounting to ₹93,39,315 crore was absorbed
+
+Monetary Policy Report October 2019
+During H1:2019-20, the increase in CiC at ₹49,378 spending after government formation at the Centre,
+crore (2.3 per cent) was muted in comparison with net forex purchases by the RBI and return of currency
+the significantly higher increase of ₹95,896 crore (5.2 to the banking system post-elections. The RBI also
+per cent) in the corresponding period of 2018-19. As conducted two OMO purchase auctions amounting
+a result, growth in CiC (y-o-y) was consistently lower to ₹27,500 crore. Consequently, total injection of
+than in the previous year (Chart IV.24). durable liquidity in Q1:2019-20 – through both
+OMOs5 and US$/INR swap auction – amounted to
+In April and May, liquidity conditions were in deficit
+₹87,414 crore (Chart IV.25). The RBI absorbed surplus
+due to restrained government spending and high
+liquidity of ₹51,710 crore on a daily net average basis
+demand for cash. The unwinding of GoI cash balances
+under the LAF in June.
+– a regular feature every year in April – was much
+Surplus liquidity conditions persisted in July on
+lower in the current year due to the imposition of the
+account of (i) return of currency to the banking
+model code of conduct during elections restricting
+system; and (ii) the Reserve Bank’s net forex
+government spending. Combined with rising
+purchase operations. Although liquidity continued to
+currency demand, this caused liquidity tightness.
+be in surplus in August, its drivers were distinctly
+Consequently, the RBI conducted a US$/INR buy/
+different. First, currency expansion picked up,
+sell swap auction of US$ 5 billion (₹34,874 crore) for
+draining systemic liquidity. Second, increasing geo-
+a tenor of 3 years in April and two OMO purchase
+political uncertainties in EMEs from political unrest
+auctions in May amounting to ₹25,000 crore to inject
+in Hong Kong and meltdown of financial markets in
+durable liquidity into the system. It also injected
+Argentina resulted in capital outflows necessitating
+liquidity of ₹51,403 crore on a daily net average basis
+forex market (sales) intervention by the RBI. These
+under the LAF during these two months.
+pressures were, however, more than offset by a
+The situation changed in June when liquidity
+5 OMOs include both purchases through auctions as well as transactions
+conditions turned to surplus due to increased on the negotiated dealing system – order matching (NDS-OM) platform.
+
+Chapter IV Financial Markets and Liquidity Conditions
+large drawdown of GoI balances, with the Central frictional liquidity movements. With the Reserve
+Government resorting to ways and means advances Bank injecting durable liquidity through OMOs and
+(WMA) for a major part of the month. In September, US$/INR buy/sell swap auction, net LAF positions
+the surplus moderated with the build-up of large mirrored movements in government cash balances
+government cash balances, particularly with the (Chart IV.27). The temporary mismatches between
+receipt of advance taxes after September 15 (Chart receipts and payments of the government during
+IV.26). Nevertheless, absorption of liquidity on a daily H1:2019-20 were partly met through recourse to
+net average basis under the LAF soared to ₹1,31,370 cash management bills (CMBs) on two occasions
+crore during Q2:2019-20 in contrast to a net injection of maturity ranging 10-33 days aggregating ₹50,000
+of ₹17,409 crore in Q1. Simultaneously, transient crore.
+liquidity needs were met through variable rate repos
+Fine-tuning operations through variable rate
+of smaller tenors (1-3 days) in addition to the regular
+auctions continued to be the key feature of
+14-day term repos.
+liquidity management during H1:2019-20. Liquidity
+To sum up, the RBI’s forex operations and currency injections were made through repo auctions of
+expansion were the prime drivers of durable maturities ranging from overnight to 14 days, while
+liquidity in the banking system in H1:2019-20, reverse repos ranging from overnight to 7 days were
+while government spending was the key driver of frequently used for absorbing liquidity (Table IV.6).
+Table IV.6: Fine-tuning Operations through Variable Rate Auctions in H1:2019-20
+Repo (maturity in days) Reverse Repo (maturity in days)
+Operation
+1 2 3 14* 1 2 3 4 7 14 63
+Frequency 1 1 1 52 100 5 27 4 33 1 1
+(number of times)
+Average volume 8,825 25,003 13,300 5,09,585 65,62,076 3,65,300 16,88,773 2,90,358 4,31,458 550 800
+(₹ crore)
+*: Regular 14-day variable rate repo operations
+Source: RBI
+
+Monetary Policy Report October 2019
+Operating Target and Policy Rate
+During H1, the WACR – the operating target of
+monetary policy – generally traded below the repo
+rate during May-September (Chart IV.28).
+The objective of monetary policy is to keep the WACR
+aligned to the policy repo rate and contain volatility
+caused by exogeneous shocks within the interest rate
+corridor defined by the lower (reverse repo rate) and
+the upper (marginal standing facility rate) bounds.
+There are, however, instances when the WACR
+breached the corridor on account of: (i) uncertainty
+about liquidity conditions; (ii) market microstructure
+issues such as quarter-end or year-end liquidity
+tightness (due to advance tax payments or window
+dressing of balance sheet); (iii) structural changes in
+the monetary policy implementation framework (for and (iv) banks’ expectations of future interest rates.
+instance, making the policy corridor non-symmetric In this context, an empirical exercise identifies the
+by raising the MSF rate 300 bps above the policy repo factors contributing to the occurrence of such episodes
+rate in the aftermath of the taper tantrum episode); (Box IV.1).
+Box IV.1: WACR Breaching the Policy Corridor: Causes and Determinants
+Determinants of the spread (WACR over the microstructure variables (Table IV.1.1). Liquidity
+policy repo rate) include market expectations, conditions have been defined as the net LAF
+risk measures, liquidity conditions, and market position on any day as a proportion of the average
+Table IV.1.1: Description of Variables
+Variable Measured by Expected
+impact6
+Lagged spread First lag of spread (where spread is defined as weighted average call money market rate minus increase
+repo rate)
+Within period expectation 14 day Mumbai Inter-Bank Outright Rate (MIBOR) rate minus repo rate increase
+Liquidity conditions Net LAF position/ average daily cash reserve requirement increase
+Interest rate uncertainty Uncertainty about interest rate at 2 week horizon: GARCH(1,1) conditional volatility of 14 day increase
+MIBOR rate
+Liquidity uncertainty GARCH(1,1) conditional volatility of reserve fulfilment increase
+Liquidity distribution Ratio of the volume in call money to total volume in overnight market increase
+Corridor width dummy Corridor width as a dummy variable – it takes the value of 1 (if corridor width ≤ 100 bps) or 0 increase
+(if corridor width > 100 bps)
+Quarterly dummy Quarter-end phenomenon – value 1 for quarter-end and 0 otherwise increase
+(Contd.)
+6 The expected impact is in terms of the increase (decrease) in the odds ratio. The odds ratio is defined as p/(1-p), where p is the probability of the WACR
+breaching the policy corridor.
+
+Chapter IV Financial Markets and Liquidity Conditions
+daily CRR requirement. An increase (decline) in this where p indicates the probability of the call money
+ratio would signify tightening (easing) of liquidity rate breaching the interest rate corridor. L is the logit
+conditions leading to an increase (reduction) in the function and Xs refers to the independent variables.
+spread under deficit liquidity conditions. Skewed The model is estimated based on daily data from
+distribution of central bank’s liquidity among banks
+May 2011 to June 2019 covering 1960 observations
+may impact the WACR spread adversely, i.e., greater
+(Table IV.1.2).
+heterogeneity in distribution of liquidity (a few
+The results suggest that an increase in skewness
+participants cornering a large part of central bank
+of liquidity distribution will increase the odds of
+liquidity) is likely to increase the demand for funds
+the call rate breaching the interest rate corridor.
+in the call money market and increase the spread
+(Linzert and Schmidt, 2008; Kumar et al, 2017). This Similarly, an increase in liquidity conditions (more
+variable has been approximated by the share of call injection by the RBI relative to the CRR requirement
+market transactions in the total overnight market of banks) and an increase in interest rate uncertainty
+volume. also increases the odds of the call rate lying outside
+the interest rate corridor.
+In addition to the above, two dummies are also
+used for the empirical exercise keeping in view
+Table IV.1.2: Logit Model – Results
+the idiosyncratic factors witnessed during the
+Variables Odds Ratio
+sample period. First, a dummy for changes in the
+liquidity management implementation framework 1 2
+Lagged spread 1.002
+is introduced for the period when the MSF rate was
+(0.587)
+raised by 300 bps above the repo rate, as part of the
+Within period expectation 1.001*
+policy response to domestic financial market turmoil (0.093)
+in the aftermath of the taper tantrum. Accordingly, Liquidity uncertainty 1.01
+(0.856)
+a value of 1 is taken for each day from July 17 to
+Liquidity distribution 1.05***
+October 28, 2013 representing the post taper tantrum (0.000)
+period and 0 otherwise. Second, a value of 1 for the Interest rate uncertainty 1.01***
+(0.005)
+period November 9, 2016 to January 31, 2017 and 0
+Liquidity conditions 1.001**
+otherwise is considered for the post-demonetisation (0.042)
+period when the return of currency to the banking Quarterly dummy 3.25**
+(0.022)
+system resulted in large surplus liquidity with the
+Post taper tantrum dummy 5.10**
+WACR breaching the lower bound of the corridor,
+(0.050)
+i.e., dropping below the reverse repo rate. Corridor width dummy 4.39***
+(0.000)
+Following an empirical strategy used in the literature
+Demonetization dummy 0.301
+on regime shifts in capital flows (Forbes and Warnock, (0.109)
+2012), a logistic regression analysis (binary logit Constant 0.01***
+(0.000)
+model) was undertaken to estimate the probability
+Diagnostic Checks
+of the call rate breaching the interest rate corridor
+LR chi2 test 112.3 (0.00)
+(Prabu and Bhattacharyya, 2019).
+McFadden’s R2 0.140
+The following logit model was used: No. of Observations 1960
+*** p<0.01, ** p<0.05, * p<0.1.
+L = ln = β + β X + ……+ β X + ε
+0 1 1 k k Note : p-values are in parentheses.
+(Contd.)
+
+Monetary Policy Report October 2019
+The quarterly dummy indicates that the odds of uncertainty about interest rates and foster stability
+having the call rate lying beyond the corridor at by anchoring market expectations. Finally, liquidity
+quarter-end ceteris paribus are 3.25 times as large forecasting needs to be prescient, particulary in
+as the odds on non-quarter-end days. In a similar a narrow interest rate corridor regime, as large
+fashion, the post taper tantrum dummy indicates
+forecast errors enhance the probability of the call
+that the odds of having the call rate breaching the
+rate breaching the interest rate corridor in either
+interest rate corridor on days of turmoil post taper
+direction.
+tantrum were 5.1 times as large as against those days
+not affected by financial market turbulence. Finally, References:
+the corridor width dummy (corridor width ≤ 100
+Forbes, K, J. and F.E, Warnock (2012), “Capital Flow
+basis point is 1, 0 otherwise) indicates that the odds
+Waves: Surges, Stops, Flight, and Retrenchment”,
+of the call rate exceeding the interest rate corridor
+Journal of International Economics, Vol 88(2), 235-
+when the corridor width is lower than 100 bps is
+251.
+4.39 times as large as the odds when the corridor
+width is higher than 100 bps. Linzert, T., and S. Schmidt (2011), “What Explains
+the Spread between the Euro Overnight Rate and the
+From a policy perspective, the empirical exercise
+provides useful insights for the liquidity management ECB’s Policy Rate?”, International Journal of Finance
+operations of the central bank. As the findings & Economics, Vol 16(3).
+suggest, skewness in liquidity distribution may
+Kumar, S., Prakash, A., and K. M. Kushawaha, (2017),
+cause the WACR to deviate from the corridor; hence
+“What Explains Call Money Rate Spread in India?”,
+liquidity management operations and practices
+RBI Working Paper Series, WPS (DEPR): 07/2017.
+should endeavour to reduce liquidity concentration
+among a few market players. Similarly, forward Prabu, E., and I. Bhattacharyya (2019), "Regime-
+guidance through better communication on the Dependent Determinants of the Interbank Call Rate
+evolving liquidity conditions can reduce market vis-à-vis the Policy Corridor”, RBI (Mimeo).
+The WACR remained 6 bps above the policy repo rate
+(on an average) in April and below the policy repo
+rate by an identical margin in May. In June, however,
+it remained closely aligned with the policy repo rate
+(Chart IV.29). Subsequently, the WACR traded below
+the policy repo rate (on an average) by 14 bps in July,
+8 bps in August and 6 bps in September. Overall, the
+WACR traded below the policy repo rate by 5 bps in
+H1:2019-20 as compared with 6 bps in H2:2018-19.
+IV.4 Conclusion
+Domestic financial markets remained vulnerable to
+global headwinds and geo-political uncertainties.
+After post-elections exuberance, equity markets
+turned risk averse reacting to global developments
+and slowdown in economic activity. Capital flows
+
+Chapter IV Financial Markets and Liquidity Conditions
+turned volatile in August, exerting depreciation consistent with the stated policy objective of aligning
+pressures on currencies. By contrast, the bond market the WACR with the policy repo rate and ensuring that
+rallied significantly, despite some correction in the durable liquidity needs of the economy are adequately
+recent period. Credit growth, however, has slowed met, consistent with the stance of monetary policy.
+down, reflecting subdued economic prospects. Going Ensuring faster monetary transmission to banks’
+forward, liquidity conditions would be managed lending rates remains a key priority.
+
+Monetary Policy Report October 2019
+V. External Environment
+Global economic activity has remained sluggish as major advanced economies (AEs) and emerging market economies
+(EMEs) slowed down in Q2:2019. Mounting trade and geo-political uncertainties continue to cloud the near-term
+outlook. Monetary policy has been easing across the world to support growth concerns as inflation remains benign.
+Financial markets remained volatile on still unfolding sequence of US tariff actions and lingering uncertainty
+surrounding Brexit.
+Since the Monetary Policy Report (MPR) of April in rising retail sales, is expected to moderate the pace
+2019, global economic activity has weakened and of slowdown to some extent.
+the near-term outlook remains clouded by trade and
+Euro area GDP growth slowed down in Q2:2019 as
+geo-political uncertainties. Most major AEs and EMEs
+its major constituent economies lost steam amidst
+slowed down in Q2:2019. Crude oil prices remained
+lingering uncertainties around Brexit and trade
+volatile on shifting demand-supply balances, most
+tensions. The German economy contracted in Q2 with
+recently caused by supply disruptions in Saudi
+a struggling auto industry amidst falling exports; it
+Arabia – the second largest oil exporter – estimated
+entered Q3 on a weak note as the manufacturing PMI
+to be of the order of around 5 per cent of global oil
+in September remained in contraction zone, marking
+supply. Other global commodity prices remained
+soft on subdued global demand. Central banks across Table V.1: Real GDP Growth (q-o-q, annualised)
+the world eased monetary policy to support growth (Per cent)
+concerns as inflation remains benign. The calm Country Q2- Q3- Q4- Q1- Q2- 2019 2020
+2018 2018 2018 2019 2019 (P) (P)
+that characterised global financial markets in the
+Advanced Economies
+beginning of 2019 has been dispelled since May, with
+Canada 2.5 2.1 0.3 0.5 3.7 1.8 1.7
+a combination of trade and geo-political tensions
+Euro area 1.6 0.8 1.2 1.6 0.8 1.6 1.5
+and the worsening global growth outlook imparting Japan 1.9 -1.9 1.8 2.2 1.3 0.2 1.4
+heightened volatility. South Korea 2.4 2.0 3.6 -1.6 4.0 2.6 2.8
+UK 2.0 2.4 1.2 2.4 -0.8 1.2 1.6
+V.1 Global Economic Conditions
+US 3.5 2.9 1.1 3.1 2.0 2.3 1.9
+Economic activity has been losing pace across major Emerging Market Economies
+AEs and EMEs. In the US, real GDP growth (q-o-q, Brazil -0.4 2.0 0.4 -0.4 1.6 1.3 2.5
+annualised) decelerated in Q2:2019 to 2.0 per China 6.8 6.4 6.0 5.6 6.4 6.1 5.9
+Malaysia 2.4 6.0 5.2 4.4 4.0 4.6 4.8
+cent, after rebounding in Q1, on slumping exports
+Mexico -0.8 2.0 0.3 -1.0 0.1 1.3 1.6
+and weak business fixed investment (Table V.1).
+Russia* 2.2 2.2 2.7 0.5 0.9 2.0 1.0
+Incoming data suggest that the slowdown may
+South Africa -0.5 2.6 1.4 -3.1 3.1 1.0 0.3
+continue in Q3, as industrial production remains
+Thailand 4.3 -0.9 3.6 4.1 2.4 3.9 3.7
+subdued and exports continue to decline. The
+Memo: 2018 2019 2020
+Institute of Supply Management’s manufacturing (E) (P) (P)
+World Output 3.6 3.2 3.5
+index declined further into the contraction zone in
+World Trade Volume 3.7 2.5 3.7
+September marking its lowest reading in a decade.
+E: Estimate P: Projection *: y-o-y growth
+Nonetheless, strong consumer spending, as reflected Sources: Bloomberg; and International Monetary Fund (IMF).
+
+Chapter V External Environment
+the ninth consecutive month of decline in factory activity showed a slight uptick in Q2, incoming
+activity. GDP growth in Italy stagnated in Q2 as data showed signs of weakness for Q3 as consumer
+contraction in industry and agriculture activities was sentiment remained subdued, with industrial
+offset by an uptick in the services sector, though its production and retail sales weakening since July.
+high level of debt and ongoing political uncertainty Nonetheless, higher fiscal spending for national
+are downside risks. development projects may support aggregate demand,
+going ahead.
+The Japanese economy grew at a slower pace in
+Q2 than in the preceding quarter as escalating US- The economies of Brazil and South Africa rebounded
+China trade tensions and slackening global demand in Q2, after witnessing a sluggish start to the year.
+prompted a sharp downward revision in business Economic recovery in Brazil was largely supported
+spending. Combined with a scheduled sales tax hike, by strong fixed investment and construction
+this has clouded the economic outlook for the rest activity in Q2. While improved sentiment amidst
+of 2019. Nonetheless, fiscal stimulus and rushed accommodative monetary policy is expected to
+purchases ahead of the sales tax hike are expected to sustain the expansion, risks from both domestic and
+support the economy in Q3. external challenges may contain the momentum. In
+South Africa, economic activity accelerated on robust
+Real GDP in the UK contracted in Q2 on the back
+growth in mining and manufacturing, thus recouping
+of declining manufacturing activity due to planned
+output losses witnessed in Q1. The consumption-
+early shutdowns of car plants in April following
+Brexit uncertainty. Risks from a potential hard Brexit led economic recovery, however, is expected to be
+deal and evolving global trading conditions cloud the gradual as the uncertain global outlook and debt-
+near-term outlook. ridden domestic power utilities may continue to
+weigh on the overall prospects of the economy.
+Economic activity remained subdued in key EMEs,
+held down by weakening global economic conditions. The Indonesian economy slowed down to 5.1 per
+The Chinese economy decelerated in Q2 (y-o-y) to its cent (y-o-y) in each of the first two quarters of 2019,
+weakest pace in nearly 27 years, weighed down by pulled down by subdued investment and declining
+the adverse impact of the prolonged and unresolved exports, amidst global uncertainty. In Thailand, the
+trade dispute with the US, and subdued global downturn that had started in Q1 continued in Q2
+demand. Available high frequency indicators suggest (y-o-y), marking the slowest growth in nearly five
+that the downtrend may continue, going forward. years. The struggling farm sector, slowing exports
+Industrial production and retail sales have declined and the weakening tourism sector resulted in the
+since July, while the manufacturing PMI remains slowdown. The Turkish economy registered positive
+subdued amidst weak demand. While the overall risk growth in the first half of 2019, recovering from last
+remains titled to the downside on rising internal and year’s recession caused by a currency crisis. The
+external headwinds, policy stimuli on both the fiscal recovery was underpinned by the stimulus provided
+and monetary fronts are expected to cushion the in Q1 through high government spending and credit
+pace of the slowdown. expansion.
+Among other BRICS economies, the Russian economy The global composite PMI fell in August, after
+is struggling to regain momentum after undergoing registering a marginal uptick in July, as slowing global
+a sharp deceleration in Q1. While economic trade weighed down on overall export growth (Chart
+
+Monetary Policy Report October 2019
+V.1a). Among the major OECD economies, composite air freight, electronic components and automobile
+leading indicators (CLIs) point to a slowdown in production. Movement in other indicators such as
+growth momentum across major AEs and EMEs the Baltic Dry Index also remained sluggish, though
+(Chart V.1b). with some signs of revival (Chart V.2b).
+The slowdown in global trade, which began in the V.2 Commodity Prices and Inflation
+later half of 2018, has continued in 2019, with
+Global commodity prices weakened as trade tensions
+contribution from EMEs slipping into contraction in
+intensified. The Bloomberg commodity price index
+2019 (Chart V.2a). Forward looking indicators suggest
+declined by 4.1 per cent between April and September
+that world trade is likely to slow down further in
+2019.
+2019. The WTO’s Goods Trade Barometer1 remains
+below trend, driven by sluggish performance in The food price index of the Food and Agriculture
+all its constituent indices, especially international Organisation (FAO) increased by 1.4 per cent during
+1 WTO has replaced World Trade Outlook Indicator (WTOI) with Goods Trade Barometer.
+
+Chapter V External Environment
+April-September 2019. Global food prices rose for iron ore and nickel by major exporters and have been
+the fifth consecutive month in May, driven by high trading side-ways thereafter, as the market awaits
+dairy and maize prices resulting from tighter export further developments on the trade front. Copper
+supplies. They, however, slid marginally in June-July prices fell sharply on waning demand, triggered by
+as dairy prices fell on weak demand. Global food trade uncertainties, with intermittent increases in
+prices moderated further in August due to a sharp June on a mine strike in Chile and weak Chinese
+decline in cereals and sugar prices. While cereal prices refined copper output. Gold prices remained elevated
+fell on ample export supplies, weakening Brazilian on safe haven demand as global uncertainties
+currency and prospects of larger shipments by increased (Chart V.4).
+India and Mexico kept sugar prices low (Chart V.3a).
+Inflation remained benign in major AEs and EMEs.
+Movements in global food prices have implications
+Among AEs, CPI inflation in the US remained tepid
+for food price inflation in EMEs (Box V.1).
+despite tight labour markets, as the sensitivity
+The stand-off between the US and Iran and agreement
+by key oil producers to extend supply cuts further by
+nine months exerted upward pressures on oil prices
+in early May. However, a decline in the expected
+demand for oil amidst adequate supplies eased
+market tightness and weighed on prices, before
+witnessing the biggest one-day gain on September
+16, 2019, caused by supply disruptions to the
+world’s largest oil processing facility in Saudi Arabia.
+However, it eased thereafter on expectations of
+supply restoration (Chart V.3b).
+Base metal prices, measured by the Bloomberg base
+metal spot index, declined by 9.0 per cent between
+April and September 2019 on increased pessimism
+over the growth outlook and slowing global demand
+on persistent trade tensions. However, they recovered
+marginally in July on elevated supply concerns about
+
+Monetary Policy Report October 2019
+Box V.1: International Food Prices – Pass-through to EMEs
+International food prices have been among the during the first episode but were lower than many
+most significant sources of domestic food price other cereal products during the second episode.
+variations in many EMEs, as the share of food in
+According to the Law of One Price (LOP)
+household expenditure is relatively high in these
+(Ardeni, 1989; Barahona and Chulaphan, 2017),
+countries. The World Bank’s food price index in efficient markets for a single homogenous
+increased by 23.8 per cent in 2007, 33.5 per cent in commodity, assuming no transport costs or
+2008 and by 22.5 per cent in 2011, with unexpected obstacles to trade, prices expressed in a common
+spikes seen across all food groups. Although the currency are equated according to the following
+magnitude of price increases in these episodes was equation:
+almost the same, the affected commodities were P = ER*P …(1)
+d w
+different (Chart V.1.1). While rice, wheat, oil and
+where ER is the exchange rate [unit(s) of domestic
+cereal prices remained high during 2007-08, sugar
+currency per unit of foreign currency], P is the
+w
+prices remained low. Rice prices were the highest
+world (foreign) food price and P is the domestic
+d
+
+Chapter V External Environment
+food price. The estimable version of equation (1)
+Table V.1.1: Estimated World Food Price
+can be modified as a weak LOP hypothesis which in
+Pass-through Coefficients
+natural logarithm form is as below:
+Country Long-run Short-run
+lnP = α + βlnP + γlnER + e …(2)
+d w t Brazil 1.136*** 0.024*
+P is implicitly assumed to be an exogenous China 0.179** 0.029*
+w
+variable, as EMEs are generally price takers and β India 0.038*** 0.054*
+is the long-term price transmission elasticity in the Indonesia 0.355*** 0.082***
+presence of a long-run relationship. The short-term Thailand 0.933*** 0.040*
+price elasticity can be estimated from the error Turkey 0.055*** 0.130***
+correction model (ECM) of the following form: Note: ***, ** and * denote 1 per cent, 5 per cent and 10 per cent level
+of significance, respectively.
+Source: RBI staff estimates.
+All the transmission elasticities are positive and
+…(3)
+different from zero and short-run elasticities are
+Where Δ is the first difference operator, ECT is the
+lower than the long-run elasticities, barring for
+error correction term, φ and γ are the short-term
+Turkey and India. The short-run price transmission
+transmission elasticities and ρ is the persistence
+elasticity for food price in India is 0.05, implying
+parameter.
+that if world food price increases by one per cent,
+Against this backdrop, the pass-through of changes
+food CPI in India could increase by five basis points.
+in world food prices to domestic food prices was
+To summarise, volatile food prices pose a
+examined for six EMEs, viz., Brazil, China, India,
+significant policy challenge across the world and
+Indonesia, Thailand and Turkey as these countries
+have implications for domestic inflation in EMEs,
+have a high share of food items in their consumer
+especially those having high share of food imports.
+price indices (Sahoo et al., 2019). Using monthly
+data from January 2007 to July 2019, it was found References:
+that each of the variables, viz., global food price
+Ardeni, P. G. (1989), “Does the Law of One Price
+index, country-specific food price indices and
+Really Hold for Commodity Prices?”, American
+exchange rates are integrated of order one, i.e., Journal of Agricultural Economics, 71(3), Vol. 71,
+I(1). Therefore, the existence of a cointegrating no. 3, pp. 661-669.
+relationship was examined through vector error
+Barahona, J. F. and W. Chulaphan (2017), “Price
+correction model (VECM). The lag length of each
+Transmission between World Food Prices and
+model was based on Akaike Information Criteria
+Different Consumer Food Price Indices in Thailand”,
+(AIC). The estimated VECM model for each country
+Kasetsart Journal of Social Sciences, Available
+confirms that residuals are not serially correlated.
+online at: https://www.sciencedirect.com/science/
+The estimated short-run and long-run transmission article/pii/S2452315117300206?via%3Dihub.
+elasticities reveal that the magnitude of price
+Sahoo, S., S. Kumar and B. Gupta (2019),
+transmission from world food prices to domestic “International Food Prices – Pass-through to EMEs”,
+food prices differs across countries (Table V.1.1). Reserve Bank of India (Mimeo).
+
+Monetary Policy Report October 2019
+of inflation to levels of resource utilisation V.3 Monetary Policy Stance
+remains low. However, it registered a modest uptick
+Monetary policy has become accommodative across
+in July on recovering energy prices. While core
+major AEs and EMEs. The US Fed has reduced its
+personal consumption expenditure (PCE) – the Fed’s
+policy rate twice since July 2019 on concerns over
+preferred measure of inflation – has been picking
+lingering trade uncertainties and muted inflationary
+up since June, it remains below the US Fed’s 2 per
+pressures (Chart V.6a). The European Central Bank
+cent target. In the Euro area, inflationary pressures
+(ECB) reduced the interest rate on deposit facility
+have been easing on soft energy costs and weakening deeper into negative territory, while approving
+growth. In Japan, CPI inflation remained muted a fresh round of monetary stimulus in the form
+amidst falling food, transport and communication of bond purchases of 20 billion euros per month,
+prices (Chart V.5a). beginning from November 2019. Ebbing inflation,
+waning business confidence and fears of Germany
+Inflation has been easing in many EMEs. In Russia,
+sliding into recession prompted the ECB to unveil
+inflation edged lower since Q2 as consumer demand
+another round of quantitative easing. The ECB has
+remained weak, while easing supplies on a strong
+also indicated that rates will remain at present or
+harvest and appreciating ruble have added to
+lower levels until the inflation outlook converges to a
+disinflationary conditions. In Brazil, CPI inflation has
+level sufficiently close but below 2 per cent within its
+been falling since April on the back of soft food and
+projection horizon.
+fuel prices; however, it picked up marginally in August
+on rising housing and transport prices. In South Africa, The Bank of Japan (BoJ) continued with its ultra-loose
+inflation eased in July, after remaining steady in Q2 monetary policy on mounting downside risks to the
+on falling fuel prices. In August, however, it edged up economy and signalled a ramping up of stimulus if
+growth momentum loses further. The UK and Canada
+on rising food and housing prices. Inflation in Turkey,
+kept their policy rates unchanged, while South
+which has been ebbing since April, registered a sharp
+Korea kept its policy rate unchanged in August, after
+drop in June, driven by a favourable base effect and
+reducing it by 25 bps in its July meeting on concerns
+softening of food prices. In July, however, it showed
+over slowing growth.
+a slight uptick on high service prices resulting from
+increased municipal tariffs, before resuming its Central banks in EMEs have turned increasingly
+downward path in August (Chart V.5b). dovish in sync with their AE counterparts on easing
+
+Chapter V External Environment
+inflation conditions and weakening economic other EMEs, Turkey slashed its policy rate by 425 bps
+outlook. Among the BRICS, the People’s Bank of and 325 bps in July and September, respectively,
+China (PBOC) continued with its loose monetary exceeding market expectations, as the improving
+policy stance, while indicating potential policy inflation outlook provided more space for policy
+adjustments, going forward, as the domestic situation easing. The Philippines reduced its policy rate for the
+warrants. Moreover, with the aim of stimulating the third time in 2019 in its September meeting with a
+economy via ample liquidity conditions, the PBOC view to reviving business investment and supporting
+provided liquidity support to small and medium sized slowing economy. Mexico reduced its policy rate in
+banks by increasing rediscount quota and standing September, making it the second consecutive cut
+lending facility to RMB 200 billion and RMB 100 since August. Chile has reduced its policy rate twice
+billion, respectively, in June. In order to support the since June. Indonesia reduced its policy rate by 25
+development of the real economy and lower financing bps in its September meeting, making it the third
+costs, the PBOC lowered the required reserve ratio consecutive cut in Q3:2019, for boosting economic
+for financial institutions by 50 bps in September growth amidst low inflation (Chart V.6b).
+2019 (excluding finance companies, financial leasing
+V.4 Global Financial Markets
+companies and auto finance companies). In an effort to
+Financial markets remained volatile as sentiment was
+increase the support for micro and small businesses,
+repeatedly impacted by the still unfolding sequence of
+it has also decided to lower the required reserve ratio
+US tariff actions and lingering uncertainty surrounding
+by 50 bps each on October 15 and November 15, 2019
+Brexit. Global equity markets witnessed sharp sell-
+for rural commercial banks operating solely within
+offs in May reversing the gains till April. However,
+provincial administrative regions. Furthermore, it
+markets recouped most of the losses in June-July as
+reduced its loan prime rate for one year maturity by
+sentiment was buoyed by dovish guidance by major
+5 bps in its September meeting.
+central banks and renewed hopes of trade truce,
+Brazil cut its policy rate twice since July, attributing it before declining again in August as unresolved and
+to moderating inflationary pressures and weakening intensifying trade dispute triggered bearish sentiment.
+economic activity. Russia reduced its policy rate thrice In September, positive signals on trade negotiations
+in 2019 on falling inflation and weak demand. South buoyed investors’ risk appetite. Bond yields eased
+Africa held its policy rate in September, while reducing across major economies on safe haven demand, while
+it in July amidst ebbing inflation expectations. Among currency markets remained volatile.
+
+Monetary Policy Report October 2019
+Among AEs, US equities gained in June-July, after Weak South Korean equities following trade conflicts
+correcting in May, driven by resilient corporate with Japan, political unrest in Hong Kong, crash
+earnings data for Q1:2019 and rising expectations in Argentina’s financial markets and escalating
+of monetary policy easing by the Fed in the coming trade tensions pulled down EME stocks further in
+months. In August, while increasing risk-off sentiment August. However, some of the losses were recovered
+amidst intensifying trade tensions and growth worries subsequently as market sentiments were boosted
+led to large sell-offs, positive developments on the by postponement of tariff imposition and signals of
+trade front revived market sentiment in September, stimulus for the Chinese economy (Chart V.7).
+as a result of which equity markets recovered most of
+Bond yields have eased across major AEs and EMEs
+its losses suffered in August. In the Euro area, equity
+as investors looked for safe havens on waning risk
+markets tumbled in May in response to weak German
+appetite. US bond yields softened in May, after
+data. However, they remained supported in June-July
+picking up in April on better GDP data for Q1. They
+on expectations of monetary policy accommodation
+have declined sharply since then, even falling below 2
+by the ECB and positive developments in earning
+per cent in August amidst heightened trade tensions
+expectations for non-financial corporations.
+and dovish stance of the US Fed. A sharp fall in
+Nonetheless, markets ended August on a soft note as
+long-term yields has led to a negative yield spread
+growth worries resurfaced on weak German data and
+between 10-year and 3-month Treasury securities, as
+political turmoil in Italy. Japanese equity markets
+addressed in Box I.1 in chapter I.
+also firmed up in June-July after correcting in May.
+Markets maintained an uptrend in July as trade In the Euro area, bond yields plunged into negative
+concerns receded, though they plunged in the middle territory in most of its constituent economies as
+of the month on appreciation of the Yen and concerns expectations of dovish monetary policy stance by the
+over deteriorating performance of some export- ECB gained traction, amidst a weakening economic
+oriented companies. Equity markets in AEs entered
+outlook. Lacklustre data for Germany and political
+September on a positive note as global investors’
+uncertainties in Italy added further downward
+sentiment was lifted on reduced tensions in Hong
+pressure. In Japan, bond yields continued to trade in
+Kong and renewed hopes of trade negotiations.
+negative territory on subdued risk appetite. In most
+Stock markets in EMEs fell as the strong US dollar EMEs, bond yields have been falling, with central
+acted as a headwind leading to capital outflows. banks becoming highly accommodative as benign
+
+Chapter V External Environment
+inflation has freed up policy space to boost slackening dollar and mounting spillover risks arising from trade
+economic growth (Chart V.8a). tensions. Between April and September 2019, the
+MSCI Emerging Market Currency Index declined by
+In currency markets, the US dollar weakened against
+2.0 per cent (Chart V.8b).
+major currencies in June on dovish guidance by the
+US Fed but it has rebounded since July, recouping V.5 Conclusion
+most of its losses made in Q1. Safe haven demand
+In sum, global economic activity continues to
+amidst weaker growth prospects in other AEs
+lose momentum as prolonged uncertainties
+also strengthened the US dollar. The euro lost
+relating to geo-political developments dampened
+ground against the US dollar as the economy lost
+economic sentiment. With inflationary pressures
+momentum, while higher probability of the ECB to
+remaining benign and market sentiment remaining
+stimulate the economy pulled the currency further
+down. The Japanese yen outperformed most of the fragile, risks to the global outlook remain on the
+major currencies as trade war induced uncertainties, downside. However, monetary and fiscal stimuli
+coupled with worsening global growth conditions, across the globe may help in containing the pace
+played up investors’ risk-off sentiments. Most of the of slowdown and putting the global economy on a
+EME currencies suffered losses against the strong US recovery path.
